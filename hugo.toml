@@ -1,0 +1,79 @@
+baseURL = 'https://baumert.me/'
+languageCode = 'en-us'
+title = 'Niklas Baumert'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "The personal website of Niklas Baumert. Containing posts about things that interest me. Tech, software, stories, photography."
+
+# Appearance settings
+theme = 'auto'
+#colorPalette = 'default'
+colorPalette = 'catpuccin'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hey'
+homeIntroContent = """
+I am Niklas Baumert, a European software engineer, adventurer, writer, and [photographer](https://photos.baumert.me).
+
+I'm currently employed with [SD Software-Design GmbH](https://software-design.de/).
+"""
+
+# Collection to display on home
+homeCollectionTitle = ''
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2006-01-02'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "Home"
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/baumertn/"
+
+
+[[params.social]]
+name = "github"
+url = "https://github.com/baumertn"
+
+# Main menu pages
+[[params.menu]]
+name = "Home"
+url = "/"
+
+[[params.menu]]
+name = "Now"
+url = "/now"
+
+[[params.menu]]
+name = "Posts"
+url = "/posts"
+
+[[params.menu]]
+name = "TIL"
+url = "/tags/today-i-learned/"
+
+[[params.menu]]
+name = "Gallery"
+url = "https://photos.baumert.me"
+newTab = true
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+
