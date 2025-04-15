@@ -19,7 +19,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hey'
 homeIntroContent = """
-I am Niklas Baumert, a European software engineer, adventurer, writer, and [photographer](https://photos.baumert.me).
+I am Niklas Baumert, a European [software engineer](/tags/tech), [adventurer](/tags/adventure), [writer](/tags/writing/), and [photographer](https://photos.baumert.me).
 
 I'm currently employed with [SD Software-Design GmbH](https://software-design.de/).
 """
@@ -70,6 +70,10 @@ url = "/tags/today-i-learned/"
 name = "Gallery"
 url = "https://photos.baumert.me"
 newTab = true
+
+[[params.menu]]
+name = "Library"
+url = "/library"
 
 # Syntax highlight on code blocks
 [markup]
