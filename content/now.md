@@ -16,20 +16,17 @@ draft = false
 +++
 
 <!--## Adventure-->
-## Music
-- I am trying to expand my musical palette. I lazily let ChatGPT generate me lists of the Top 10 albums per genre – larger genres only.
-  Currently, I'm _activly_ listening to Electornic.
+<!-- ## Music -->
 
 ## Reading
-- _The Burnout Society_ – Byung-Chul Han
+- _The Plague_ – Albert Camus
 
 For a complete list of what I've been reading check out the [library](/library).
 
-## Software
-- Improving my GO skills by building some internal company tooling
-- Dipping my toes into agent-based simulation.
+<!-- ## Software -->
 
 ## Writing
 - I'm currently doing some preliminary world-building for a soft-low-magic world. Might become a book?
+- "Writing" my first Pathfinder 2e adventure. Mostly some prep, not a lot of writing.
 
-This page has been updated on **2025-04-11**.
+This page has been updated on **2025-06-16**.

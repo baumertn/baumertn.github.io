@@ -16,13 +16,13 @@ draft = false
 +++
 
 This is a collection of all the books that I have read and remembered.
-It is a genre mix. Much fanyasy and scifi, but also non-fiction—mostly tech and "self-help".
+It is a genre mix. Much Fantasy and Sci-fi, but also non-fiction—mostly tech and "self-help".
 Also contains a few manga and comics.
+Some titles are in German, as I did read them in German.
 
 I have forgotten most of what I read here. Probably.
 
-Fun fact: Playing _The Witcher_ (I played the second title first, the original after) got me into reading.
-I didn't like it as a kid.
+Fun fact: Playing _The Witcher_  got me into reading as a kid I didn't like it (I played the second _The Witcher_ game first, the original after).
 
 ## Reading list
 Latest additions to the list are on top.
@@ -32,13 +32,10 @@ See what books from the list I'm currently reading on [/now](/now)!
 | Title                          | Author                | Note                                                    |
 |--------------------------------|-----------------------|---------------------------------------------------------|
 | Kreuzweg der Raben (Hexer, #9) | Andrzej Sapkowski     | Unreleased                                              |
-| The Burnout Society            | Byung-Chul Han        |                                                         |
-| The Dnagerous Life and Ideas of Dogenes the Cynic | Jean-Manuel Roubineau |                                      |
 | Dostrovesky: A Writer in His Time | Joseph Frank       |                                                         |
 | The Nicomachean Ethics         | Aristotle (Lesley Brown, David Ross)                                            |
 | Nonviolent Communication: A Language of Life | Marshall B. Rosenberg |                                           |
 | The Plague                     | Albert Camus          | I technically read this in high school. Long time ago   |
-| Deceit, Desire and the Novel   | René Girard           |                                                         |
 | Wind and Truth (The Stormlight Archive, #5) | Brandon Sanderson |                                                |
 | The Psychology of Money        | Morgan Housel         |                                                         |
 | Light Bringer (Red Rising Saga, #6) | Pierce Brown     |                                                         |
@@ -63,22 +60,22 @@ See what books from the list I'm currently reading on [/now](/now)!
 Looking at this list I'm sure you could picture a person. You might consider this person troubled.
 You might be right! But I know it's always easier to judge someone else, isn't it?
 
-Most of this data is an export from a now deleted Goodreads account. I tried to sort it by finished date.
+Most of this data is an export from a now deleted Goodreads account (everything pre 2024). I tried to sort it by finished date.
 If I "read" many books on the first of a given month, I most likely added just the month on Goodreads. Might fix it eventually.
 
-Some titles are in German, as I did read them in German.
 Some dates might be off, missing or just plain wrong.
 If I did read a book more than once, most likely the first date will be listed.
 
 There was a period of my life where I used Blinkist a lot. I _think_ I noted all cases where I "read" a book through Blinkist.
 I did enjoy it a lot more before the whole AI crazy began. I think they replaced most of their readers with AI
-and they summaries became worse. I don't have proof, but it's how I felt. I stopped using it completly in late 2024.
-
-Total: 550
+and their summaries became worse. I don't have proof, but it's how I felt. I stopped using it completely in late 2024.
 
 
 | Title                          | Author                | Finished on | Note                                                    |
 |--------------------------------|-----------------------|-------------|---------------------------------------------------------|
+| Deceit, Desire and the Novel   | René Girard           | 2025-06-20  |                                                         |
+| The Dangerous Life and Ideas of Dogenes the Cynic | Jean-Manuel Roubineau | 2025-05-09 |                                       |
+| The Burnout Society            | Byung-Chul Han        | 2025-04-12  |                                                         |
 | On Love                        | Stendhal              | 2025-04-11  | Available on [gutenberg.org](https://www.gutenberg.org/ebooks/53720) |
 | Models: Attract Women Through Honesty | Mark Manson    | 2025-04-04  | |
 | Frieren: Beyond Journey's End Volume 12 | Kanehito Yamada, Tsukasa Abe | 2025-03     | |
