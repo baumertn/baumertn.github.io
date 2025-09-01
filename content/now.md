@@ -19,14 +19,15 @@ draft = false
 <!-- ## Music -->
 
 ## Reading
-- _The Plague_ – Albert Camus
+- _Dostoevsky: A Writer in His Time_ – Joseph Frank. I want to read some of Dostoevsky's work and thought knowing more about him and his
+circumstances could be helpful in understanding the work.
 
 For a complete list of what I've been reading check out the [library](/library).
 
 <!-- ## Software -->
 
 ## Writing
-- I'm currently doing some preliminary world-building for a soft-low-magic world. Might become a book?
 - "Writing" my first Pathfinder 2e adventure. Mostly some prep, not a lot of writing.
+- Penning down some story ideas/inspirations.
 
-This page has been updated on **2025-06-16**.
+This page has been updated on **2025-09-01**.

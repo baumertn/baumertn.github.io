@@ -31,11 +31,18 @@ See what books from the list I'm currently reading on [/now](/now)!
 
 | Title                          | Author                | Note                                                    |
 |--------------------------------|-----------------------|---------------------------------------------------------|
+|  Beneath the Trees Where Nobody Sees | Patrick Horvath |                                                         |
+| The Cambridge Handbook of Personal Relationships |  Anita L. Vangelisti |                                        |
+| A Philosophy of Software Design | John Ousterhout      |                                                         |
+| Babbling Corpse                | Grafton Tanner        |                                                         |
+| Hacker's Delight               | Henry S. Warren       |                                                         |
+| The Mom Test                   | Rob Fitzpatrick       |                                                         |
+| Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin |                                                         |
+| The School of Essential Ingredients | Erica Bauermeister |                                                       |
+| A Canticle of Two Souls        | Steven Raaymakers     |                                                         |
+| Crime and Punishment           | Fyodor Dostoevsky     |                                                         |
 | Kreuzweg der Raben (Hexer, #9) | Andrzej Sapkowski     | Unreleased                                              |
 | Dostrovesky: A Writer in His Time | Joseph Frank       |                                                         |
-| The Nicomachean Ethics         | Aristotle (Lesley Brown, David Ross)                                            |
-| Nonviolent Communication: A Language of Life | Marshall B. Rosenberg |                                           |
-| The Plague                     | Albert Camus          | I technically read this in high school. Long time ago   |
 | Wind and Truth (The Stormlight Archive, #5) | Brandon Sanderson |                                                |
 | The Psychology of Money        | Morgan Housel         |                                                         |
 | Light Bringer (Red Rising Saga, #6) | Pierce Brown     |                                                         |
@@ -73,37 +80,17 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 
 | Title                          | Author                | Finished on | Note                                                    |
 |--------------------------------|-----------------------|-------------|---------------------------------------------------------|
+| A Silent Voice                 | Yoshitoki Ōima        | 2025-08-30  | Manga. Made me quite emotional.                         |
+| The Nicomachean Ethics         | Aristotle (Lesley Brown, David Ross)  | 2025-07-21 |                                          |
+| Nonviolent Communication: A Language of Life | Marshall B. Rosenberg | 2025-07-10  |                                           |
+| The Plague                     | Albert Camus          | 2025-06-29  | I technically read this in high school. Long time ago   |
 | Deceit, Desire and the Novel   | René Girard           | 2025-06-20  |                                                         |
 | The Dangerous Life and Ideas of Dogenes the Cynic | Jean-Manuel Roubineau | 2025-05-09 |                                       |
 | The Burnout Society            | Byung-Chul Han        | 2025-04-12  |                                                         |
 | On Love                        | Stendhal              | 2025-04-11  | Available on [gutenberg.org](https://www.gutenberg.org/ebooks/53720) |
 | Models: Attract Women Through Honesty | Mark Manson    | 2025-04-04  | |
-| Frieren: Beyond Journey's End Volume 12 | Kanehito Yamada, Tsukasa Abe | 2025-03     | |
-| Frieren: Beyond Journey's End Volume 11 | Kanehito Yamada, Tsukasa Abe | 2025-03     | |
-| Frieren: Beyond Journey's End Volume 10 | Kanehito Yamada, Tsukasa Abe | 2025-03     | |
-| Frieren: Beyond Journey's End Volume 9 | Kanehito Yamada, Tsukasa Abe | 2025-03     | |
-| Frieren: Beyond Journey's End Volume 8 | Kanehito Yamada, Tsukasa Abe | 2025-03     | |
-| Frieren: Beyond Journey's End Volume 7 | Kanehito Yamada, Tsukasa Abe | 2025-03     | |
-| Frieren: Beyond Journey's End Volume 6 | Kanehito Yamada, Tsukasa Abe | 2025-03     | |
-| Frieren: Beyond Journey's End Volume 5 | Kanehito Yamada, Tsukasa Abe | 2025-03     | |
-| Frieren: Beyond Journey's End Volume 4 | Kanehito Yamada, Tsukasa Abe | 2025-03     | |
-| Frieren: Beyond Journey's End Volume 3 | Kanehito Yamada, Tsukasa Abe | 2025-03     | |
-| Frieren: Beyond Journey's End Volume 2 | Kanehito Yamada, Tsukasa Abe | 2025-03     | |
-| Frieren: Beyond Journey's End Volume 1 | Kanehito Yamada, Tsukasa Abe | 2025-03     | I watched the first season of the anime first and got hooked |
-| Delicious in Dungeon Volume 14 | Ryoko Kui             | 2025-02     | |
-| Delicious in Dungeon Volume 13 | Ryoko Kui             | 2025-02     | |
-| Delicious in Dungeon Volume 12 | Ryoko Kui             | 2025-02     | |
-| Delicious in Dungeon Volume 11 | Ryoko Kui             | 2025-02     | |
-| Delicious in Dungeon Volume 10 | Ryoko Kui             | 2025-02     | |
-| Delicious in Dungeon Volume 9  | Ryoko Kui             | 2025-02     | |
-| Delicious in Dungeon Volume 8  | Ryoko Kui             | 2025-02     | |
-| Delicious in Dungeon Volume 7  | Ryoko Kui             | 2025-02     | |
-| Delicious in Dungeon Volume 6  | Ryoko Kui             | 2025-02     | |
-| Delicious in Dungeon Volume 5  | Ryoko Kui             | 2025-02     | |
-| Delicious in Dungeon Volume 4  | Ryoko Kui             | 2025-02     | |
-| Delicious in Dungeon Volume 3  | Ryoko Kui             | 2025-02     | |
-| Delicious in Dungeon Volume 2  | Ryoko Kui             | 2025-02     | |
-| Delicious in Dungeon Volume 1  | Ryoko Kui             | 2025-02     | I watched the first season of the anime first and got hooked |
+| Frieren: Beyond Journey's End Volume 1–12 | Kanehito Yamada, Tsukasa Abe | 2025-03     | I watched the first season of the anime first and got hooked |
+| Delicious in Dungeon Volume 1–14 | Ryoko Kui             | 2025-02    | I watched the first season of the anime first and got hooked |
 | The Great Mental Models, Volume 4| Shane Parrish, Rhiannon Beaubien | 2024-11 | |
 | Critique of Pure Reason        | Immanuel Kant         | 2024-10     | audio summary from Blinkist |
 | Meditations on First Philosophy | René Descartes       | 2024-09     | audio summary from Blinkist |
