@@ -1,7 +1,7 @@
 +++
 title = 'What Niklas is doing now'
 date = 2025-03-27
-lastmod = 2025-04-11
+lastmod = 2025-12-20
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = false
@@ -16,18 +16,20 @@ draft = false
 +++
 
 <!--## Adventure-->
-<!-- ## Music -->
+## Music
+- "Cutting the cord". Migrating from streaming to owning my music collection once again.
 
 ## Reading
-- _Dostoevsky: A Writer in His Time_ – Joseph Frank. I want to read some of Dostoevsky's work and thought knowing more about him and his
-circumstances could be helpful in understanding the work.
+- _Made in Abyss_ – Tsukushi Akihito.
 
 For a complete list of what I've been reading check out the [library](/library).
 
-<!-- ## Software -->
+## Software
+- Exploring [Exlixir](https://exlixir.com/) with [Phoenix](https://phoenixframework.org/) for web development. Very early stages, though!
+- With the end of Windows 10 support and the holidays coming up, I'm going to set up openSUSE Tumbleweed on my gaming PC.
 
 ## Writing
 - "Writing" my first Pathfinder 2e adventure. Mostly some prep, not a lot of writing.
 - Penning down some story ideas/inspirations.
 
-This page has been updated on **2025-09-01**.
+This page has been updated on **2025-12-20**.

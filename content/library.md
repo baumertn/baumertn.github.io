@@ -1,7 +1,7 @@
 +++
 title = 'Library'
 date = 2025-04-11
-lastmod = 2025-04-11
+lastmod = 2025-12-20
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -31,7 +31,7 @@ See what books from the list I'm currently reading on [/now](/now)!
 
 | Title                          | Author                | Note                                                    |
 |--------------------------------|-----------------------|---------------------------------------------------------|
-|  Beneath the Trees Where Nobody Sees | Patrick Horvath |                                                         |
+| Beneath the Trees Where Nobody Sees | Patrick Horvath |                                                         |
 | The Cambridge Handbook of Personal Relationships |  Anita L. Vangelisti |                                        |
 | A Philosophy of Software Design | John Ousterhout      |                                                         |
 | Babbling Corpse                | Grafton Tanner        |                                                         |
@@ -42,7 +42,6 @@ See what books from the list I'm currently reading on [/now](/now)!
 | A Canticle of Two Souls        | Steven Raaymakers     |                                                         |
 | Crime and Punishment           | Fyodor Dostoevsky     |                                                         |
 | Kreuzweg der Raben (Hexer, #9) | Andrzej Sapkowski     | Unreleased                                              |
-| Dostrovesky: A Writer in His Time | Joseph Frank       |                                                         |
 | Wind and Truth (The Stormlight Archive, #5) | Brandon Sanderson |                                                |
 | The Psychology of Money        | Morgan Housel         |                                                         |
 | Light Bringer (Red Rising Saga, #6) | Pierce Brown     |                                                         |
@@ -77,9 +76,19 @@ There was a period of my life where I used Blinkist a lot. I _think_ I noted all
 I did enjoy it a lot more before the whole AI crazy began. I think they replaced most of their readers with AI
 and their summaries became worse. I don't have proof, but it's how I felt. I stopped using it completely in late 2024.
 
+On 2025-12-20 I've decided to split the list into sections by year.
 
+### 2025
 | Title                          | Author                | Finished on | Note                                                    |
 |--------------------------------|-----------------------|-------------|---------------------------------------------------------|
+| My Broken Mariko               | Waka Hirako           | 2025-12-16  | |
+| Goodnight, Pun Pun             | Inio Asano            | 2025-11-28  | |
+| A Bride's Story (Vol. 1–14)    | Kaoru Mori            | 2025-11-13  | |
+| Blame!                         | Tsutomu Nihei         | 2025-10-17  | |
+| All You Needs Is Kill          | Hiroshi Sakurazaka, Ryousuke Takeuchi, Takeshi Obata | 2025-10-05 | |
+| Mushishi                       |  Yuki Urushibara      | 2025-09-29  | |
+| solanin                        | Inio Asano            | 2025-09-21  | |
+| Dostrovesky: A Writer in His Time | Joseph Frank       | 2025-09-04  | ||
 | A Silent Voice                 | Yoshitoki Ōima        | 2025-08-30  | Manga. Made me quite emotional.                         |
 | The Nicomachean Ethics         | Aristotle (Lesley Brown, David Ross)  | 2025-07-21 |                                          |
 | Nonviolent Communication: A Language of Life | Marshall B. Rosenberg | 2025-07-10  |                                           |
@@ -91,6 +100,10 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 | Models: Attract Women Through Honesty | Mark Manson    | 2025-04-04  | |
 | Frieren: Beyond Journey's End Volume 1–12 | Kanehito Yamada, Tsukasa Abe | 2025-03     | I watched the first season of the anime first and got hooked |
 | Delicious in Dungeon Volume 1–14 | Ryoko Kui             | 2025-02    | I watched the first season of the anime first and got hooked |
+
+### 2024
+| Title                          | Author                | Finished on | Note                                                    |
+|--------------------------------|-----------------------|-------------|---------------------------------------------------------|
 | The Great Mental Models, Volume 4| Shane Parrish, Rhiannon Beaubien | 2024-11 | |
 | Critique of Pure Reason        | Immanuel Kant         | 2024-10     | audio summary from Blinkist |
 | Meditations on First Philosophy | René Descartes       | 2024-09     | audio summary from Blinkist |
@@ -133,6 +146,10 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 | Practical Ethics               | Peter Singer          | 2024-01     | |
 | How to Enjoy Your Life and Your Job | Dale Carnegie    | 2024-01     | |
 | Powered by Me                  | Neha Sangwan          | 2024-01     | |
+
+### 2023
+| Title                          | Author                | Finished on | Note                                                    |
+|--------------------------------|-----------------------|-------------|---------------------------------------------------------|
 | The 5 Resets                   | Aditi Nerurkar        | 2023-12     | |
 | Reversing Alzheimer's          | Heather Sandison      | 2023-12     | audio summary from Blinkist |
 | The Power of When              | Michael Breus         | 2023-12     | |
@@ -222,6 +239,10 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 | The 5am Club | Robin Sharma | 2023-01-03 | |
 | How to Win Friends and Influence People in the Digital Age (Dale Carnegie Books) | Dale Carnegie | 2023-01-03 | |
 | Vinland Saga Omnibus, Vol. 12 | Makoto Yukimura | 2023-01-02 | |
+
+### 2022
+| Title                          | Author                | Finished on | Note                                                    |
+|--------------------------------|-----------------------|-------------|---------------------------------------------------------|
 | Vinland Saga Omnibus, Vol. 11 | Makoto Yukimura | 2022-12-27 | |
 | Vinland Saga Omnibus, Vol. 10 | Makoto Yukimura | 2022-12-26 | |
 | Vinland Saga Omnibus, Vol. 9 | Makoto Yukimura | 2022-12-25 | |
@@ -250,6 +271,10 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 | Jade Legacy (The Green Bone Saga, #3) | Fonda Lee | 2022-02-10 | |
 | Jade War (The Green Bone Saga, #2) | Fonda Lee    | 2022-01 | |
 | Working Effectively with Legacy Code | Michael C. Feathers | 2022-01-24 | |
+
+### 2021
+| Title                          | Author                | Finished on | Note                                                    |
+|--------------------------------|-----------------------|-------------|---------------------------------------------------------|
 | Leviathan Falls (The Expanse, #9) | James S.A. Corey | 2021-12-14 | |
 | Cytonic (Skyward, #3) | Brandon Sanderson | 2021-11-30 | |
 | Implementing the Clean Architecture | Sebastian Buczyński | 2021-11-14 | |
@@ -300,6 +325,10 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 | Range: Why Generalists Triumph in a Specialized World | David   Epstein | 2021-01-06 | |
 | BEASTARS 21 | Paru Itagaki | 2021-01-01 | |
 | BEASTARS 22 | Paru Itagaki | 2021-01-01 | |
+
+### 2020
+| Title                          | Author                | Finished on | Note                                                    |
+|--------------------------------|-----------------------|-------------|---------------------------------------------------------|
 | The Poppy War (The Poppy War, #1) | R.F. Kuang | 2020-12-25 | |
 | The Shadow of Kyoshi (The Kyoshi Novels, #2) | F.C. Yee | 2020-12-12 | |
 | The Rise of Kyoshi (The Kyoshi Novels, #1) | F.C. Yee | 2020-12-08 | |
@@ -386,6 +415,10 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 | The Deep | Rivers Solomon | 2020-01-14 | |
 | Fool Moon (The Dresden Files, #2) | Jim  Butcher | 2020-01-10 | |
 | The Way of Kings (The Stormlight Archive, #1) | Brandon Sanderson | 2020-01-03 | |
+
+### 2019
+| Title                          | Author                | Finished on | Note                                                    |
+|--------------------------------|-----------------------|-------------|---------------------------------------------------------|
 | The Culture Code: The Secrets of Highly Successful Groups | Daniel Coyle | 2019-12-25 | |
 | Essentialism: The Disciplined Pursuit of Less | Greg McKeown | 2019-12-19 | Read twice |
 | Storm Front (The Dresden Files, #1) | Jim  Butcher | 2019-12-14 | |
@@ -460,6 +493,10 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 | Just Listen: Discover the Secret to Getting Through to Absolutely Anyone | Mark Goulston | 2019-01-15 | Read twice |
 | A Shadow in Summer (Long Price Quartet, #1) | Daniel Abraham | 2019-01-06 | |
 | The Power Of Less: The Fine Art of Limiting Yourself to the Essential | Leo Babauta | 2019-01-04 | |
+
+### Earlier
+| Title                          | Author                | Finished on | Note                                                    |
+|--------------------------------|-----------------------|-------------|---------------------------------------------------------|
 | Sleeping Giants (Themis Files, #1) | Sylvain Neuvel | 2018-12-23 | |
 | Six Pillars of Self-Esteem | Nathaniel Branden | 2018-12-18 | |
 | Vicious (Villains, #1) | Victoria E. Schwab | 2018-12-14 | |
