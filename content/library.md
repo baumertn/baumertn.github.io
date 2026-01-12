@@ -25,42 +25,42 @@ I have forgotten most of what I read here. Probably.
 Fun fact: Playing _The Witcher_  got me into reading as a kid I didn't like it (I played the second _The Witcher_ game first, the original after).
 
 ## Reading list
-Latest additions to the list are on top.
-
 See what books from the list I'm currently reading on [/now](/now)!
 
 | Title                          | Author                | Note                                                    |
 |--------------------------------|-----------------------|---------------------------------------------------------|
-| Beneath the Trees Where Nobody Sees | Patrick Horvath |                                                         |
-| The Cambridge Handbook of Personal Relationships |  Anita L. Vangelisti |                                        |
-| A Philosophy of Software Design | John Ousterhout      |                                                         |
-| Babbling Corpse                | Grafton Tanner        |                                                         |
-| Hacker's Delight               | Henry S. Warren       |                                                         |
-| The Mom Test                   | Rob Fitzpatrick       |                                                         |
-| Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin |                                                         |
-| The School of Essential Ingredients | Erica Bauermeister |                                                       |
 | A Canticle of Two Souls        | Steven Raaymakers     |                                                         |
-| Crime and Punishment           | Fyodor Dostoevsky     |                                                         |
-| Kreuzweg der Raben (Hexer, #9) | Andrzej Sapkowski     | Unreleased                                              |
-| Wind and Truth (The Stormlight Archive, #5) | Brandon Sanderson |                                                |
-| The Psychology of Money        | Morgan Housel         |                                                         |
-| Light Bringer (Red Rising Saga, #6) | Pierce Brown     |                                                         |
-| Designing Data-Intensive Applications | Martin Kleppmann |                                                       |
-| On Writing Well: The Classic Guide to Writing Nonfiction | William Zinsser |                                     |
-| System Collapse (The Murderbot Diaries, #7) | Martha Wells |                                                     |
-| The Bright Ages: A New History of Medieval Europe | Matthew Gabriele |                                           |
-| Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera | Bryan Peterson |          |
+| A Philosophy of Software Design | John Ousterhout      |                                                         |
 | Asunder (Dragon Age, #3)       | David Gaider          |                                                         |
-| Gardens of the Moon (Malazan Book of the Fallen, #1) | Steven Erikson |                                          |
+| Babbling Corpse                | Grafton Tanner        |                                                         |
+| Beneath the Trees Where Nobody Sees | Patrick Horvath  |                                                         |
+| Best Served Cold               | Joe Abercrombie       |                                                         |
+| Book of Night                  | Holly Black           |                                                         |
+| Crime and Punishment           | Fyodor Dostoevsky     |                                                         |
+| Designing Data-Intensive Applications | Martin Kleppmann |                                                       |
+| Emma                           | Mori Kaoru            | Manga                                                   |
+| Gardens of the Moon            | Steven Erikson        | Malazan Book of the Fallen, #1                          |
+| Hacker's Delight               | Henry S. Warren       |                                                         |
+| Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                                               |
+| Light Bringer                  | Pierce Brown          | Red Rising Saga, #6                                     |
 | Meat-free Mexican: Vibrant Vegetarian Recipes | Thomasina Miers |                                                |
-| The Silent Grove (Dragon Age Graphic Novels #1) | David Gaider |                                                 |
-| Book of Night (Book of Night, #1) | Holly Black        |                                                         |
-| Best Served Cold              | Joe Abercrombie        |                                                         |
-| Untitled (The Murderbot Diaries, #9) | Martha Wells    | Unreleased                                              |
-| Untitled (The Murderbot Diaries, #8) | Martha Wells    | Unreleased                                              |
-| Mirror Mirror (The Dresden Files, #19) | Jim  Butcher  | Unreleased                                              |
-| Untitled (Six of Crows, #3)   | Leigh Bardugo          | Unreleased                                              |
+| On Writing Well: The Classic Guide to Writing Nonfiction | William Zinsser |                                     |
+| Platform Decay                | Martha Wells           | The Murderbot Diaries, #8, Unreleased                   |
+| Sunny                         | Matsumoto Taiyou       | Manga                                                   |
+| System Collapse               | Martha Wells           | The Murderbot Diaries, #7                               |
+| The Apothecary Diaries        | Hyuuga Natsu, Nanao Itsuki | Manga                                               |
+| The Bright Ages: A New History of Medieval Europe | Matthew Gabriele |                                           |
+| The Cambridge Handbook of Personal Relationships |  Anita L. Vangelisti |                                        |
+| The Mom Test                  | Rob Fitzpatrick       |                                                          |
+| The Psychology of Money       | Morgan Housel         |                                                          |
+| The School of Essential Ingredients | Erica Bauermeister |                                                       |
+| The Silent Grove              | David Gaider          | Dragon Age Graphic Novels #1                             |
+| Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin |                                                         |
+| Twelve Months                  | Jim  Butcher          | The Dresden Files, #18, Unreleased                      |
+| Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera | Bryan Peterson |          |
 | Victorious (Villains, #3)     | Victoria E. Schwab     | Unreleased                                              |
+| Wind and Truth (The Stormlight Archive, #5) | Brandon Sanderson |                                                |
+| Witch Hat Atelier             | Shirahama Kamome       | Manga |
 
 ## Finished books
 Looking at this list I'm sure you could picture a person. You might consider this person troubled.
@@ -78,17 +78,25 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 
 On 2025-12-20 I've decided to split the list into sections by year.
 
+### 2026
+| Title                          | Author                | Finished on | Note                                                    |
+|--------------------------------|-----------------------|-------------|---------------------------------------------------------|
+| The Gods Lie                   | Ozaki Kaori           | 2026-01-11  |                                                         |
+| March Comes in Like a Lion     | Umino Chica           | 2026-01-04  | Read up to chapter 32 (latest as of 2026-01)            |
+| Historié                       | Hitoshi Iwaaki        | 2026-01-02  | On hiatus. Read up to chapter 65 (latest as of 2026-01) |
+
 ### 2025
 | Title                          | Author                | Finished on | Note                                                    |
 |--------------------------------|-----------------------|-------------|---------------------------------------------------------|
-| My Broken Mariko               | Waka Hirako           | 2025-12-16  | |
-| Goodnight, Pun Pun             | Inio Asano            | 2025-11-28  | |
-| A Bride's Story (Vol. 1–14)    | Kaoru Mori            | 2025-11-13  | |
-| Blame!                         | Tsutomu Nihei         | 2025-10-17  | |
-| All You Needs Is Kill          | Hiroshi Sakurazaka, Ryousuke Takeuchi, Takeshi Obata | 2025-10-05 | |
-| Mushishi                       |  Yuki Urushibara      | 2025-09-29  | |
-| solanin                        | Inio Asano            | 2025-09-21  | |
-| Dostrovesky: A Writer in His Time | Joseph Frank       | 2025-09-04  | ||
+| House of Five Leaves           | Ono Natsume           | 2025-12-31  |                                                         |
+| My Broken Mariko               | Waka Hirako           | 2025-12-16  |                                                         |
+| Goodnight, Pun Pun             | Inio Asano            | 2025-11-28  |                                                         |
+| A Bride's Story (Vol. 1–14)    | Kaoru Mori            | 2025-11-13  | Vol. 15 not released as of 2025-11                      |
+| Blame!                         | Tsutomu Nihei         | 2025-10-17  |                                                         |
+| All You Needs Is Kill          | Hiroshi Sakurazaka, Ryousuke Takeuchi, Takeshi Obata | 2025-10-05 |                           |
+| Mushishi                       |  Yuki Urushibara      | 2025-09-29  |                                                         |
+| solanin                        | Inio Asano            | 2025-09-21  |                                                         |
+| Dostrovesky: A Writer in His Time | Joseph Frank       | 2025-09-04  |                                                         |
 | A Silent Voice                 | Yoshitoki Ōima        | 2025-08-30  | Manga. Made me quite emotional.                         |
 | The Nicomachean Ethics         | Aristotle (Lesley Brown, David Ross)  | 2025-07-21 |                                          |
 | Nonviolent Communication: A Language of Life | Marshall B. Rosenberg | 2025-07-10  |                                           |
@@ -97,7 +105,7 @@ On 2025-12-20 I've decided to split the list into sections by year.
 | The Dangerous Life and Ideas of Dogenes the Cynic | Jean-Manuel Roubineau | 2025-05-09 |                                       |
 | The Burnout Society            | Byung-Chul Han        | 2025-04-12  |                                                         |
 | On Love                        | Stendhal              | 2025-04-11  | Available on [gutenberg.org](https://www.gutenberg.org/ebooks/53720) |
-| Models: Attract Women Through Honesty | Mark Manson    | 2025-04-04  | |
+| Models: Attract Women Through Honesty | Mark Manson    | 2025-04-04  |                                                         |
 | Frieren: Beyond Journey's End Volume 1–12 | Kanehito Yamada, Tsukasa Abe | 2025-03     | I watched the first season of the anime first and got hooked |
 | Delicious in Dungeon Volume 1–14 | Ryoko Kui             | 2025-02    | I watched the first season of the anime first and got hooked |
 
