@@ -71,48 +71,145 @@ But with this all said, let me get started with my system.
 
 
 ## Step 0: Create a quick backup
-- Pirate
-- Ease the transition. Tried to own before but failed because streaming was still avaiable.
-- Ehtically it may be argued against it. If it's a problem, then don't do it.
+I tried owning all my music before, but failed in the transition period as I couldn't listen to all the
+music I wnated to without streaming, as buying and ripping CDs is a time consuming process.
+Therefore, I kept my subscription going and then just fell back into the old pattern streaming instead of buying.
+
+This time I needed a way to bridge the transition period quickly. The solution for me was simple: start by priating the music and then make the library legit step by step.
+
+I understand that this might be unethical to you, and that's fine. But that was the best solution that I knew to make the transition work.
+If you don't want or need to do this, then don't!
+
+Since I was using YouTube Music it is very easy to rip it. You can use bare-bones tools like [youtube-dl](https://github.com/ytdl-org/youtube-dl) or it's slightly more advanced fork [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+but you will need to do a lot of manual work the get these files into a nice format with tags etc.
+
+I used [Glomatico's YouTube Music Downloader](https://github.com/glomatico/gytmdl) (gytmdl for short) to achieve this.
+Thanks to the still running YouTube Premium subscription I was able to get slightly higher quality downloads.
+
+A nice benefit of this method is, that it does a pretty good job at tagging the files and it downloads the lyrics if available. Neat!
+
+With all of that said, it is crucial to not stop at this point. Then you've done nothing but enriching your own life and not been giving back to the artists.
+That's what we're going to prepare next.
+
 
 ## Step 1: Create a plan
 - Table to list where the music is avaiable for how much
 - You don't have to do this if you don't want to
 - Might make Qobuz Sublime attractive. Otherwise I wouldn't recommend it at all.
+- Know your habbits.
+
+Firstly, you need to know how you're consuming your music. If you're only every listening through your phone speakers or bluetooth devices, high resolution music will be a waste of money.
+Even if you have a decent speaker system, you might not need to by high resolution music.
+
+If you buy standard quality music it will be cheaper and most likely MP3, which basically every device under the sun can play.
+Just look out for the "bitrate" of the MP3 files. Ideally you want 320kbps, that is the highest quality MP3.
+
+I created a simple spreadsheet in the following format:
+
+| Album | Qobuz High Quality | Qobuz HQ Sublime | Qobuz Standard |
+| ----- | ------------------ | -----------------| -------------- |
+
+Based on this, yo can decide if Qobuz Sublime is worth it for you. That subscription is 200€ per year in Germany. If you save based on this table, go for it.
+
+Side note: I recommend to immediately cancel your subscription so it isn't going to renew.
+
 
 ## Step 2: Buying
-- Mention buying order: bandcamp, Qobuz, iomoio, physical disks, back to the high seas
+Now let us take a look at the different ways to buy music.
 
-### bancamp.com
-- Great percentage for artists
-- Not all music available
-- unclear how it works with labels selling on bandcamp
-- high quality
-- often pay what you want (with minimum price), so you can give more to the artists you like
+I'll mostly be talking about digital download stores where you can buy to own the music.
+For that we'll take a look at these services:
+- [Bandcamp](https://bandcamp.com/)
+- [Qobuz](https://www.qobuz.com/)
+- [iomoio](https://www.iomoio.com/)
+- [7digital](https://www.7digital.com/)
+- [HDTracks](https://www.hdtracks.com/)
 
-### Qobuz.com/shop
-- Large selection of music
-- offers "CD" (standard) and "High" quality.
-- Not everything is in high quality
-- high quality quite expensive
-- Sublime sub might be worht it
 
-### iomoio.com
-- _Very_ cheap because they are outside of the US.
-- MP3 only. CD quality or lower.
-- Quality might not matter to you
-- Often offers sales where songs can be as cheap as 0.10 cents.
+If you only care about the cheapest price, I'll start with an example. The album _Wake Up The Wicked (Deluxe Version)_ by Powerwolf.
 
-### Phisical disks
-- New disks are similarly priced to high quality albums on Qobuz.
-- Used disks are very cheap! But you sometimes have to get lucky, wait for something to be available.
-- You need to do the ripping yourself.
+At the time of writing (2026-01-04) these are the prices on different stores:
+
+| Service  | High Res? | Price (€) | Notes |
+| -------- | --------- | --------- | ----- |
+| CD       | N/A       |     26.99 | Physical CD from the official store |
+| Bandcamp | Yes       |     14.91 | |
+| Qobuz    | Yes       |     25.29 | |
+| Qobuz    | No        |     21.99 | |
+| HDTracks | Yes       |     17.89 | Prices only in USD, so might vary |
+| 7digital | Yes       |      8.49 | |
+| 7digital | No        |      7.19 | |
+| iomoio   | No        |      4.65 | |
+
+From this you can see that the high res _Qobuz_ price is nearly the same as the price of the physical CD.
+
+
+### Download Stores
+
+#### bancamp.com
+_Bandcamp_ advertises itself as a place that cares about the artists.
+They take only [10–15% fee on purchases](https://get.bandcamp.help/hc/en-us/articles/23020665520663-What-are-Bandcamp-s-fees).
+
+For this reason, _Bandcamp_ is my first choice when I look for music.
+They also offer a "pay-what-you-want" model, where the artists can set a minimum price (which could be 0€) and you can pay more.
+
+The music is usually available in very high quality, but this can depend on the artist. But if something is laking quality, you can try to reach out to the artist and they might add it afterwards (which will be available to you as well).
+
+The only thing I'm not sure about is the pay for artists when the whole label is on _Bandcamp_. That's the case with our example _Powerwolf_.
+
+#### Qobuz.com/shop
+_Qobuz_ is both a streaming service and a download store. My impression is that they offer bascially all the mainstream music.
+You might not find some niche artists here.
+
+They offer standard and high res music but noth every album is available in high res. As you saw above, the prices are pretty high.
+
+One special feature _Qobuz_ offers is their _sublime_ subscription. At the time of writing this is 200€ per year in Germany
+and it offers up to 60% off on some high res purchases.
+
+I personally don't find this subscription worth it. For the 200€ alone I'd get a lot of high quality music on other platforms.
+But you might want to check the math for yourself.
+
+#### iomoio.com
+Each track costs 0.14€ and is in MP3. According to their FAQ that's because they are a [company and licensing authority [that] is located outside U.S. area and [they] do not have to follow $0.99/track minimum regulations.](https://www.iomoio.com/help.html#q24)
+
+They have frequent sales where you can get songs for as cheap as 0.10€ (from what I've seen at least one per quarter).
+
+If you don't care for high quality, this platform is the best choice.
+
+But be cautious, while most MP3 files have a bitrate of 320kbps, some are lower. The actual bitrate is always listed. I'd personally only recommend 320kkps.
+
+#### 7digital.com
+This site I have not tried yet. But I've heard it recommended by quite a few people.
+
+They offer standard and high-res quality music similar to _Qobuz_. But their pricing is very competetive with even _iomoio_!
+But I don't know if they offer high-res for every release.
+
+#### HDTracks.com
+Another site that I have not used myself, but heard recommended as well.
+
+The bigest difference for me is that they only seem to show prices in USD. This means you'll need to consider the exchange rate and may have to pay extra when buying in other currencies.
+Therefore, I am only listing this for completeness.
+
+### Physical disks
+CDs are the classic way to buy music.
+
+New disks can be quite expensive – similarly priced to the high quality albums on _Qobuz_.
+But used CDs can be a steal! Flea markets or second hand stores, both physically and online, will offer you the best prices.
+If you are looking for a specific artist or album, you might have to wait a while for it to be available – or just be lucky.
+
+The only downside with CDs is that you need to rip them yourself and then tag the files. Oh, and you will need a CD drive.
 
 ### Back to the High Seas
-- If I can not find (current) music for a reasonable price, I'll pirate it.
-- Example: Only avaiable as CD but not in my country. Import is 80€ or more for a simple CD ⇒ I consider this not reasonably available in my country.
-- As before, if you think it's unethical, then don't do it.
-- refer back to [Step 0](#step-0-create-a-quick-backup) for one way to do this. Other ways are possible with quick online searches.
+Lastly, you might need to pirate some music. Again, if you think it is unethical, then you don't have to do it.
+
+My requirements for me to pirate music are:
+ - The album is not available in my country or the EU.
+ - The album is only available as an import that is rediculously expensive (I've seen 80€ for a simple CD that is actually costs only the equivalent of 20€).
+   For me this means that the importer is having a nice payday.
+
+That's it. But I have to say that I've not needed to do it yet.
+
+If you need guidance, refer back to [Step 0](#step-0-create-a-quick-backup) for one way to do this. Other ways are available with an online search as well, just stay safe and don't get a virus or something.
 
 ## Step 3: Organizing
 - Mention beets
