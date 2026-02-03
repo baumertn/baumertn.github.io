@@ -21,7 +21,7 @@ homeIntroTitle = 'Hey'
 homeIntroContent = """
 I am Niklas Baumert, a European [software engineer](/tags/tech), [adventurer](/tags/adventure), [writer](/tags/writing/), and [photographer](https://photos.baumert.me).
 
-I'm currently employed with [SD Software-Design GmbH](https://software-design.de/) as a full-stack engineer (Python/Django, TypeScript) and DevOps person.
+I'm currently employed with [SD Software-Design GmbH](https://software-design.de/). My focus is on platform engineering, tools, and operations. Using mainly Python, JavaScript/TypeScript, and Go.
 """
 
 # Collection to display on home

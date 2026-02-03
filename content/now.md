@@ -1,7 +1,7 @@
 +++
 title = 'What Niklas is doing now'
 date = 2025-03-27
-lastmod = 2026-01-04
+lastmod = 2026-02-01
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = false
@@ -16,12 +16,11 @@ draft = false
 +++
 
 <!--## Adventure-->
-## Music
-- "Cutting the cord". Migrating from streaming to owning my music collection once again.
+<!-- ## Music -->
+<!-- - "Cutting the cord". Migrating from streaming to owning my music collection once again. -->
 
 ## Reading
-- _My Girl_ – Sahara Mizu
-
+- _Tomorrow, and Tomorrow, and Tomorrow_ – Gabrielle Zevin
 For a complete list of what I've been reading check out the [library](/library).
 
 ## Software
@@ -30,4 +29,4 @@ For a complete list of what I've been reading check out the [library](/library).
 ## Writing
 - Writing an article about my experience "cutting the cord" for my music experience.
 
-This page has been updated on **2026-01-04**.
+This page has been updated on **2026-02-01**.

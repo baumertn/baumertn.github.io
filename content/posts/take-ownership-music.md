@@ -23,9 +23,7 @@ I then tell you in [Step 1](#step-1-create-a-plan) how I have created a plan for
 
 In [Step 2](#step-2-buying) I'm showing you where I buy my music with recommendations in order of my preference.
 
-Then we'll go into the parts of my systemd that I'm still working on. Starting with [Step 3](#step-3-organizing), where I'll show you how I'm organizing my local music.
-
-And finally in [Step 4](#step-4-enjoying) I'll give you some software recommendations.
+And then I'll end with where I'm at and options I might explore in the future in [Where to go from here](#where-to-go-from-here).
 
 ## Motivation
 
@@ -211,12 +209,9 @@ That's it. But I have to say that I've not needed to do it yet.
 
 If you need guidance, refer back to [Step 0](#step-0-create-a-quick-backup) for one way to do this. Other ways are available with an online search as well, just stay safe and don't get a virus or something.
 
-## Step 3: Organizing
-- Mention beets
+## Where to go from here
 - Still very early for myself.
-
-## Step 4: Enjoying
-- I just move the songs from my pc to my phone.
-- If you have a _massive_ library or you need access to everything all the time (similar to streaming), consider gonic, navidrome, plex or jellyfin.
+- I just move the songs from my pc to my devices
+- Might look into gonic, navidrome (plex or jellyfin might be your cup of tea)
 - recommend Symphonium for Android.
 - Mention fooyin for linux. But still exploring options here
