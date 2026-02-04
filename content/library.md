@@ -1,7 +1,7 @@
 +++
 title = 'Library'
 date = 2025-04-11
-lastmod = 2026-02-01
+lastmod = 2026-02-04
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -85,7 +85,7 @@ On 2025-12-20 I've decided to split the list into sections by year.
 ### 2026
 | Title                          | Author                | Finished on | Note                                                    |
 |--------------------------------|-----------------------|-------------|---------------------------------------------------------|
-| Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin | READING     |                                                         |
+| Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin | 2026-02-04  |                                                         |
 | I Hear the Sunspot             | Yuki Fumino           | 2026-02-01  |                                                         |
 | Atonement                      | Ian McEwan            | 2026-12-29  |                                                         |
 | Plainsong                      | Kent Haruf            | 2026-01-22  |                                                         |

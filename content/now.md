@@ -1,7 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2025-03-27
-lastmod = 2026-02-01
+date = 2026-02-04
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = false
@@ -15,18 +14,21 @@ hidePagination = true
 draft = false
 +++
 
-<!--## Adventure-->
+
+<!-- ## Adventure -->
+
 <!-- ## Music -->
-<!-- - "Cutting the cord". Migrating from streaming to owning my music collection once again. -->
 
 ## Reading
-- _Tomorrow, and Tomorrow, and Tomorrow_ – Gabrielle Zevin
+
 For a complete list of what I've been reading check out the [library](/library).
 
 ## Software
 - Exploring [Exlixir](https://exlixir.com/) with [Phoenix](https://phoenixframework.org/) for web development. Very early stages, though!
 
-## Writing
-- Writing an article about my experience "cutting the cord" for my music experience.
+<!-- ## Tech -->
 
-This page has been updated on **2026-02-01**.
+## Writing
+- Just published my short article about taking ownership of my music collection: [Take Ownership of Music by Cutting the "Streaming Cord"](/posts/take-ownership-music/).
+- Building a system with _Cortex Prime_ to replace our very irregular _Pathfinder 2e_ campaign in the hopes that a simpler system will make it easier to play.
+
