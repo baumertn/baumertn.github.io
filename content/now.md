@@ -20,6 +20,7 @@ draft = false
 <!-- ## Music -->
 
 ## Reading
+- _The Sense of an Ending_ – Julian Barnes
 
 For a complete list of what I've been reading check out the [library](/library).
 

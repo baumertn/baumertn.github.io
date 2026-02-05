@@ -59,7 +59,6 @@ See what books from the list I'm currently reading on [/now](/now)!
 | The Mom Test                  | Rob Fitzpatrick       |                                                          |
 | The Psychology of Money       | Morgan Housel         |                                                          |
 | The School of Essential Ingredients | Erica Bauermeister |                                                       |
-| The Sense of an Ending        | Julian Barnes          |                                                         |
 | Twelve Months                  | Jim  Butcher          | The Dresden Files, #18, Unreleased                      |
 | Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera | Bryan Peterson |          |
 | Victorious (Villains, #3)     | Victoria E. Schwab     | Unreleased                                              |
@@ -85,6 +84,7 @@ On 2025-12-20 I've decided to split the list into sections by year.
 ### 2026
 | Title                          | Author                | Finished on | Note                                                    |
 |--------------------------------|-----------------------|-------------|---------------------------------------------------------|
+| The Sense of an Ending         | Julian Barnes         | READING     |                                                         |
 | Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin | 2026-02-04  |                                                         |
 | I Hear the Sunspot             | Yuki Fumino           | 2026-02-01  |                                                         |
 | Atonement                      | Ian McEwan            | 2026-12-29  |                                                         |
