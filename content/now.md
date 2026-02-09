@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-02-04
+date = 2026-02-08
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = false
@@ -20,7 +20,7 @@ draft = false
 <!-- ## Music -->
 
 ## Reading
-- _The Sense of an Ending_ – Julian Barnes
+- _Strange Weather in Tokyo_ – Hiromi Kawakami
 
 For a complete list of what I've been reading check out the [library](/library).
 

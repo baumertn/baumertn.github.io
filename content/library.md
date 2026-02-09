@@ -1,7 +1,7 @@
 +++
 title = 'Library'
 date = 2025-04-11
-lastmod = 2026-02-04
+lastmod = 2026-02-08
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -38,32 +38,32 @@ See what books from the list I'm currently reading on [/now](/now)!
 | Crime and Punishment           | Fyodor Dostoevsky     |                                                         |
 | Designing Data-Intensive Applications | Martin Kleppmann |                                                       |
 | Emma                           | Mori Kaoru            | Manga                                                   |
-| Foster                        | Claire Keegan          |                                                         |
+| Foster                         | Claire Keegan         |                                                         |
 | Gardens of the Moon            | Steven Erikson        | Malazan Book of the Fallen, #1                          |
-| Gilead                        | Marilynne Robinson     |                                                         |
+| Gilead                         | Marilynne Robinson    |                                                         |
 | Hacker's Delight               | Henry S. Warren       |                                                         |
-| Happiness                     | Shūzō Oshimi           | If this does not work, Oshimi is not for me             |
+| Happiness                      | Shūzō Oshimi          | If this does not work, Oshimi is not for me             |
 | Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                                               |
 | Light Bringer                  | Pierce Brown          | Red Rising Saga, #6                                     |
-| Never Let Me Go               | Kazuo Ishiguro         |                                                         |
-| No, You’re Not                | Fumiyo Kōno            |                                                         |
+| Never Let Me Go                | Kazuo Ishiguro        |                                                         |
+| No, You’re Not                 | Fumiyo Kōno           |                                                         |
 | On Writing Well: The Classic Guide to Writing Nonfiction | William Zinsser |                                     |
-| Platform Decay                | Martha Wells           | The Murderbot Diaries, #8, Unreleased                   |
-| Shimanami Tasogare            | Yuhki Kamatani         | Cautiously recommended                                  |
-| Snow Country                  | Yasunari Kawabata      |                                                         |
-| Strange Weather in Tokyo      | Hiromi Kawakami        |                                                         |
-| System Collapse               | Martha Wells           | The Murderbot Diaries, #7                               |
-| The Apothecary Diaries        | Hyuuga Natsu, Nanao Itsuki | Manga                                               |
+| Platform Decay                 | Martha Wells          | The Murderbot Diaries, #8, Unreleased                   |
+| Shimanami Tasogare             | Yuhki Kamatani        | Cautiously recommended                                  |
+| Snow Country                   | Yasunari Kawabata     |                                                         |
+| Strange Weather in Tokyo       | Hiromi Kawakami       |                                                         |
+| System Collapse                | Martha Wells          | The Murderbot Diaries, #7                               |
+| The Apothecary Diaries         | Hyuuga Natsu, Nanao Itsuki | Manga                                              |
 | The Bright Ages: A New History of Medieval Europe | Matthew Gabriele |                                           |
 | The Cambridge Handbook of Personal Relationships |  Anita L. Vangelisti |                                        |
-| The Mom Test                  | Rob Fitzpatrick       |                                                          |
-| The Psychology of Money       | Morgan Housel         |                                                          |
+| The Mom Test                   | Rob Fitzpatrick       |                                                         |
+| The Psychology of Money        | Morgan Housel         |                                                         |
 | The School of Essential Ingredients | Erica Bauermeister |                                                       |
 | Twelve Months                  | Jim  Butcher          | The Dresden Files, #18, Unreleased                      |
 | Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera | Bryan Peterson |          |
-| Victorious (Villains, #3)     | Victoria E. Schwab     | Unreleased                                              |
+| Victorious (Villains, #3)      | Victoria E. Schwab    | Unreleased                                              |
 | Watashitachi no Shiawase na Jikan | Yumi Tamura        | Moral ambiguity, heavy but clean                        |
-| Witch Hat Atelier             | Shirahama Kamome       | Manga |
+| Witch Hat Atelier              | Shirahama Kamome      | Manga                                                   |
 
 ## Finished books
 Looking at this list I'm sure you could picture a person. You might consider this person troubled.
@@ -81,19 +81,22 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 
 On 2025-12-20 I've decided to split the list into sections by year.
 
+
+
 ### 2026
-| Title                          | Author                | Finished on | Note                                                    |
-|--------------------------------|-----------------------|-------------|---------------------------------------------------------|
-| The Sense of an Ending         | Julian Barnes         | READING     |                                                         |
-| Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin | 2026-02-04  |                                                         |
-| I Hear the Sunspot             | Yuki Fumino           | 2026-02-01  |                                                         |
-| Atonement                      | Ian McEwan            | 2026-12-29  |                                                         |
-| Plainsong                      | Kent Haruf            | 2026-01-22  |                                                         |
-| Sunny                          | Matsumoto Taiyou      | 2026-01-15  |                                                         |
-| My Girl                        | Mizu Sahara           | 2026-01-13  |                                                         |
-| The Gods Lie                   | Ozaki Kaori           | 2026-01-11  |                                                         |
-| March Comes in Like a Lion     | Umino Chica           | 2026-01-04  | Read up to chapter 32 (latest as of 2026-01)            |
-| Historié                       | Hitoshi Iwaaki        | 2026-01-02  | On hiatus. Read up to chapter 65 (latest as of 2026-01) |
+| Title                                | Author                | Finished on | Note                                                    |
+|--------------------------------------|-----------------------|-------------|---------------------------------------------------------|
+| Strange Weather in Tokyo             | Hiromi Kawakami       | READING     |                                                         |
+| The Sense of an Ending               | Julian Barnes         | 2026-02-07  |                                                         |
+| Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin       | 2026-02-04  |                                                         |
+| I Hear the Sunspot                   | Yuki Fumino           | 2026-02-01  |                                                         |
+| Atonement                            | Ian McEwan            | 2026-12-29  |                                                         |
+| Plainsong                            | Kent Haruf            | 2026-01-22  |                                                         |
+| Sunny                                | Matsumoto Taiyou      | 2026-01-15  |                                                         |
+| My Girl                              | Mizu Sahara           | 2026-01-13  |                                                         |
+| The Gods Lie                         | Ozaki Kaori           | 2026-01-11  |                                                         |
+| March Comes in Like a Lion           | Umino Chica           | 2026-01-04  | Read up to chapter 32 (latest as of 2026-01)            |
+| Historié                             | Hitoshi Iwaaki        | 2026-01-02  | On hiatus. Read up to chapter 65 (latest as of 2026-01) |
 
 ### 2025
 | Title                          | Author                | Finished on | Note                                                    |
