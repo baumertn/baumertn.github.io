@@ -1,7 +1,7 @@
 +++
 title = 'Library'
 date = 2025-04-11
-lastmod = 2026-02-08
+lastmod = 2026-02-11
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -45,13 +45,11 @@ See what books from the list I'm currently reading on [/now](/now)!
 | Happiness                      | Shūzō Oshimi          | If this does not work, Oshimi is not for me             |
 | Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                                               |
 | Light Bringer                  | Pierce Brown          | Red Rising Saga, #6                                     |
-| Never Let Me Go                | Kazuo Ishiguro        |                                                         |
 | No, You’re Not                 | Fumiyo Kōno           |                                                         |
 | On Writing Well: The Classic Guide to Writing Nonfiction | William Zinsser |                                     |
 | Platform Decay                 | Martha Wells          | The Murderbot Diaries, #8, Unreleased                   |
 | Shimanami Tasogare             | Yuhki Kamatani        | Cautiously recommended                                  |
 | Snow Country                   | Yasunari Kawabata     |                                                         |
-| Strange Weather in Tokyo       | Hiromi Kawakami       |                                                         |
 | System Collapse                | Martha Wells          | The Murderbot Diaries, #7                               |
 | The Apothecary Diaries         | Hyuuga Natsu, Nanao Itsuki | Manga                                              |
 | The Bright Ages: A New History of Medieval Europe | Matthew Gabriele |                                           |
@@ -86,7 +84,8 @@ On 2025-12-20 I've decided to split the list into sections by year.
 ### 2026
 | Title                                | Author                | Finished on | Note                                                    |
 |--------------------------------------|-----------------------|-------------|---------------------------------------------------------|
-| Strange Weather in Tokyo             | Hiromi Kawakami       | READING     |                                                         |
+| Never Let Me Go                      | Kazuo Ishiguro        | READING     |                                                         |
+| Strange Weather in Tokyo             | Hiromi Kawakami       | 2026-02-10  |                                                         |
 | The Sense of an Ending               | Julian Barnes         | 2026-02-07  |                                                         |
 | Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin       | 2026-02-04  |                                                         |
 | I Hear the Sunspot                   | Yuki Fumino           | 2026-02-01  |                                                         |

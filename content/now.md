@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-02-08
+date = 2026-02-11
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = false
@@ -20,7 +20,7 @@ draft = false
 <!-- ## Music -->
 
 ## Reading
-- _Strange Weather in Tokyo_ – Hiromi Kawakami
+- _Never Let Me Go_ – Kazuo Ishiguro
 
 For a complete list of what I've been reading check out the [library](/library).
 
@@ -29,7 +29,5 @@ For a complete list of what I've been reading check out the [library](/library).
 
 <!-- ## Tech -->
 
-## Writing
-- Just published my short article about taking ownership of my music collection: [Take Ownership of Music by Cutting the "Streaming Cord"](/posts/take-ownership-music/).
-- Building a system with _Cortex Prime_ to replace our very irregular _Pathfinder 2e_ campaign in the hopes that a simpler system will make it easier to play.
+<!-- ## Writing -->
 
