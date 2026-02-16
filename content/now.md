@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-02-11
+date = 2026-02-16
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = false
@@ -15,7 +15,8 @@ draft = false
 +++
 
 
-<!-- ## Adventure -->
+## Adventure
+- Planning the first longer hike of the year.
 
 <!-- ## Music -->
 
@@ -24,10 +25,8 @@ draft = false
 
 For a complete list of what I've been reading check out the [library](/library).
 
-## Software
-- Exploring [Exlixir](https://exlixir.com/) with [Phoenix](https://phoenixframework.org/) for web development. Very early stages, though!
-
-<!-- ## Tech -->
+## Software & Tech
+- Exploring [Elixir](https://exlixir.com/) with [Phoenix](https://phoenixframework.org/) for web development. Very early stages, though!
 
 <!-- ## Writing -->
 
