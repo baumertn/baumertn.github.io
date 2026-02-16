@@ -80,6 +80,7 @@ url = "/library"
 # Syntax highlight on code blocks
 [markup]
 [markup.highlight]
+noClasses = false
 style = 'algol'
 
 [caches]
