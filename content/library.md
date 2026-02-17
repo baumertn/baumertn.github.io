@@ -1,7 +1,7 @@
 +++
 title = 'Library'
 date = 2025-04-11
-lastmod = 2026-02-11
+lastmod = 2026-02-17
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -38,7 +38,6 @@ See what books from the list I'm currently reading on [/now](/now)!
 | Crime and Punishment           | Fyodor Dostoevsky     |                                                         |
 | Designing Data-Intensive Applications | Martin Kleppmann |                                                       |
 | Emma                           | Mori Kaoru            | Manga                                                   |
-| Foster                         | Claire Keegan         |                                                         |
 | Gardens of the Moon            | Steven Erikson        | Malazan Book of the Fallen, #1                          |
 | Gilead                         | Marilynne Robinson    |                                                         |
 | Hacker's Delight               | Henry S. Warren       |                                                         |
@@ -46,7 +45,6 @@ See what books from the list I'm currently reading on [/now](/now)!
 | Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                                               |
 | Light Bringer                  | Pierce Brown          | Red Rising Saga, #6                                     |
 | No, You’re Not                 | Fumiyo Kōno           |                                                         |
-| On Writing Well: The Classic Guide to Writing Nonfiction | William Zinsser |                                     |
 | Platform Decay                 | Martha Wells          | The Murderbot Diaries, #8, Unreleased                   |
 | Shimanami Tasogare             | Yuhki Kamatani        | Cautiously recommended                                  |
 | Snow Country                   | Yasunari Kawabata     |                                                         |
@@ -84,7 +82,9 @@ On 2025-12-20 I've decided to split the list into sections by year.
 ### 2026
 | Title                                | Author                | Finished on | Note                                                    |
 |--------------------------------------|-----------------------|-------------|---------------------------------------------------------|
-| Never Let Me Go                      | Kazuo Ishiguro        | READING     |                                                         |
+| On Writing Well                      | William Zinsser       | READING     | "The Classic Guide to Writing Nonfiction"               |
+| Foster                               | Claire Keegan         | READING     |                                                         |
+| Never Let Me Go                      | Kazuo Ishiguro        | 2026-02-16  |                                                         |
 | Strange Weather in Tokyo             | Hiromi Kawakami       | 2026-02-10  |                                                         |
 | The Sense of an Ending               | Julian Barnes         | 2026-02-07  |                                                         |
 | Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin       | 2026-02-04  |                                                         |
