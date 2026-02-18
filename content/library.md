@@ -25,7 +25,7 @@ I have forgotten most of what I read here. Probably.
 Fun fact: Playing _The Witcher_ got me into reading as a kid I didn't like it (I played the second _The Witcher_ game first, the original after).
 
 ## Reading list
-See what books from the list I'm currently reading on [/now](/now)!
+See what I'm currently reading on my [/now page](/now)!
 
 | Title                          | Author                | Note                                                    |
 |--------------------------------|-----------------------|---------------------------------------------------------|
@@ -83,7 +83,7 @@ On 2025-12-20 I've decided to split the list into sections by year.
 | Title                                | Author                | Finished on | Note                                                    |
 |--------------------------------------|-----------------------|-------------|---------------------------------------------------------|
 | On Writing Well                      | William Zinsser       | READING     | "The Classic Guide to Writing Nonfiction"               |
-| Foster                               | Claire Keegan         | READING     |                                                         |
+| Foster                               | Claire Keegan         | 2026-02-17  |                                                         |
 | Never Let Me Go                      | Kazuo Ishiguro        | 2026-02-16  |                                                         |
 | Strange Weather in Tokyo             | Hiromi Kawakami       | 2026-02-10  |                                                         |
 | The Sense of an Ending               | Julian Barnes         | 2026-02-07  |                                                         |
