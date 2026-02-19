@@ -1,7 +1,6 @@
 +++
 title = 'Library'
-date = 2025-04-11
-lastmod = 2026-02-17
+date = 2026-02-19
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -16,31 +15,31 @@ draft = false
 +++
 
 This is a collection of all the books that I have read and remembered.
-It is a genre mix. Much Fantasy and Sci-fi, but also non-fiction—mostly tech and "self-help".
+It is a genre mix. Much Fantasy and Sci-fi, but also non-fiction – mostly tech and "self-help".
 Also contains a few manga and comics.
 Some titles are in German, as I did read them in German.
 
 I have forgotten most of what I read here. Probably.
 
-Fun fact: Playing _The Witcher_ got me into reading as a kid I didn't like it (I played the second _The Witcher_ game first, the original after).
+Fun fact: Playing _The Witcher 2_ got me into reading. I didn't like it as a kid.
 
 ## Reading list
 See what I'm currently reading on my [/now page](/now)!
 
+2026-02-19: I've decided to split the list into fiction and non-fiction sections.
+Mostly to have an easier time choosing what to read next.
+
+### Fiction
 | Title                          | Author                | Note                                                    |
 |--------------------------------|-----------------------|---------------------------------------------------------|
 | A Canticle of Two Souls        | Steven Raaymakers     |                                                         |
-| A Philosophy of Software Design | John Ousterhout      |                                                         |
-| Asunder (Dragon Age, #3)       | David Gaider          |                                                         |
-| Babbling Corpse                | Grafton Tanner        |                                                         |
+| Asunder                        | David Gaider          | Dragon Age, #3                                          |
 | Beneath the Trees Where Nobody Sees | Patrick Horvath  |                                                         |
 | Book of Night                  | Holly Black           |                                                         |
 | Crime and Punishment           | Fyodor Dostoevsky     |                                                         |
-| Designing Data-Intensive Applications | Martin Kleppmann |                                                       |
 | Emma                           | Mori Kaoru            | Manga                                                   |
 | Gardens of the Moon            | Steven Erikson        | Malazan Book of the Fallen, #1                          |
 | Gilead                         | Marilynne Robinson    |                                                         |
-| Hacker's Delight               | Henry S. Warren       |                                                         |
 | Happiness                      | Shūzō Oshimi          | If this does not work, Oshimi is not for me             |
 | Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                                               |
 | Light Bringer                  | Pierce Brown          | Red Rising Saga, #6                                     |
@@ -50,34 +49,39 @@ See what I'm currently reading on my [/now page](/now)!
 | Snow Country                   | Yasunari Kawabata     |                                                         |
 | System Collapse                | Martha Wells          | The Murderbot Diaries, #7                               |
 | The Apothecary Diaries         | Hyuuga Natsu, Nanao Itsuki | Manga                                              |
-| The Bright Ages: A New History of Medieval Europe | Matthew Gabriele |                                           |
-| The Cambridge Handbook of Personal Relationships |  Anita L. Vangelisti |                                        |
-| The Mom Test                   | Rob Fitzpatrick       |                                                         |
-| The Psychology of Money        | Morgan Housel         |                                                         |
 | The School of Essential Ingredients | Erica Bauermeister |                                                       |
 | Twelve Months                  | Jim  Butcher          | The Dresden Files, #18, Unreleased                      |
-| Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera | Bryan Peterson |          |
 | Victorious (Villains, #3)      | Victoria E. Schwab    | Unreleased                                              |
 | Watashitachi no Shiawase na Jikan | Yumi Tamura        | Moral ambiguity, heavy but clean                        |
 | Witch Hat Atelier              | Shirahama Kamome      | Manga                                                   |
 
-## Finished books
-Looking at this list I'm sure you could picture a person. You might consider this person troubled.
-You might be right! But I know it's always easier to judge someone else, isn't it?
+### Non-fiction
+| Title                          | Author                | Note/Field                                              |
+|--------------------------------|-----------------------|---------------------------------------------------------|
+| A Philosophy of Software Design | John Ousterhout      | Computer Science                                        |
+| Babbling Corpse                | Grafton Tanner        | History, Psychology, Tech                               |
+| Designing Data-Intensive Applications | Martin Kleppmann | Computer Science                                      |
+| Hacker's Delight               | Henry S. Warren       | Computer Science                                        |
+| The Bright Ages: A New History of Medieval Europe | Matthew Gabriele | History                                   |
+| The Cambridge Handbook of Personal Relationships |  Anita L. Vangelisti | Social Psychology                      |
+| The Mom Test                   | Rob Fitzpatrick       | UX                                                      |
+| The Psychology of Money        | Morgan Housel         | Finance                                                 |
+| Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera | Bryan Peterson | Photography |
 
-Most of this data is an export from a now deleted Goodreads account (everything pre 2024). I tried to sort it by finished date.
-If I "read" many books on the first of a given month, I most likely added just the month on Goodreads. Might fix it eventually.
+## Finished books
+Don't judge me too harshly for the selection of books over the years.
+
+Most of this data is an export from a now deleted _Goodreads_ account (everything pre 2024). I tried to sort it by finished date.
+If I "read" many books on the first of a given month, I most likely added just the month on _Goodreads_.
 
 Some dates might be off, missing or just plain wrong.
 If I did read a book more than once, most likely the first date will be listed.
 
-There was a period of my life where I used Blinkist a lot. I _think_ I noted all cases where I "read" a book through Blinkist.
+There was a period of my life where I used _Blinkist_ a lot. I _think_ I noted all cases where I "read" a book through _Blinkist_.
 I did enjoy it a lot more before the whole AI craze began. I think they replaced most of their readers with AI
 and their summaries became worse. I don't have proof, but it's how I felt. I stopped using it completely in late 2024.
 
-On 2025-12-20 I've decided to split the list into sections by year.
-
-
+2025-12-20: I've decided to split the list into sections by year.
 
 ### 2026
 | Title                                | Author                | Finished on | Note                                                    |
@@ -439,235 +443,258 @@ On 2025-12-20 I've decided to split the list into sections by year.
 ### 2019
 | Title                          | Author                | Finished on | Note                                                    |
 |--------------------------------|-----------------------|-------------|---------------------------------------------------------|
-| The Culture Code: The Secrets of Highly Successful Groups | Daniel Coyle | 2019-12-25 | |
-| Essentialism: The Disciplined Pursuit of Less | Greg McKeown | 2019-12-19 | Read twice |
-| Storm Front (The Dresden Files, #1) | Jim  Butcher | 2019-12-14 | |
-| Give and Take: A Revolutionary Approach to Success | Adam M. Grant | 2019-12-12 | |
-| The King Without a Kingdom (The Accursed Kings, #7) | Maurice Druon | 2019-12-05 | |
-| The Tipping Point: How Little Things Can Make a Big Difference | Malcolm Gladwell | 2019-11-30 | |
-| The Lily and the Lion (The Accursed Kings, #6) | Maurice Druon | 2019-11-25 | |
-| Outliers: The Story of Success | Malcolm Gladwell | 2019-11-23 | |
-| The She-Wolf (The Accursed Kings, #5) | Maurice Druon | 2019-11-18 | |
-| Decisive: How to Make Better Choices in Life and Work | Chip Heath | 2019-11-14 | |
-| The Royal Succession (The Accursed Kings, #4) | Maurice Druon | 2019-11-08 | |
-| Start with Why: How Great Leaders Inspire Everyone to Take Action | Simon Sinek | 2019-11-06 | |
-| Berserk, Vol. 38 (Berserk, #38) | Kentaro Miura | 2019-11-01 | |
-| Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch | Terry Pratchett | 2019-10-30 | |
-| The Poisoned Crown (The Accursed Kings, #3) | Maurice Druon | 2019-10-23 | |
-| Morning Star (Red Rising Saga, #3) | Pierce Brown | 2019-10-18 | |
-| Talking to Strangers: What We Should Know About the People We Don't Know | Malcolm Gladwell | 2019-10-15 | Read twice |
-| Darkdawn (The Nevernight Chronicle, #3) | Jay Kristoff | 2019-10-10 | |
-| The War of Art | Steven Pressfield | 2019-10-08 | |
-| The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It | Kelly McGonigal | 2019-10-05 | |
-| Quitter: Closing the Gap Between Your Day Job and Your Dream Job | Jon Acuff | 2019-09-29 | |
-| The Hero of Ages (Mistborn, #3) | Brandon Sanderson | 2019-09-24 | |
-| How To: Absurd Scientific Advice for Common Real-World Problems | Randall Munroe | 2019-09-20 | |
-| Germanische Mythologie | Wolfgang Golther | 2019-09-14 | |
-| Golden Son (Red Rising Saga, #2) | Pierce Brown | 2019-09-05 | |
-| The Strangled Queen (The Accursed Kings, #2) | Maurice Druon | 2019-08-30 | |
-| Godsgrave (The Nevernight Chronicle, #2) | Jay Kristoff | 2019-08-26 | |
-| Mate: Become the Man Women Want | Tucker Max | 2019-08-23 | |
-| Platform: Get Noticed in a Noisy World | Michael Hyatt | 2019-08-14 | |
-| The Well of Ascension (Mistborn, #2) | Brandon Sanderson | 2019-08-11 | |
-| Scrum: The Art of Doing Twice the Work in Half the Time | Jeff Sutherland | 2019-08-09 | |
-| Forms That Work: Designing Web Forms for Usability | Caroline Jarrett | 2019-07-29 | |
-| Content Strategy for the Web (Voices That Matter) | Kristina Halvorson | 2019-07-25 | |
-| Red Rising (Red Rising Saga, #1) | Pierce Brown | 2019-07-24 | This book is the weakest of this amazing series |
-| The E-myth Revisited | Michael E. Gerber | 2019-07-20 | |
-| American Front (The Great War, #1) | Harry Turtledove | 2019-07-14 | |
-| The Design of Everyday Things | Donald A. Norman | 2019-07-04 | |
-| The Iron King (The Accursed Kings, #1) | Maurice Druon | 2019-06-25 | |
-| Letting Go of the Words: Writing Web Content that Works | Janice G. Redish | 2019-06-24 | |
-| The Name of the Wind (The Kingkiller Chronicle, #1) | Patrick Rothfuss | 2019-06-18 | |
-| Functional-Light JavaScript: Pragmatic, Balanced FP in JavaScript | Kyle Simpson | 2019-06-12 | |
-| Algorithms to Live By: The Computer Science of Human Decisions | Brian  Christian | 2019-06-06 | |
-| Nevernight (The Nevernight Chronicle, #1) | Jay Kristoff | 2019-06-02 | |
-| Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Voices That Matter) | Steve Krug | 2019-05-30 | |
-| The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future | Chris Guillebeau | 2019-05-27 | |
-| Mistborn: The Final Empire (Mistborn, #1) | Brandon Sanderson | 2019-05-22 | |
-| Made to Stick: Why Some Ideas Survive and Others Die | Chip Heath | 2019-05-21 | |
-| Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones | James Clear | 2019-05-15 | Read twice |
-| The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman | Timothy Ferriss | 2019-05-10 | |
-| The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life | Timothy Ferriss | 2019-05-05 | |
-| Tiamat's Wrath (The Expanse, #8) | James S.A. Corey | 2019-05-04 | |
-| Digital Minimalism: Choosing a Focused Life in a Noisy World | Cal Newport | 2019-05-01 | |
-| The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change | Stephen R. Covey | 2019-04-23 | Read twice |
-| The Price of Spring (Long Price Quartet, #4) | Daniel Abraham | 2019-04-14 | |
-| Daily Habits: How To Win Your Day: Your Days Define Your Destiny | Prashanth Savanur | 2019-04-14 | |
-| The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life | Mark Manson | 2019-04-08 | Read twice |
-| Creating Character Arcs: The Masterful Author's Guide to Uniting Story Structure, Plot, and Character Development | K.M. Weiland | 2019-04-02 | |
-| An Autumn War (Long Price Quartet, #3) | Daniel Abraham | 2019-04-01 | |
-| The Knowledge: How to Rebuild Our World from Scratch | Lewis Dartnell | 2019-03-21 | |
-| The Buying Brain: Secrets for Selling to the Subconscious Mind | A.K. Pradeep | 2019-03-14 | |
-| Die Therapie | Sebastian Fitzek | 2019-03-13 | |
-| The 3 Secrets to Effective Time Investment: Achieve More Success with Less Stress: Foreword by Cal Newport, author of So Good They Can't Ignore You | Elizabeth Grace Saunders | 2019-03-07 | |
-| A Betrayal in Winter (Long Price Quartet, #2) | Daniel Abraham | 2019-03-06 | |
-| Cracking the Coding Interview: 150 Programming Questions and Solutions | Gayle Laakmann McDowell | 2019-03-01 | |
-| A Short History of Nearly Everything | Bill Bryson | 2019-02-25 | Read twice |
-| Metro 2033 (Metro, #1) | Dmitry Glukhovsky | 2019-02-18 | |
-| Extreme Productivity: Boost Your Results, Reduce Your Hours | Robert C. Pozen | 2019-02-11 | |
-| Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (And World Peace) | Chade-Meng Tan | 2019-01-28 | |
-| A Knight of the Seven Kingdoms (The Tales of Dunk and Egg, #1-3) | George R.R. Martin | 2019-01-25 | |
-| Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! | Tony Robbins | 2019-01-18 | |
-| Vengeful (Villains, #2) | Victoria E. Schwab | 2019-01-16 | |
-| Just Listen: Discover the Secret to Getting Through to Absolutely Anyone | Mark Goulston | 2019-01-15 | Read twice |
-| A Shadow in Summer (Long Price Quartet, #1) | Daniel Abraham | 2019-01-06 | |
-| The Power Of Less: The Fine Art of Limiting Yourself to the Essential | Leo Babauta | 2019-01-04 | |
+| The Culture Code               | Daniel Coyle          | 2019-12-25  |                                                         |
+| Essentialism                   | Greg McKeown          | 2019-12-19  | Read twice                                              |
+| Storm Front                    | Jim  Butcher          | 2019-12-14  | The Dresden Files, #1                                   |
+| Give and Take                  | Adam M. Grant         | 2019-12-12  |                                                         |
+| The King Without a Kingdom     | Maurice Druon         | 2019-12-05  | The Accursed Kings, #7                                  |
+| The Tipping Point              | Malcolm Gladwell      | 2019-11-30  |                                                         |
+| The Lily and the Lion          | Maurice Druon         | 2019-11-25  | The Accursed Kings, #6                                  |
+| Outliers: The Story of Success | Malcolm Gladwell      | 2019-11-23  |                                                         |
+| The She-Wolf                   | Maurice Druon         | 2019-11-18  | The Accursed Kings, #5                                  |
+| Decisive                       | Chip Heath            | 2019-11-14  |                                                         |
+| The Royal Succession           | Maurice Druon         | 2019-11-08  | The Accursed Kings, #4                                  |
+| Start with Why                 | Simon Sinek           | 2019-11-06  |                                                         |
+| Berserk, Vol. 38               | Kentaro Miura         | 2019-11-01  |                                                         |
+| Good Omens                     | Terry Pratchett       | 2019-10-30  |                                                         |
+| The Poisoned Crown             | Maurice Druon         | 2019-10-23  | The Accursed Kings, #3                                  |
+| Morning Star                   | Pierce Brown          | 2019-10-18  | Red Rising Saga, #3                                     |
+| Talking to Strangers           | Malcolm Gladwell      | 2019-10-15  | Read twice                                              |
+| Darkdawn                       | Jay Kristoff          | 2019-10-10  | The Nevernight Chronicle, #3                            |
+| The War of Art                 | Steven Pressfield     | 2019-10-08  |                                                         |
+| The Willpower Instinct         | Kelly McGonigal       | 2019-10-05  |                                                         |
+| Quitter                        | Jon Acuff             | 2019-09-29  |                                                         |
+| The Hero of Ages               | Brandon Sanderson     | 2019-09-24  | Mistborn, #3                                            |
+| How To                         | Randall Munroe        | 2019-09-20  |                                                         |
+| Germanische Mythologie         | Wolfgang Golther      | 2019-09-14  |                                                         |
+| Golden Son                     | Pierce Brown          | 2019-09-05  | Red Rising Saga, #2                                     |
+| The Strangled Queen            | Maurice Druon         | 2019-08-30  | The Accursed Kings, #2                                  |
+| Godsgrave                      | Jay Kristoff          | 2019-08-26  | The Nevernight Chronicle, #2                            |
+| Mate                           | Tucker Max            | 2019-08-23  |                                                         |
+| Platform                       | Michael Hyatt         | 2019-08-14  |                                                         |
+| The Well of Ascension          | Brandon Sanderson     | 2019-08-11  | Mistborn, #2                                            |
+| Scrum                          | Jeff Sutherland       | 2019-08-09  |                                                         |
+| Forms That Work                | Caroline Jarrett      | 2019-07-29  |                                                         |
+| Content Strategy for the Web   | Kristina Halvorson    | 2019-07-25  |                                                         |
+| Red Rising                     | Pierce Brown          | 2019-07-24  | Red Rising Saga, #1, This book is the weakest of this amazing series |
+| The E-myth Revisited           | Michael E. Gerber     | 2019-07-20  |                                                         |
+| American Front                 | Harry Turtledove      | 2019-07-14  | The Great War, #1                                       |
+| The Design of Everyday Things  | Donald A. Norman      | 2019-07-04  |                                                         |
+| The Iron King                  | Maurice Druon         | 2019-06-25  | The Accursed Kings, #1                                  |
+| Letting Go of the Words        | Janice G. Redish      | 2019-06-24  |                                                         |
+| The Name of the Wind           | Patrick Rothfuss      | 2019-06-18  | The Kingkiller Chronicle, #1, I didn't like it          |
+| Functional-Light JavaScript    | Kyle Simpson          | 2019-06-12  |                                                         |
+| Algorithms to Live By          | Brian  Christian      | 2019-06-06  |                                                         |
+| Nevernight                     | Jay Kristoff          | 2019-06-02  | The Nevernight Chronicle, #1                            |
+| Don't Make Me Think, Revisited | Steve Krug            | 2019-05-30  |                                                         |
+| The $100 Startup               | Chris Guillebeau       | 2019-05-27 |                                                         |
+| Mistborn: The Final Empire     | Brandon Sanderson     | 2019-05-22  | Mistborn, #1                                            |
+| Made to Stick                  | Chip Heath            | 2019-05-21  |                                                         |
+| Atomic Habits                  | James Clear           | 2019-05-15  | Read twice                                              |
+| The 4-Hour Body                | Timothy Ferriss       | 2019-05-10  |                                                         |
+| The 4-Hour Chef                | Timothy Ferriss       | 2019-05-05  |                                                         |
+| Tiamat's Wrath                 | James S.A. Corey      | 2019-05-04  | The Expanse, #8                                         |
+| Digital Minimalism             | Cal Newport           | 2019-05-01  |                                                         |
+| The 7 Habits of Highly Effective People | Stephen R. Covey | 2019-04-23 | Read twice                                           |
+| The Price of Spring            | Daniel Abraham        | 2019-04-14  | Long Price Quartet, #4                                  |
+| Daily Habits                   | Prashanth Savanur     | 2019-04-14  |                                                         |
+| The Subtle Art of Not Giving a F*ck | Mark Manson      | 2019-04-08  | Read twice                                              |
+| Creating Character Arcs        | K.M. Weiland          | 2019-04-02  |                                                         |
+| An Autumn War                  | Daniel Abraham        | 2019-04-01  | Long Price Quartet, #3                                  |
+| The Knowledge                  | Lewis Dartnell        | 2019-03-21  |                                                         |
+| The Buying Brain               | A.K. Pradeep          | 2019-03-14  |                                                         |
+| Die Therapie                   | Sebastian Fitzek      | 2019-03-13  |                                                         |
+| The 3 Secrets to Effective Time Investment | Elizabeth Grace Saunders | 2019-03-07 |                                           |
+| A Betrayal in Winter           | Daniel Abraham        | 2019-03-06  | Long Price Quartet, #2                                  |
+| Cracking the Coding Interview  | Gayle Laakmann McDowell | 2019-03-01 |                                                        |
+| A Short History of Nearly Everything | Bill Bryson     | 2019-02-25  | Read twice                                              |
+| Metro 2033                     | Dmitry Glukhovsky     | 2019-02-18  | Metro, #1                                               |
+| Extreme Productivity           | Robert C. Pozen       | 2019-02-11  |                                                         |
+| Search Inside Yourself         | Chade-Meng Tan        | 2019-01-28  |                                                         |
+| A Knight of the Seven Kingdoms | George R.R. Martin    | 2019-01-25  | The Tales of Dunk and Egg, #1-3                         |
+| Awaken the Giant Within        | Tony Robbins          | 2019-01-18  |                                                         |
+| Vengeful                       | Victoria E. Schwab    | 2019-01-16  | Villains, #2                                            |
+| Just Listen                    | Mark Goulston         | 2019-01-15  | Read twice                                              |
+| A Shadow in Summer             | Daniel Abraham        | 2019-01-06  | Long Price Quartet, #1                                  |
+| The Power Of Less              | Leo Babauta           | 2019-01-04  |                                                         |
 
-### Earlier
+### 2018
 | Title                          | Author                | Finished on | Note                                                    |
 |--------------------------------|-----------------------|-------------|---------------------------------------------------------|
-| Sleeping Giants (Themis Files, #1) | Sylvain Neuvel | 2018-12-23 | |
-| Six Pillars of Self-Esteem | Nathaniel Branden | 2018-12-18 | |
-| Vicious (Villains, #1) | Victoria E. Schwab | 2018-12-14 | |
-| How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library) | G. Pólya | 2018-12-14 | |
-| The Reframe: Reframe Relationships | Brian Maddox | 2018-11-06 | |
-| Persepolis Rising (The Expanse, #7) | James S.A. Corey | 2018-08-06 | |
-| Built to Sell: Creating a Business That Can Thrive Without You | John Warrillow | 2018-08-05 | |
-| The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism | Olivia Fox Cabane | 2018-07-30 | |
-| Babylon’s Ashes (The Expanse, #6) | James S.A. Corey | 2018-07-20 | |
-| How to Win Friends & Influence People | Dale Carnegie | 2018-07-13 | |
-| The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making (Fairyland, #1) | Catherynne M. Valente | 2018-07-08 | I liked the cover |
-| Enlightenment Now: The Case for Reason, Science, Humanism, and Progress | Steven Pinker | 2018-07-02 | |
-| Nemesis Games (The Expanse, #5) | James S.A. Corey | 2018-06-30 | |
-| Cibola Burn (The Expanse, #4) | James S.A. Corey | 2018-06-18 | |
-| The Power of Habit: Why We Do What We Do in Life and Business | Charles Duhigg | 2018-06-13 | |
-| Abaddon’s Gate (The Expanse, #3) | James S.A. Corey | 2018-06-08 | |
-| Goodbye, Things: The New Japanese Minimalism | Fumio Sasaki | 2018-06-06 | |
-| The 4-Hour Workweek | Timothy Ferriss | 2018-06-03 | |
-| Caliban’s War (The Expanse, #2) | James S.A. Corey | 2018-05-29 | |
-| The Art of Choosing | Sheena Iyengar | 2018-05-28 | |
-| The Algorithm Design Manual | Steven S. Skiena | 2018-05-22 | |
-| A Briefer History of Time | Stephen Hawking | 2018-05-19 | |
-| Animal Farm | George Orwell | 2018-04-21 | |
-| World War Z: An Oral History of the Zombie War | Max Brooks | 2018-04-18 | |
-| Artemis | Andy Weir | 2018-04-01 | |
-| Leviathan Wakes (The Expanse, #1) | James S.A. Corey | 2018-03-30 | |
-| Mastering JavaScript Functional Programming | Federico Kereki | 2018-03-26 | |
-| Crooked Kingdom (Six of Crows, #2) | Leigh Bardugo | 2018-03-20 | |
-| The Hunter (Parker, #1) | Richard Stark | 2018-03-12 | |
-| Six of Crows (Six of Crows, #1) | Leigh Bardugo | 2018-03-10 | |
-| Responsive Web Design with HTML5 and CSS3 Essentials | Alex Libby | 2018-02-01 | |
-| Ready Player One (Ready Player One, #1) | Ernest Cline | 2017-11-03 | |
-| Diablo III: Morbed | Micky Neilson | 2017-10-19 | |
-| Diablo III: Storm of Light | Nate Kenyon | 2017-10-14 | |
-| Diablo III: The Order (Diablo, #8) | Nate Kenyon | 2017-10-05 | |
-| Moon of the Spider (Diablo, #4) | Richard A. Knaak | 2017-09-24 | |
-| The Veiled Prophet (Diablo: The Sin War, #3) | Richard A. Knaak | 2017-09-13 | |
-| Scales of the Serpent (Diablo: The Sin War, #2) | Richard A. Knaak | 2017-08-30 | |
-| Birthright (Diablo: The Sin War, #1) | Richard A. Knaak | 2017-08-14 | |
-| Rabenaas: Wie man die Schatten fängt | Sarah Adler | 2017-07-29 | |
-| The Black Road (Diablo #2) | Mel Odom | 2017-07-16 | |
-| The Kingdom of Shadow (Diablo, #3) | Richard A. Knaak | 2017-07-04 | |
-| Legacy of Blood (Diablo, #1) | Richard A. Knaak | 2017-06-20 | |
-| Diablo: Demonsbane (Diablo, #0) | Robert B.  Marks | 2017-06-11 | |
-| Dune (Dune, #1) | Frank Herbert | 2017-05-06 | |
-| The Shadow Out of Time | H.P. Lovecraft | 2017-04-01 | |
-| The Colour Out of Space and others | H.P. Lovecraft | 2017-03-31 | |
-| The Dunwich Horror | H.P. Lovecraft | 2017-03-29 | |
-| The Music of Erich Zann | H.P. Lovecraft | 2017-03-28 | |
-| The Rats in the Walls | H.P. Lovecraft | 2017-03-28 | |
-| The Call of Cthulhu | H.P. Lovecraft | 2017-03-27 | |
-| Thief of Time (Discworld, #26; Death, #5) | Terry Pratchett | 2017-03-25 | |
-| Hogfather | Terry Pratchett | 2017-03-21 | |
-| Soul Music (Discworld, #16; Death, #3) | Terry Pratchett | 2017-03-01 | |
-| Reaper Man (Discworld, #11; Death, #2) | Terry Pratchett | 2017-02-21 | |
-| The Shepherd's Crown (Discworld, #41; Tiffany Aching, #5) | Terry Pratchett | 2017-02-17 | |
-| I Shall Wear Midnight (Discworld, #38; Tiffany Aching, #4) | Terry Pratchett | 2017-02-17 | |
-| Wintersmith (Discworld, #35; Tiffany Aching, #3) | Terry Pratchett | 2017-02-17 | |
-| Mort (Discworld, #4; Death, #1) | Terry Pratchett | 2017-02-17 | |
-| Berserk, Vol. 37 | Kentaro Miura | 2016-02-01 | |
-| Berserk, Vol. 36 | Kentaro Miura | 2016-02-01 | |
-| Berserk, Vol. 35 | Kentaro Miura | 2016-02-01 | |
-| Berserk, Vol. 34 | Kentaro Miura | 2016-01-01 | |
-| Berserk, Vol. 32 | Kentaro Miura | 2016-01-01 | |
-| Berserk, Vol. 33 | Kentaro Miura | 2016-01-01 | |
-| Berserk, Vol. 31 | Kentaro Miura | 2016-01-01 | |
-| Berserk, Vol. 30 | Kentaro Miura | 2016-01-01 | |
-| Berserk, Vol. 29 | Kentaro Miura | 2015-12-01 | |
-| Berserk, Vol. 28 | Kentaro Miura | 2015-12-01 | |
-| Berserk, Vol. 27 | Kentaro Miura | 2015-12-01 | |
-| Berserk, Vol. 26 | Kentaro Miura | 2015-12-01 | |
-| Berserk, Vol. 25 | Kentaro Miura | 2015-12-01 | |
-| Berserk, Vol. 24 | Kentaro Miura | 2015-12-01 | |
-| Berserk, Vol. 23 | Kentaro Miura | 2015-12-01 | |
-| Berserk, Vol. 22 | Kentaro Miura | 2015-11-01 | |
-| Berserk, Vol. 21 | Kentaro Miura | 2015-11-01 | |
-| Berserk, Vol. 20 | Kentaro Miura | 2015-11-01 | |
-| Berserk, Vol. 19 | Kentaro Miura | 2015-11-01 | |
-| Berserk, Vol. 18 | Kentaro Miura | 2015-11-01 | |
-| Berserk, Vol. 17 | Kentaro Miura | 2015-10-01 | |
-| Berserk, Vol. 16 | Kentaro Miura | 2015-10-01 | |
-| Berserk, Vol. 15 | Kentaro Miura | 2015-10-01 | |
-| Berserk, Vol. 14 | Kentaro Miura | 2015-10-01 | |
-| Berserk, Vol. 13 | Kentaro Miura | 2015-10-01 | |
-| Berserk, Vol. 12 | Kentaro Miura | 2015-10-01 | |
-| Berserk, Vol. 11 | Kentaro Miura | 2015-10-01 | |
-| Berserk, Vol. 10 | Kentaro Miura | 2015-10-01 | |
-| Berserk, Vol. 9 | Kentaro Miura | 2015-10-01 | |
-| Berserk, Vol. 7 | Kentaro Miura | 2015-09-01 | |
-| Berserk, Vol. 6 | Kentaro Miura | 2015-09-01 | |
-| Berserk, Vol. 5 | Kentaro Miura | 2015-09-01 | |
-| Berserk, Vol. 8 | Kentaro Miura | 2015-09-01 | |
-| Berserk, Vol. 4 | Kentaro Miura | 2015-09-01 | |
-| Berserk, Vol. 3 | Kentaro Miura | 2015-09-01 | |
-| Berserk, Vol. 2 | Kentaro Miura | 2015-09-01 | |
-| Berserk, Vol. 1 | Kentaro Miura | 2015-09-01 | |
-| Fullmetal Alchemist, Vol. 23 | Hiromu Arakawa | 2014-07-01 | |
-| Fullmetal Alchemist, Vol. 24 | Hiromu Arakawa | 2014-07-01 | |
-| Fullmetal Alchemist, Vol. 25 | Hiromu Arakawa | 2014-07-01 | |
-| Fullmetal Alchemist, Vol. 26 | Hiromu Arakawa | 2014-07-01 | |
-| Fullmetal Alchemist, Vol. 27 | Hiromu Arakawa | 2014-07-01 | |
-| Fullmetal Alchemist, Vol. 22 | Hiromu Arakawa | 2014-06-01 | |
-| Fullmetal Alchemist, Vol. 21 | Hiromu Arakawa | 2014-06-01 | |
-| Fullmetal Alchemist, Vol. 20 | Hiromu Arakawa | 2014-06-01 | |
-| Fullmetal Alchemist, Vol. 19 | Hiromu Arakawa | 2014-06-01 | |
-| Fullmetal Alchemist, Vol. 18 | Hiromu Arakawa | 2014-06-01 | |
-| Fullmetal Alchemist, Vol. 17 | Hiromu Arakawa | 2014-06-01 | |
-| Fullmetal Alchemist, Vol. 16 | Hiromu Arakawa | 2014-06-01 | |
-| Fullmetal Alchemist, Vol. 15 | Hiromu Arakawa | 2014-06-01 | |
-| Fullmetal Alchemist, Vol. 14 | Hiromu Arakawa | 2014-06-01 | |
-| Fullmetal Alchemist, Vol. 13 | Hiromu Arakawa | 2014-06-01 | |
-| Fullmetal Alchemist, Vol. 12 | Hiromu Arakawa | 2014-05-01 | |
-| Fullmetal Alchemist, Vol. 11 | Hiromu Arakawa | 2014-05-01 | |
-| Fullmetal Alchemist, Vol. 10 | Hiromu Arakawa | 2014-05-01 | |
-| Fullmetal Alchemist, Vol. 9  | Hiromu Arakawa | 2014-05-01 | |
-| Fullmetal Alchemist, Vol. 8  | Hiromu Arakawa | 2014-05-01 | |
-| Fullmetal Alchemist, Vol. 7  | Hiromu Arakawa | 2014-05-01 | |
-| Fullmetal Alchemist, Vol. 6  | Hiromu Arakawa | 2014-05-01 | |
-| Fullmetal Alchemist, Vol. 5  | Hiromu Arakawa | 2014-05-01 | |
-| Fullmetal Alchemist, Vol. 4  | Hiromu Arakawa | 2014-04-01 | |
-| Fullmetal Alchemist, Vol. 3  | Hiromu Arakawa | 2014-04-01 | |
-| Fullmetal Alchemist, Vol. 2  | Hiromu Arakawa | 2014-04-01 | |
-| Fullmetal Alchemist, Vol. 1  | Hiromu Arakawa | 2014-04-01 | |
-| Professor Frisby's Mostly Adequate Guide to Functional Programming | Brian Lonsdorf |  | |
-| Knochenjob | Sarah Adler |  | |
-| Der Triumph der Zwerge (Die Zwerge, #5) | Markus Heitz |  | |
-| Das Schicksal der Zwerge (Die Zwerge, #4) | Markus Heitz |  | |
-| Die Rache der Zwerge (Die Zwerge, #3) | Markus Heitz |  | |
-| Der Krieg der Zwerge (Die Zwerge, #2) | Markus Heitz |  | |
-| Die Zwege (Die Zwerge, #1) | Markus Heitz |  | |
-| Steppenwolf | Hermann Hesse |  | |
-| Prince of Thorns (Broken Empire, #1) | Mark  Lawrence |  | |
-| The Man in the High Castle | Philip K. Dick |  | |
-| 1984 | George Orwell |  | |
-| A Hat Full of Sky (Discworld, #32; Tiffany Aching, #2) | Terry Pratchett |  | |
-| The Wee Free Men (Discworld, #30; Tiffany Aching, #1) | Terry Pratchett |  | |
-| The Art of War                | Sun Tzu |  | |
-| A Dance with Dragons (A Song of Ice and Fire, #5) | George R.R. Martin |  | |
-| A Feast for Crows (A Song of Ice and Fire, #4) | George R.R. Martin |  | |
-| A Storm of Swords (A Song of Ice and Fire, #3) | George R.R. Martin |  | |
-| A Clash of Kings  (A Song of Ice and Fire, #2) | George R.R. Martin |  | |
-| A Game of Thrones (A Song of Ice and Fire, #1) | George R.R. Martin |  | Read twice |
-| Eragon (The Inheritance Cycle #1) | Christopher Paolini |  | |
-| The Color of Magic (Discworld, #1; Rincewind, #1) | Terry Pratchett |  | |
-| Fahrenheit 451                | Ray Bradbury |  | |
-| The Great Gatsby              | F. Scott Fitzgerald |  | |
-| Zeit des Sturms (Hexer, #8)   | Andrzej Sapkowski |  | |
-| Die Dame vom See (Hexer, #7)  | Andrzej Sapkowski |  | |
-| Der Schwalbenturm (Hexer, #6) | Andrzej Sapkowski |  | |
-| Feuertaufe (Hexer, #5)        | Andrzej Sapkowski |  | |
-| Die Zeit der Verachtung (Hexer, #4) | Andrzej Sapkowski |  | |
-| Das Erbe der Elfen (Hexer, #3) | Andrzej Sapkowski |  | |
-| Der letzte Wunsch (Hexer, #1) | Andrzej Sapkowski |  | |
-| Das Schwert der Vorsehung (Hexer, #0) | Andrzej Sapkowski | | |
+| Sleeping Giants                | Sylvain Neuvel        | 2018-12-23  | Themis Files, #1                                        |
+| Six Pillars of Self-Esteem     | Nathaniel Branden     | 2018-12-18  |                                                         |
+| Vicious                        | Victoria E. Schwab    | 2018-12-14  | Villains, #1                                            |
+| How to Solve It                | G. Pólya              | 2018-12-14  |                                                         |
+| The Reframe: Reframe Relationships | Brian Maddox      | 2018-11-06  |                                                         |
+| Persepolis Rising              | James S.A. Corey      | 2018-08-06  | The Expanse, #7                                         |
+| Built to Sell                  | John Warrillow        | 2018-08-05  |                                                         |
+| The Charisma Myth              | Olivia Fox Cabane     | 2018-07-30  |                                                         |
+| Babylon’s Ashes                | James S.A. Corey      | 2018-07-20  | The Expanse, #6                                         |
+| How to Win Friends & Influence People | Dale Carnegie  | 2018-07-13  |                                                         |
+| The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making  | Catherynne M. Valente | 2018-07-08 | Fairyland, #1, I liked the cover |
+| Enlightenment Now: The Case for Reason, Science, Humanism, and Progress | Steven Pinker | 2018-07-02 |                         |
+| Nemesis Games                  | James S.A. Corey      | 2018-06-30  | The Expanse, #5                                         |
+| Cibola Burn                    | James S.A. Corey      | 2018-06-18  | The Expanse, #4                                         |
+| The Power of Habit             | Charles Duhigg        | 2018-06-13  |                                                         |
+| Abaddon’s Gate                 | James S.A. Corey      | 2018-06-08  | The Expanse, #3                                         |
+| Goodbye, Things: The New Japanese Minimalism           | Fumio Sasaki | 2018-06-06 |                                           |
+| The 4-Hour Workweek            | Timothy Ferriss       | 2018-06-03  |                                                         |
+| Caliban’s War                  | James S.A. Corey      | 2018-05-29  | The Expanse, #2                                         |
+| The Art of Choosing            | Sheena Iyengar        | 2018-05-28  |                                                         |
+| The Algorithm Design Manual    | Steven S. Skiena      | 2018-05-22  |                                                         |
+| A Briefer History of Time      | Stephen Hawking       | 2018-05-19  |                                                         |
+| Animal Farm                    | George Orwell         | 2018-04-21  |                                                         |
+| World War Z                    | Max Brooks            | 2018-04-18  |                                                         |
+| Artemis                        | Andy Weir             | 2018-04-01  |                                                         |
+| Leviathan Wakes                | James S.A. Corey      | 2018-03-30  | The Expanse, #1                                         |
+| Mastering JavaScript Functional Programming | Federico Kereki | 2018-03-26 |                                                   |
+| Crooked Kingdom                | Leigh Bardugo         | 2018-03-20  | Six of Crows, #2                                        |
+| The Hunter                     | Richard Stark         | 2018-03-12  | Parker, #1                                              |
+| Six of Crows                   | Leigh Bardugo         | 2018-03-10  | Six of Crows, #1                                        |
+| Responsive Web Design with HTML5 and CSS3 Essentials | Alex Libby | 2018-02-01 |                                               |
+
+### 2017
+| Title                          | Author                | Finished on | Note                                                    |
+|--------------------------------|-----------------------|-------------|---------------------------------------------------------|
+| Ready Player One               | Ernest Cline          | 2017-11-03  |                                                         |
+| Diablo III: Morbed             | Micky Neilson         | 2017-10-19  |                                                         |
+| Diablo III: Storm of Light     | Nate Kenyon           | 2017-10-14  |                                                         |
+| Diablo III: The Order          | Nate Kenyon           | 2017-10-05  |                                                         |
+| Moon of the Spider             | Richard A. Knaak      | 2017-09-24  | Diablo, #4                                              |
+| The Veiled Prophet             | Richard A. Knaak      | 2017-09-13  | Diablo: The Sin War, #3                                 |
+| Scales of the Serpent          | Richard A. Knaak      | 2017-08-30  | Diablo: The Sin War, #2                                 |
+| Birthright                     | Richard A. Knaak      | 2017-08-14  | Diablo: The Sin War, #1                                 |
+| Rabenaas: Wie man die Schatten fängt | Sarah Adler     | 2017-07-29  |                                                         |
+| The Black Road                 | Mel Odom              | 2017-07-16  | Diablo, #2                                              |
+| The Kingdom of Shadow          | Richard A. Knaak      | 2017-07-04  | Diablo, #3                                              |
+| Legacy of Blood                | Richard A. Knaak      | 2017-06-20  | Diablo, #1                                              |
+| Diablo: Demonsbane             | Robert B.  Marks      | 2017-06-11  | Diablo, #0                                              |
+| Dune                           | Frank Herbert         | 2017-05-06  | Dune, #1                                                |
+| The Shadow Out of Time         | H.P. Lovecraft        | 2017-04-01  |                                                         |
+| The Colour Out of Space and others | H.P. Lovecraft    | 2017-03-31  |                                                         |
+| The Dunwich Horror             | H.P. Lovecraft        | 2017-03-29  |                                                         |
+| The Music of Erich Zann        | H.P. Lovecraft        | 2017-03-28  |                                                         |
+| The Rats in the Walls          | H.P. Lovecraft        | 2017-03-28  |                                                         |
+| The Call of Cthulhu            | H.P. Lovecraft        | 2017-03-27  |                                                         |
+| Thief of Time                  | Terry Pratchett       | 2017-03-25  | Discworld, #26; Death, #5                               |
+| Hogfather                      | Terry Pratchett       | 2017-03-21  |                                                         |
+| Soul Music                     | Terry Pratchett       | 2017-03-01  | Discworld, #16; Death, #3                               |
+| Reaper Man                     | Terry Pratchett       | 2017-02-21  | Discworld, #11; Death, #2                               |
+| The Shepherd's Crown           | Terry Pratchett       | 2017-02-17  | Discworld, #41; Tiffany Aching, #5                      |
+| I Shall Wear Midnight          | Terry Pratchett       | 2017-02-17  | Discworld, #38; Tiffany Aching, #4                      |
+| Wintersmith                    | Terry Pratchett       | 2017-02-17  | Discworld, #35; Tiffany Aching, #3                      |
+| Mort                           | Terry Pratchett       | 2017-02-17  | Discworld, #4; Death, #1                                |
+
+### 2016
+| Title                          | Author                | Finished on | Note                                                    |
+|--------------------------------|-----------------------|-------------|---------------------------------------------------------|
+| Berserk, Vol. 37               | Kentaro Miura         | 2016-02-01  |                                                         |
+| Berserk, Vol. 36               | Kentaro Miura         | 2016-02-01  |                                                         |
+| Berserk, Vol. 35               | Kentaro Miura         | 2016-02-01  |                                                         |
+| Berserk, Vol. 34               | Kentaro Miura         | 2016-01-01  |                                                         |
+| Berserk, Vol. 32               | Kentaro Miura         | 2016-01-01  |                                                         |
+| Berserk, Vol. 33               | Kentaro Miura         | 2016-01-01  |                                                         |
+| Berserk, Vol. 31               | Kentaro Miura         | 2016-01-01  |                                                         |
+| Berserk, Vol. 30               | Kentaro Miura         | 2016-01-01  |                                                         |
+
+### 2015
+| Title                          | Author                | Finished on | Note                                                    |
+|--------------------------------|-----------------------|-------------|---------------------------------------------------------|
+| Berserk, Vol. 29               | Kentaro Miura         | 2015-12-01  |                                                         |
+| Berserk, Vol. 28               | Kentaro Miura         | 2015-12-01  |                                                         |
+| Berserk, Vol. 27               | Kentaro Miura         | 2015-12-01  |                                                         |
+| Berserk, Vol. 26               | Kentaro Miura         | 2015-12-01  |                                                         |
+| Berserk, Vol. 25               | Kentaro Miura         | 2015-12-01  |                                                         |
+| Berserk, Vol. 24               | Kentaro Miura         | 2015-12-01  |                                                         |
+| Berserk, Vol. 23               | Kentaro Miura         | 2015-12-01  |                                                         |
+| Berserk, Vol. 22               | Kentaro Miura         | 2015-11-01  |                                                         |
+| Berserk, Vol. 21               | Kentaro Miura         | 2015-11-01  |                                                         |
+| Berserk, Vol. 20               | Kentaro Miura         | 2015-11-01  |                                                         |
+| Berserk, Vol. 19               | Kentaro Miura         | 2015-11-01  |                                                         |
+| Berserk, Vol. 18               | Kentaro Miura         | 2015-11-01  |                                                         |
+| Berserk, Vol. 17               | Kentaro Miura         | 2015-10-01  |                                                         |
+| Berserk, Vol. 16               | Kentaro Miura         | 2015-10-01  |                                                         |
+| Berserk, Vol. 15               | Kentaro Miura         | 2015-10-01  |                                                         |
+| Berserk, Vol. 14               | Kentaro Miura         | 2015-10-01  |                                                         |
+| Berserk, Vol. 13               | Kentaro Miura         | 2015-10-01  |                                                         |
+| Berserk, Vol. 12               | Kentaro Miura         | 2015-10-01  |                                                         |
+| Berserk, Vol. 11               | Kentaro Miura         | 2015-10-01  |                                                         |
+| Berserk, Vol. 10               | Kentaro Miura         | 2015-10-01  |                                                         |
+| Berserk, Vol. 9                | Kentaro Miura         | 2015-10-01  |                                                         |
+| Berserk, Vol. 7                | Kentaro Miura         | 2015-09-01  |                                                         |
+| Berserk, Vol. 6                | Kentaro Miura         | 2015-09-01  |                                                         |
+| Berserk, Vol. 5                | Kentaro Miura         | 2015-09-01  |                                                         |
+| Berserk, Vol. 8                | Kentaro Miura         | 2015-09-01  |                                                         |
+| Berserk, Vol. 4                | Kentaro Miura         | 2015-09-01  |                                                         |
+| Berserk, Vol. 3                | Kentaro Miura         | 2015-09-01  |                                                         |
+| Berserk, Vol. 2                | Kentaro Miura         | 2015-09-01  |                                                         |
+| Berserk, Vol. 1                | Kentaro Miura         | 2015-09-01  |                                                         |
+
+### 2014
+| Title                          | Author                | Finished on | Note                                                    |
+|--------------------------------|-----------------------|-------------|---------------------------------------------------------|
+| Fullmetal Alchemist, Vol. 23   | Hiromu Arakawa        | 2014-07-01  |                                                         |
+| Fullmetal Alchemist, Vol. 24   | Hiromu Arakawa        | 2014-07-01  |                                                         |
+| Fullmetal Alchemist, Vol. 25   | Hiromu Arakawa        | 2014-07-01  |                                                         |
+| Fullmetal Alchemist, Vol. 26   | Hiromu Arakawa        | 2014-07-01  |                                                         |
+| Fullmetal Alchemist, Vol. 27   | Hiromu Arakawa        | 2014-07-01  |                                                         |
+| Fullmetal Alchemist, Vol. 22   | Hiromu Arakawa        | 2014-06-01  |                                                         |
+| Fullmetal Alchemist, Vol. 21   | Hiromu Arakawa        | 2014-06-01  |                                                         |
+| Fullmetal Alchemist, Vol. 20   | Hiromu Arakawa        | 2014-06-01  |                                                         |
+| Fullmetal Alchemist, Vol. 19   | Hiromu Arakawa        | 2014-06-01  |                                                         |
+| Fullmetal Alchemist, Vol. 18   | Hiromu Arakawa        | 2014-06-01  |                                                         |
+| Fullmetal Alchemist, Vol. 17   | Hiromu Arakawa        | 2014-06-01  |                                                         |
+| Fullmetal Alchemist, Vol. 16   | Hiromu Arakawa        | 2014-06-01  |                                                         |
+| Fullmetal Alchemist, Vol. 15   | Hiromu Arakawa        | 2014-06-01  |                                                         |
+| Fullmetal Alchemist, Vol. 14   | Hiromu Arakawa        | 2014-06-01  |                                                         |
+| Fullmetal Alchemist, Vol. 13   | Hiromu Arakawa        | 2014-06-01  |                                                         |
+| Fullmetal Alchemist, Vol. 12   | Hiromu Arakawa        | 2014-05-01  |                                                         |
+| Fullmetal Alchemist, Vol. 11   | Hiromu Arakawa        | 2014-05-01  |                                                         |
+| Fullmetal Alchemist, Vol. 10   | Hiromu Arakawa        | 2014-05-01  |                                                         |
+| Fullmetal Alchemist, Vol. 9    | Hiromu Arakawa        | 2014-05-01  |                                                         |
+| Fullmetal Alchemist, Vol. 8    | Hiromu Arakawa        | 2014-05-01  |                                                         |
+| Fullmetal Alchemist, Vol. 7    | Hiromu Arakawa        | 2014-05-01  |                                                         |
+| Fullmetal Alchemist, Vol. 6    | Hiromu Arakawa        | 2014-05-01  |                                                         |
+| Fullmetal Alchemist, Vol. 5    | Hiromu Arakawa        | 2014-05-01  |                                                         |
+| Fullmetal Alchemist, Vol. 4    | Hiromu Arakawa        | 2014-04-01  |                                                         |
+| Fullmetal Alchemist, Vol. 3    | Hiromu Arakawa        | 2014-04-01  |                                                         |
+| Fullmetal Alchemist, Vol. 2    | Hiromu Arakawa        | 2014-04-01  |                                                         |
+| Fullmetal Alchemist, Vol. 1    | Hiromu Arakawa        | 2014-04-01  |                                                         |
+
+### Earlier
+I couldn't find or remember when exactly I read the following books.
+Some might have been read in 2014 as well, but many earlier.
+
+| Title                          | Author                | Note                                                    |
+|--------------------------------|-----------------------|---------------------------------------------------------|
+| Professor Frisby's Mostly Adequate Guide to Functional Programming | Brian Lonsdorf                              |
+| Knochenjob                     | Sarah Adler           |                                                         |
+| Der Triumph der Zwerge         | Markus Heitz          | Die Zwerge, #5                                          |
+| Das Schicksal der Zwerge       | Markus Heitz          | Die Zwerge, #4                                          |
+| Die Rache der Zwerge           | Markus Heitz          | Die Zwerge, #3                                          |
+| Der Krieg der Zwerge           | Markus Heitz          | Die Zwerge, #2                                          |
+| Die Zwege                      | Markus Heitz          | Die Zwerge, #1                                          |
+| Steppenwolf                    | Hermann Hesse         |                                                         |
+| Prince of Thorns               | Mark  Lawrence        | Broken Empire, #1                                       |
+| The Man in the High Castle     | Philip K. Dick        |                                                         |
+| 1984                           | George Orwell         |                                                         |
+| A Hat Full of Sky              | Terry Pratchett       | Discworld, #32; Tiffany Aching, #2                      |
+| The Wee Free Men               | Terry Pratchett       | Discworld, #30; Tiffany Aching, #1                      |
+| The Art of War                 | Sun Tzu               |                                                         |
+| A Dance with Dragons           | George R.R. Martin    | A Song of Ice and Fire, #5                              |
+| A Feast for Crows              | George R.R. Martin    | A Song of Ice and Fire, #4                              |
+| A Storm of Swords              | George R.R. Martin    | A Song of Ice and Fire, #3                              |
+| A Clash of Kings               | George R.R. Martin    | A Song of Ice and Fire, #2                              |
+| A Game of Thrones              | George R.R. Martin    | A Song of Ice and Fire, #1, Read twice                  |
+| Eragon                         | Christopher Paolini   | The Inheritance Cycle #1                                |
+| The Color of Magic             | Terry Pratchett       | Discworld, #1; Rincewind, #1                            |
+| Fahrenheit 451                 | Ray Bradbury          |                                                         |
+| The Great Gatsby               | F. Scott Fitzgerald   |                                                         |
+| Zeit des Sturms                | Andrzej Sapkowski     | Hexer, #8                                               |
+| Die Dame vom See               | Andrzej Sapkowski     | Hexer, #7                                               |
+| Der Schwalbenturm              | Andrzej Sapkowski     | Hexer, #6                                               |
+| Feuertaufe                     | Andrzej Sapkowski     | Hexer, #5                                               |
+| Die Zeit der Verachtung        | Andrzej Sapkowski     | Hexer, #4                                               |
+| Das Erbe der Elfen             | Andrzej Sapkowski     | Hexer, #3                                               |
+| Der letzte Wunsch              | Andrzej Sapkowski     | Hexer, #1                                               |
+| Das Schwert der Vorsehung      | Andrzej Sapkowski     | Hexer, #0                                               |
