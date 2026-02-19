@@ -64,9 +64,9 @@ url = "/now"
 name = "Posts"
 url = "/posts"
 
-[[params.menu]]
-name = "TIL"
-url = "/tags/today-i-learned/"
+# [[params.menu]]
+# name = "TIL"
+# url = "/tags/today-i-learned/"
 
 [[params.menu]]
 name = "Gallery"
