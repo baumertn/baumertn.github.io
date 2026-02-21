@@ -39,7 +39,6 @@ Mostly to have an easier time choosing what to read next.
 | Crime and Punishment           | Fyodor Dostoevsky     |                                                         |
 | Emma                           | Mori Kaoru            | Manga                                                   |
 | Gardens of the Moon            | Steven Erikson        | Malazan Book of the Fallen, #1                          |
-| Gilead                         | Marilynne Robinson    |                                                         |
 | Happiness                      | Shūzō Oshimi          | If this does not work, Oshimi is not for me             |
 | Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                                               |
 | Light Bringer                  | Pierce Brown          | Red Rising Saga, #6                                     |
@@ -52,7 +51,6 @@ Mostly to have an easier time choosing what to read next.
 | The School of Essential Ingredients | Erica Bauermeister |                                                       |
 | Twelve Months                  | Jim  Butcher          | The Dresden Files, #18, Unreleased                      |
 | Victorious (Villains, #3)      | Victoria E. Schwab    | Unreleased                                              |
-| Watashitachi no Shiawase na Jikan | Yumi Tamura        | Moral ambiguity, heavy but clean                        |
 | Witch Hat Atelier              | Shirahama Kamome      | Manga                                                   |
 
 ### Non-fiction
@@ -86,6 +84,8 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 ### 2026
 | Title                                | Author                | Finished on | Note                                                    |
 |--------------------------------------|-----------------------|-------------|---------------------------------------------------------|
+| Gilead                               | Marilynne Robinson    | READING     |                                                         |
+| Our Happy Hours                      | Yumi Tamura           | READING     | Moral ambiguity, heavy but clean                        |
 | On Writing Well                      | William Zinsser       | READING     | "The Classic Guide to Writing Nonfiction"               |
 | Foster                               | Claire Keegan         | 2026-02-17  |                                                         |
 | Never Let Me Go                      | Kazuo Ishiguro        | 2026-02-16  |                                                         |

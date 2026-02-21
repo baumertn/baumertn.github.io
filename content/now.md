@@ -22,6 +22,8 @@ draft = false
 
 ## Reading
 - _On Writing Well: The Classic Guide to Writing Nonfiction_ – William Zinsser
+- _Gilead_ – Marilynne Robinson
+- _Our Happy Hours_ – Yumi Tamura
 
 For a complete list of what I've been reading check out the [library](/library).
 
