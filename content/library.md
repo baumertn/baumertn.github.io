@@ -84,7 +84,7 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 ### 2026
 | Title                                | Author                | Finished on | Note                                                    |
 |--------------------------------------|-----------------------|-------------|---------------------------------------------------------|
-| Gilead                               | Marilynne Robinson    | READING     |                                                         |
+| Gilead                               | Marilynne Robinson    | 2026-02-28  | DNF                                                     |
 | On Writing Well                      | William Zinsser       | READING     | "The Classic Guide to Writing Nonfiction"               |
 | Our Happy Hours                      | Yumi Tamura           | 2026-02-23  | Moral ambiguity, heavy but clean                        |
 | Foster                               | Claire Keegan         | 2026-02-17  |                                                         |
