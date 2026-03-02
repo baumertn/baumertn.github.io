@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-02-23
+date = 2026-03-02
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -37,7 +37,6 @@ Mostly to have an easier time choosing what to read next.
 | Beneath the Trees Where Nobody Sees | Patrick Horvath  |                                                         |
 | Book of Night                  | Holly Black           |                                                         |
 | Crime and Punishment           | Fyodor Dostoevsky     |                                                         |
-| Emma                           | Mori Kaoru            | Manga                                                   |
 | Gardens of the Moon            | Steven Erikson        | Malazan Book of the Fallen, #1                          |
 | Happiness                      | Shūzō Oshimi          | If this does not work, Oshimi is not for me             |
 | Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                                               |
@@ -84,8 +83,9 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 ### 2026
 | Title                                | Author                | Finished on | Note                                                    |
 |--------------------------------------|-----------------------|-------------|---------------------------------------------------------|
-| Gilead                               | Marilynne Robinson    | 2026-02-28  | DNF                                                     |
+| Emma                                 | Mori Kaoru            | READING     | Manga                                                   |
 | On Writing Well                      | William Zinsser       | READING     | "The Classic Guide to Writing Nonfiction"               |
+| Gilead                               | Marilynne Robinson    | 2026-02-28  | DNF                                                     |
 | Our Happy Hours                      | Yumi Tamura           | 2026-02-23  | Moral ambiguity, heavy but clean                        |
 | Foster                               | Claire Keegan         | 2026-02-17  |                                                         |
 | Never Let Me Go                      | Kazuo Ishiguro        | 2026-02-16  |                                                         |
