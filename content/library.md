@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-03-02
+date = 2026-03-05
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -83,8 +83,8 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 ### 2026
 | Title                                | Author                | Finished on | Note                                                    |
 |--------------------------------------|-----------------------|-------------|---------------------------------------------------------|
-| Emma                                 | Mori Kaoru            | READING     | Manga                                                   |
 | On Writing Well                      | William Zinsser       | READING     | "The Classic Guide to Writing Nonfiction"               |
+| Emma                                 | Mori Kaoru            | 2026-03-05  |                                                         |
 | Gilead                               | Marilynne Robinson    | 2026-02-28  | DNF                                                     |
 | Our Happy Hours                      | Yumi Tamura           | 2026-02-23  | Moral ambiguity, heavy but clean                        |
 | Foster                               | Claire Keegan         | 2026-02-17  |                                                         |
