@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-03-05
+date = 2026-03-07
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = false
@@ -16,7 +16,7 @@ draft = false
 
 
 ## Adventure
-- Planning the first longer hike of the year.
+- Finished the first longer hike of the year. It was a bit shorter than originally planned, but still nice.
 
 <!-- ## Music -->
 

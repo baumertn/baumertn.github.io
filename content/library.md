@@ -38,7 +38,6 @@ Mostly to have an easier time choosing what to read next.
 | Book of Night                  | Holly Black           |                                                         |
 | Crime and Punishment           | Fyodor Dostoevsky     |                                                         |
 | Gardens of the Moon            | Steven Erikson        | Malazan Book of the Fallen, #1                          |
-| Happiness                      | Shūzō Oshimi          | If this does not work, Oshimi is not for me             |
 | Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                                               |
 | Light Bringer                  | Pierce Brown          | Red Rising Saga, #6                                     |
 | No, You’re Not                 | Fumiyo Kōno           |                                                         |
@@ -84,6 +83,7 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 | Title                                | Author                | Finished on | Note                                                    |
 |--------------------------------------|-----------------------|-------------|---------------------------------------------------------|
 | On Writing Well                      | William Zinsser       | READING     | "The Classic Guide to Writing Nonfiction"               |
+| Happiness                            | Shūzō Oshimi          | READING     |                                                         |
 | Emma                                 | Mori Kaoru            | 2026-03-05  |                                                         |
 | Gilead                               | Marilynne Robinson    | 2026-02-28  | DNF                                                     |
 | Our Happy Hours                      | Yumi Tamura           | 2026-02-23  | Moral ambiguity, heavy but clean                        |
@@ -128,48 +128,48 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 ### 2024
 | Title                          | Author                | Finished on | Note                                                    |
 |--------------------------------|-----------------------|-------------|---------------------------------------------------------|
-| The Great Mental Models, Volume 4| Shane Parrish, Rhiannon Beaubien | 2024-11 | |
-| Critique of Pure Reason        | Immanuel Kant         | 2024-10     | audio summary from Blinkist |
-| Meditations on First Philosophy | René Descartes       | 2024-09     | audio summary from Blinkist |
-| 'Til Stress Do Us Part         | Elizabeth Earnshaw    | 2024-09     | audio summary from Blinkist |
-| The Message                    | Ta-Nehisi Coates      | 2024-08     | audio summary from Blinkist |
-| Weird Parenting Wins           | Hillary Frank         | 2024-08     | |
-| Either/Or                      | Soren Kierkegaard     | 2024-08     | audio summary from Blinkist |
-| Life’s Amazing Secrets         | Gaur Gopal Das        | 2024-07     | audio summary from Blinkist |
-| Two Awesome Hours              | Josh Davis            | 2024-07     | |
-| Own the Day, Own Your Life     | Aubrey Marcus         | 2024-07     | |
-| On Freedom                     | Timothy Snyder        | 2024-07     | |
-| Non-Obvious Thinking      | Rohit Bhargava, Ben DuPont | 2024-07     | |
-| Long-Term Thinking for a Short-Sighted World | Jim Brumm | 2024-06   | |
-| How to Stop Breaking Your Own Heart | Meggan Roxanne   | 2024-06     | |
-| I Never Thought of It That Way | Mónica Guzmán         | 2024-06     | |
-| Intentionality                 | Finnian Kelly         | 2024-06     | |
-| Uncommon                       | Mark Divine           | 2024-06     | audio summary from Blinkist|
-| No Ego                         | Cy Wakeman            | 2024-06     | |
-| Negotiation Made Simple        | John Lowry            | 2024-05     | |
-| Become What You Are            | Alan Watts            | 2024-05     | |
-| The 12 Week Year | Brian P. Moran and Michael Lennington | 2024-05   | |
-| High Growth Handbook           | Elad Gil              | 2024-05     | audio summary from Blinkist|
-| Becoming a Changemaker         | Alex Budak            | 2024-04     | audio summary from Blinkist|
-| Idea to Execution     | Ari Meisel and Nick Sonnenberg | 2024-04     | audio summary from Blinkist|
-| Four Thousand Weeks            | Oliver Burkeman       | 2024-04     | audio summary from Blinkist|
-| The Startup Playbook           | David S. Kidder       | 2024-04     | audio summary from Blinkist|
-| Do Bigger Things         | Dan McClure, Jennifer Wilde | 2024-04     | |
-| See You at the Top             | Zig Ziglar            | 2024-03     |audio summary from Blinkist  |
-| Leading Yourself               | Elizabeth Lotardo     | 2024-03     | |
-| The First Minute               | Chris Fenning         | 2024-03     | |
-| Six Thinking Hats              | Edward de Bono        | 2024-03     | |
-| The Problems of Philosophy     | Bertrand Russell      | 2024-03     | audio summary from Blinkist |
-| Linchpin                       | Seth Godin            | 2024-03     | |
-| Start-up of You        | Reid Hoffman and Ben Casnocha | 2024-02     | audio summary from Blinkist |
-| Smart, Not Loud                | Jessica Chen          | 2024-02     | audio summary from Blinkist |
-| How to Lead When You're Not in Charge | Clay Scroggins | 2024-02     | audio summary from Blinkist |
-| Set for Life                   | Scott Trench          | 2024-02     | audio summary from Blinkist |
-| Start Now. Get Perfect Later.  | Rob Moore             | 2024-02     | |
-| Showing Up for Life | Bill Gates, Sr., Mary Ann Mackin | 2024-01     | |
-| Practical Ethics               | Peter Singer          | 2024-01     | |
-| How to Enjoy Your Life and Your Job | Dale Carnegie    | 2024-01     | |
-| Powered by Me                  | Neha Sangwan          | 2024-01     | |
+| The Great Mental Models, Volume 4| Shane Parrish, Rhiannon Beaubien | 2024-11 |                                                |
+| Critique of Pure Reason        | Immanuel Kant         | 2024-10     | audio summary from Blinkist                             |
+| Meditations on First Philosophy | René Descartes       | 2024-09     | audio summary from Blinkist                             |
+| 'Til Stress Do Us Part         | Elizabeth Earnshaw    | 2024-09     | audio summary from Blinkist                             |
+| The Message                    | Ta-Nehisi Coates      | 2024-08     | audio summary from Blinkist                             |
+| Weird Parenting Wins           | Hillary Frank         | 2024-08     |                                                         |
+| Either/Or                      | Soren Kierkegaard     | 2024-08     | audio summary from Blinkist                             |
+| Life’s Amazing Secrets         | Gaur Gopal Das        | 2024-07     | audio summary from Blinkist                             |
+| Two Awesome Hours              | Josh Davis            | 2024-07     |                                                         |
+| Own the Day, Own Your Life     | Aubrey Marcus         | 2024-07     |                                                         |
+| On Freedom                     | Timothy Snyder        | 2024-07     |                                                         |
+| Non-Obvious Thinking      | Rohit Bhargava, Ben DuPont | 2024-07     |                                                         |
+| Long-Term Thinking for a Short-Sighted World | Jim Brumm | 2024-06   |                                                         |
+| How to Stop Breaking Your Own Heart | Meggan Roxanne   | 2024-06     |                                                         |
+| I Never Thought of It That Way | Mónica Guzmán         | 2024-06     |                                                         |
+| Intentionality                 | Finnian Kelly         | 2024-06     |                                                         |
+| Uncommon                       | Mark Divine           | 2024-06     | audio summary from Blinkist                             |
+| No Ego                         | Cy Wakeman            | 2024-06     |                                                         |
+| Negotiation Made Simple        | John Lowry            | 2024-05     |                                                         |
+| Become What You Are            | Alan Watts            | 2024-05     |                                                         |
+| The 12 Week Year | Brian P. Moran and Michael Lennington | 2024-05   |                                                         |
+| High Growth Handbook           | Elad Gil              | 2024-05     | audio summary from Blinkist                             |
+| Becoming a Changemaker         | Alex Budak            | 2024-04     | audio summary from Blinkist                             |
+| Idea to Execution     | Ari Meisel and Nick Sonnenberg | 2024-04     | audio summary from Blinkist                             |
+| Four Thousand Weeks            | Oliver Burkeman       | 2024-04     | audio summary from Blinkist                             |
+| The Startup Playbook           | David S. Kidder       | 2024-04     | audio summary from Blinkist                             |
+| Do Bigger Things         | Dan McClure, Jennifer Wilde | 2024-04     |                                                         |
+| See You at the Top             | Zig Ziglar            | 2024-03     |audio summary from Blinkist                              |
+| Leading Yourself               | Elizabeth Lotardo     | 2024-03     |                                                         |
+| The First Minute               | Chris Fenning         | 2024-03     |                                                         |
+| Six Thinking Hats              | Edward de Bono        | 2024-03     |                                                         |
+| The Problems of Philosophy     | Bertrand Russell      | 2024-03     | audio summary from Blinkist                             |
+| Linchpin                       | Seth Godin            | 2024-03     |                                                         |
+| Start-up of You        | Reid Hoffman and Ben Casnocha | 2024-02     | audio summary from Blinkist                             |
+| Smart, Not Loud                | Jessica Chen          | 2024-02     | audio summary from Blinkist                             |
+| How to Lead When You're Not in Charge | Clay Scroggins | 2024-02     | audio summary from Blinkist                             |
+| Set for Life                   | Scott Trench          | 2024-02     | audio summary from Blinkist                             |
+| Start Now. Get Perfect Later.  | Rob Moore             | 2024-02     |                                                         |
+| Showing Up for Life | Bill Gates, Sr., Mary Ann Mackin | 2024-01     |                                                         |
+| Practical Ethics               | Peter Singer          | 2024-01     |                                                         |
+| How to Enjoy Your Life and Your Job | Dale Carnegie    | 2024-01     |                                                         |
+| Powered by Me                  | Neha Sangwan          | 2024-01     |                                                         |
 
 ### 2023
 | Title                          | Author                | Finished on | Note                                                    |
@@ -182,7 +182,7 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 | The 15 Commitments of Conscious Leadership | Jim Dethmer, Diana Chapman and Kaley Warner Klemp | 2023-11 | |
 | The Sleep Prescription         | Aric Prather          | 2023-11  | |
 | The Psychology of Money        | Morgan Housel         | 2023-11  | audio summary from Blinkist |
-| The Burnout Fix: Overcome Overwhelm, Beat Busy, and Sustain Success in the New World of Work | Jacinta M. Jiménez | 2023-10-01 |  |
+| The Burnout Fix                | Jacinta M. Jiménez    | 2023-10-01 |  |
 | Trust: Knowing When to Give It, When to Withhold It, How to Earn It, and How to Fix It When It Gets Broken | Henry Cloud | 2023-10-01 |  |
 | Wabi Sabi: Japanese Wisdom for a Perfectly Imperfect Life | Beth Kempton | 2023-10-01 | audio summary from Blinkist |
 | Pathways to Peace of Mind | Napoleon Hill | 2023-10-01 | |
@@ -384,26 +384,10 @@ and their summaries became worse. I don't have proof, but it's how I felt. I sto
 | Learning SQL: Master SQL Fundamentals | Alan Beaulieu | 2020-09-11 | |
 | Skyward (Skyward, #1) | Brandon Sanderson | 2020-09-06 | |
 | The Pragmatic Programmer | Andrew Hunt | 2020-08-26 | |
-| BEASTARS 20 | Paru Itagaki | 2020-08-24 | |
-| BEASTARS 19 | Paru Itagaki | 2020-08-23 | |
-| BEASTARS 18 | Paru Itagaki | 2020-08-23 | |
-| BEASTARS 17 | Paru Itagaki | 2020-08-23 | |
-| BEASTARS 16 | Paru Itagaki | 2020-08-23 | |
-| BEASTARS 15 | Paru Itagaki | 2020-08-23 | |
-| BEASTARS 14 | Paru Itagaki | 2020-08-23 | |
-| BEASTARS 13 | Paru Itagaki | 2020-08-23 | |
-| BEASTARS 12 | Paru Itagaki | 2020-08-23 | |
-| BEASTARS 11 | Paru Itagaki | 2020-08-23 | |
-| BEASTARS 10 | Paru Itagaki | 2020-08-22 | |
-| BEASTARS 9  | Paru Itagaki | 2020-08-22 | |
-| BEASTARS 8  | Paru Itagaki | 2020-08-22 | |
-| BEASTARS 7  | Paru Itagaki | 2020-08-22 | |
-| BEASTARS 5  | Paru Itagaki | 2020-08-22 | |
-| BEASTARS 6  | Paru Itagaki | 2020-08-22 | |
-| BEASTARS 4  | Paru Itagaki | 2020-08-21 | |
-| BEASTARS 3  | Paru Itagaki | 2020-08-21 | |
-| BEASTARS 2  | Paru Itagaki | 2020-08-21 | |
-| BEASTARS 1  | Paru Itagaki | 2020-08-21 | |
+| BEASTARS Volume 20 | Paru Itagaki | 2020-08-24 | |
+| BEASTARS Volume 11–19 | Paru Itagaki | 2020-08-22 | |
+| BEASTARS Volume 5–10  | Paru Itagaki | 2020-08-22 | |
+| BEASTARS Volume 1–4   | Paru Itagaki | 2020-08-21 | |
 | Fire & Blood (A Targaryen History, #1) | George R.R. Martin | 2020-08-21 | |
 | Self-Made Man: One Woman's Journey Into Manhood and Back Again | Norah Vincent | 2020-08-15 | |
 | Peace Talks (The Dresden Files, #16) | Jim  Butcher | 2020-08-08 | |
