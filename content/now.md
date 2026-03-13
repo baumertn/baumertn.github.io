@@ -1,33 +1,35 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-03-07
+date = 2026-03-13
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = false
 readTime = false
 autonumber = false
 math = true
-tags = ["adventure", "music", "software", "tech", "writing", "now", "reading", "books"]
-showTags = true
+tags = ["adventure", "music", "software", "tech", "writing", "now", "reading", "books", "tv", "film", "shows", "movies"]
+showTags = false
 hideBackToTop = false
 hidePagination = true
 draft = false
 +++
 
 
-## Adventure
-- Finished the first longer hike of the year. It was a bit shorter than originally planned, but still nice.
+<!-- ## Adventure -->
 
 <!-- ## Music -->
 
 ## Reading
-- _On Writing Well: The Classic Guide to Writing Nonfiction_ – William Zinsser
+- _Happiness_ – Shūzō Oshimi
 
 
 For a complete list of what I've been reading check out the [library](/library).
 
-## Software & Tech
-- Exploring [Elixir](https://exlixir.com/) with [Phoenix](https://phoenixframework.org/) for web development. Very early stages, though!
+## Film & Television
+- _The Pitt_
+- _Scrubs_ (the new one)
+
+<!-- ## Software & Tech -->
 
 <!-- ## Writing -->
 
