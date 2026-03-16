@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-03-13
+date = 2026-03-16
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -30,39 +30,39 @@ See what I'm currently reading on my [/now page](/now)!
 Mostly to have an easier time choosing what to read next.
 
 ### Fiction
-| Title                          | Author                | Note                                                    |
-|--------------------------------|-----------------------|---------------------------------------------------------|
-| A Canticle of Two Souls        | Steven Raaymakers     |                                                         |
-| Asunder                        | David Gaider          | Dragon Age, #3                                          |
-| Beneath the Trees Where Nobody Sees | Patrick Horvath  |                                                         |
-| Book of Night                  | Holly Black           |                                                         |
-| Crime and Punishment           | Fyodor Dostoevsky     |                                                         |
-| Gardens of the Moon            | Steven Erikson        | Malazan Book of the Fallen, #1                          |
-| Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                                               |
-| Light Bringer                  | Pierce Brown          | Red Rising Saga, #6                                     |
-| No, You’re Not                 | Fumiyo Kōno           |                                                         |
-| Platform Decay                 | Martha Wells          | The Murderbot Diaries, #8, Unreleased                   |
-| Shimanami Tasogare             | Yuhki Kamatani        | Cautiously recommended                                  |
-| Snow Country                   | Yasunari Kawabata     |                                                         |
-| System Collapse                | Martha Wells          | The Murderbot Diaries, #7                               |
-| The Apothecary Diaries         | Hyuuga Natsu, Nanao Itsuki | Manga                                              |
-| The School of Essential Ingredients | Erica Bauermeister |                                                       |
-| Twelve Months                  | Jim  Butcher          | The Dresden Files, #18, Unreleased                      |
-| Victorious (Villains, #3)      | Victoria E. Schwab    | Unreleased                                              |
-| Witch Hat Atelier              | Shirahama Kamome      | Manga                                                   |
+| Title                          | Author                | Note                                  |
+|--------------------------------|-----------------------|---------------------------------------|
+| A Canticle of Two Souls        | Steven Raaymakers     |                                       |
+| Asunder                        | David Gaider          | Dragon Age, #3                        |
+| Beneath the Trees Where Nobody Sees | Patrick Horvath  |                                       |
+| Book of Night                  | Holly Black           |                                       |
+| Crime and Punishment           | Fyodor Dostoevsky     |                                       |
+| Gardens of the Moon            | Steven Erikson        | Malazan Book of the Fallen, #1        |
+| Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                             |
+| Light Bringer                  | Pierce Brown          | Red Rising Saga, #6                   |
+| No, You’re Not                 | Fumiyo Kōno           |                                       |
+| Platform Decay                 | Martha Wells          | The Murderbot Diaries, #8, Unreleased |
+| Shimanami Tasogare             | Yuhki Kamatani        | Cautiously recommended                |
+| Snow Country                   | Yasunari Kawabata     |                                       |
+| System Collapse                | Martha Wells          | The Murderbot Diaries, #7             |
+| The Apothecary Diaries         | Hyuuga Natsu, Nanao Itsuki | Manga                            |
+| The School of Essential Ingredients | Erica Bauermeister |                                     |
+| Twelve Months                  | Jim  Butcher          | The Dresden Files, #18, Unreleased    |
+| Victorious (Villains, #3)      | Victoria E. Schwab    | Unreleased                            |
+| Witch Hat Atelier              | Shirahama Kamome      | Manga                                 |
 
 ### Non-fiction
-| Title                          | Author                | Note/Field                                              |
-|--------------------------------|-----------------------|---------------------------------------------------------|
-| A Philosophy of Software Design | John Ousterhout      | Computer Science                                        |
-| Babbling Corpse                | Grafton Tanner        | History, Psychology, Tech                               |
-| Designing Data-Intensive Applications | Martin Kleppmann | Computer Science                                      |
-| Hacker's Delight               | Henry S. Warren       | Computer Science                                        |
-| The Bright Ages: A New History of Medieval Europe | Matthew Gabriele | History                                   |
-| The Cambridge Handbook of Personal Relationships |  Anita L. Vangelisti | Social Psychology                      |
-| The Mom Test                   | Rob Fitzpatrick       | UX                                                      |
-| The Psychology of Money        | Morgan Housel         | Finance                                                 |
-| Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera | Bryan Peterson | Photography |
+| Title                                             | Author                | Note/Field                |
+|---------------------------------------------------|-----------------------|---------------------------|
+| A Philosophy of Software Design                   | John Ousterhout       | Computer Science          |
+| Babbling Corpse                                   | Grafton Tanner        | History, Psychology, Tech |
+| Designing Data-Intensive Applications             | Martin Kleppmann      | Computer Science          |
+| Hacker's Delight                                  | Henry S. Warren       | Computer Science          |
+| The Bright Ages: A New History of Medieval Europe | Matthew Gabriele      | History                   |
+| The Cambridge Handbook of Personal Relationships  |  Anita L. Vangelisti  | Social Psychology         |
+| The Mom Test                                      | Rob Fitzpatrick       | UX                        |
+| The Psychology of Money                           | Morgan Housel         | Finance                   |
+| Understanding Exposure                            | Bryan Peterson        | Photography               |
 
 ## Finished books
 Don't judge me too harshly for the selection of books over the years.
@@ -78,30 +78,29 @@ The _Blinkist_ services was enjoyable until the whole AI-craze began.
 I think they replaced most – or all – of their readers with AI voices and used AI for the summaries.
 I can't prove it, but the quality felt worse and so I stopped using it completely in late 2024.
 
-
 2025-12-20: I've decided to split the list into sections by year.
 
 ### 2026
-| Title                                | Author                | Finished on | Note                                                    |
-|--------------------------------------|-----------------------|-------------|---------------------------------------------------------|
-| Happiness                            | Shūzō Oshimi          | READING     |                                                         |
-| On Writing Well                      | William Zinsser       | 2026-03-13  | "The Classic Guide to Writing Nonfiction"               |
-| Emma                                 | Mori Kaoru            | 2026-03-05  |                                                         |
-| Gilead                               | Marilynne Robinson    | 2026-02-28  | DNF                                                     |
-| Our Happy Hours                      | Yumi Tamura           | 2026-02-23  | Moral ambiguity, heavy but clean                        |
-| Foster                               | Claire Keegan         | 2026-02-17  |                                                         |
-| Never Let Me Go                      | Kazuo Ishiguro        | 2026-02-16  |                                                         |
-| Strange Weather in Tokyo             | Hiromi Kawakami       | 2026-02-10  |                                                         |
-| The Sense of an Ending               | Julian Barnes         | 2026-02-07  |                                                         |
-| Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin       | 2026-02-04  |                                                         |
-| I Hear the Sunspot                   | Yuki Fumino           | 2026-02-01  |                                                         |
-| Atonement                            | Ian McEwan            | 2026-12-29  |                                                         |
-| Plainsong                            | Kent Haruf            | 2026-01-22  |                                                         |
-| Sunny                                | Matsumoto Taiyou      | 2026-01-15  |                                                         |
-| My Girl                              | Mizu Sahara           | 2026-01-13  |                                                         |
-| The Gods Lie                         | Ozaki Kaori           | 2026-01-11  |                                                         |
-| March Comes in Like a Lion           | Umino Chica           | 2026-01-04  | Read up to chapter 32 (latest as of 2026-01)            |
-| Historié                             | Hitoshi Iwaaki        | 2026-01-02  | On hiatus. Read up to chapter 65 (latest as of 2026-01) |
+| Title                                | Author                | Finished on | Note                                                      |
+|--------------------------------------|-----------------------|-------------|-----------------------------------------------------------|
+| Happiness                            | Shūzō Oshimi          | 2026-03-15  | Better than previous work of the author I couldn't finish |
+| On Writing Well                      | William Zinsser       | 2026-03-13  | "The Classic Guide to Writing Nonfiction"                 |
+| Emma                                 | Mori Kaoru            | 2026-03-05  |                                                           |
+| Gilead                               | Marilynne Robinson    | 2026-02-28  | DNF, style didn't engage me                               |
+| Our Happy Hours                      | Yumi Tamura           | 2026-02-23  |                                                           |
+| Foster                               | Claire Keegan         | 2026-02-17  | Interesting, subdue worldbuilding                         |
+| Never Let Me Go                      | Kazuo Ishiguro        | 2026-02-16  |                                                           |
+| Strange Weather in Tokyo             | Hiromi Kawakami       | 2026-02-10  | A bit weird                                               |
+| The Sense of an Ending               | Julian Barnes         | 2026-02-07  |                                                           |
+| Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin       | 2026-02-04  |                                                           |
+| I Hear the Sunspot                   | Yuki Fumino           | 2026-02-01  |                                                           |
+| Atonement                            | Ian McEwan            | 2026-12-29  |                                                           |
+| Plainsong                            | Kent Haruf            | 2026-01-22  |                                                           |
+| Sunny                                | Matsumoto Taiyou      | 2026-01-15  |                                                           |
+| My Girl                              | Mizu Sahara           | 2026-01-13  | Beautiful father-daughter story                           |
+| The Gods Lie                         | Ozaki Kaori           | 2026-01-11  |                                                           |
+| March Comes in Like a Lion           | Umino Chica           | 2026-01-04  | Read up to chapter 32 (latest as of 2026-01)              |
+| Historié                             | Hitoshi Iwaaki        | 2026-01-02  | On hiatus. Read up to chapter 65 (latest as of 2026-01)   |
 
 ### 2025
 | Title                                             | Author                                               | Finished on | Note                                                                 |
