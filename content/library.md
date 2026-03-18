@@ -94,7 +94,7 @@ I can't prove it, but the quality felt worse and so I stopped using it completel
 | The Sense of an Ending               | Julian Barnes         | 2026-02-07  |                                                           |
 | Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin       | 2026-02-04  |                                                           |
 | I Hear the Sunspot                   | Yuki Fumino           | 2026-02-01  |                                                           |
-| Atonement                            | Ian McEwan            | 2026-12-29  |                                                           |
+| Atonement                            | Ian McEwan            | 2026-01-29  |                                                           |
 | Plainsong                            | Kent Haruf            | 2026-01-22  |                                                           |
 | Sunny                                | Matsumoto Taiyou      | 2026-01-15  |                                                           |
 | My Girl                              | Mizu Sahara           | 2026-01-13  | Beautiful father-daughter story                           |
