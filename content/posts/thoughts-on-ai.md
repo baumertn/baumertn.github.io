@@ -1,9 +1,9 @@
 +++
 title = 'Thoughts on AI'
-date = 2026-02-16
-lastmod = 2026-02-16
-summary = ""
-description = ""
+date = 2026-04-02
+lastmod = 2026-04-02
+summary = "I try to put my thoughts on the current AI landscape into text"
+description = "Niklas tries to put his thoughts on the current AI landscape onto paper to think through it in detail."
 toc = true
 readTime = true
 autonumber = true
@@ -26,6 +26,7 @@ draft = true
   - Coding: I use [Supermaven](https://supermaven.com/) in Neovim. But just as an advanced autocomplete. I do enjoy it for error messages, particularly in Go.
   - "Research": I do use ChatGPT to reserach topics. Similarly, how I previously would have used Google to just look something up. This is probably more a sign of how bad search engines and messed up SEO has become.
   - Image generation: As stated above, mostly just for funny pictures to friends. Very rarely.
+  - I've recently started to use Qwen 3.5 on my local machine with LM Studio. I'm still figuring things out, but I'm impressed what works on consumer hardware (AMD Radeon RX 9070 XT)
 - Financial situation: Crazy. So much money. How are they ever going to have profits that high? Sure, _if_ AGI were to happen, maybe. But the behaviour of these companies does not fill me with confidence in that regard.
   - nvidia is probably going to be the only real winner in all of that. As they were in the crypto hype as well.
     - I probably will not by an nvidia GPU again as long as Jensen is CEO.
@@ -34,3 +35,4 @@ draft = true
   - Some have been layed off, that sucks.
   - If you are afraid, you might want to look into the trades. Physical labor seems to be a task not that easily replaceable.
   - Keep your creativity up artists. Yes, it sucks to no longer be able to pay the bills with it, but I hope you can keep the passion. I for one still appreciate it.
+- Future: I think it would be great if the companies where to push to reduce the hardware requirements of it all and release more models into the public. I believe some of the greatest things have come from individuals trying things out.
