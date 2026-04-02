@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-03-29
+date = 2026-01-02
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = false
@@ -29,12 +29,15 @@ For a complete list of what I've been reading check out the [library](/library).
 - _Scrubs (2026)_ – following the release of season 1
 
 ## Games
-- Just finished: _We are OFK_
-- Just started: _SYNTHETIK_
+- Story Game: _Minds Beneath Us_
+- _SYNTHETIK_
 - _Diablo II: Resurrected_
 
 
 <!-- ## Software & Tech -->
 
-<!-- ## Writing -->
+## Writing
+- Preparing Session 8 of our ttrpg campaign (thrid session using Cortex Prime)
+- Published a [mini-review](/tags/mini-review) of the game We are OFK: [I played: We are OFK](/posts/played-we-are-ofk)
+- Trying to formulate my thoughts on AI. This will become a (small?) article eventually.
 
