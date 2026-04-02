@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-01-02
+date = 2026-04-02
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = false
