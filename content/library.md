@@ -83,7 +83,7 @@ I can't prove it, but the quality felt worse and so I stopped using it completel
 ### 2026
 | Title                                | Author                | Finished on | Note                                                      |
 |--------------------------------------|-----------------------|-------------|-----------------------------------------------------------|
-| Jujutsu Kaisen                       | Akutami Gege          | READING     |                                                           |
+| Jujutsu Kaisen                       | Akutami Gege          | 2026-04-09  |                                                           |
 | Happiness                            | Shūzō Oshimi          | 2026-03-15  | Better than previous work of the author I couldn't finish |
 | On Writing Well                      | William Zinsser       | 2026-03-13  | "The Classic Guide to Writing Nonfiction"                 |
 | Emma                                 | Mori Kaoru            | 2026-03-05  |                                                           |
