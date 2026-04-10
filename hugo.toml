@@ -21,13 +21,15 @@ homeIntroTitle = 'Hey'
 homeIntroContent = """
 I am Niklas Baumert, a European software engineer, writer, and [photographer](https://photos.baumert.me).
 
-I'm currently employed with [SD Software-Design GmbH](https://software-design.de/).
+I'm currently employed with [SD Software-Design GmbH](https://software-design.de/) as the leading platform engineer.
+Building internal tools and keeping the servers running safely.
 
-My focus at work is on platform engineering, building tools, and operations. Using mainly Python, JavaScript/TypeScript, and Go.
+I primarily work with Go. Previously, I focused more on Python (+Django) and JavaScript/Typescript.
+I use mostly Go
 
-[What I'm currently up to (/now)](/now) | [My Mini-Reviews](/tags/mini-review) | [My Reading](/library)
-
-
+- [What I'm currently up to (/now)](/now)
+- [My Mini-Reviews](/tags/mini-review)
+- [My Reading](/library)
 """
 
 # Collection to display on home
