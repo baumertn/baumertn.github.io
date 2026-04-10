@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-03-29
+date = 2026-04-10
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -83,7 +83,7 @@ I can't prove it, but the quality felt worse and so I stopped using it completel
 ### 2026
 | Title                                | Author                | Finished on | Note                                                      |
 |--------------------------------------|-----------------------|-------------|-----------------------------------------------------------|
-| Jujutsu Kaisen                       | Akutami Gege          | 2026-04-09  |                                                           |
+| Jujutsu Kaisen                       | Akutami Gege          | 2026-04-09  | [Mini-Review](/posts/read-jujutsu-kaisen/)                |
 | Happiness                            | Shūzō Oshimi          | 2026-03-15  | Better than previous work of the author I couldn't finish |
 | On Writing Well                      | William Zinsser       | 2026-03-13  | "The Classic Guide to Writing Nonfiction"                 |
 | Emma                                 | Mori Kaoru            | 2026-03-05  |                                                           |
