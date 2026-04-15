@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-04-10
+date = 2026-04-15
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -14,20 +14,28 @@ hidePagination = true
 draft = false
 +++
 
-This is a collection of all the books that I have read and remembered.
-It is a genre mix. Much Fantasy and Sci-fi, but also non-fiction – mostly tech and "self-help".
-Also contains a few manga and comics.
+Welcome to my _library_. On this page I collect both my reading list and a
+list of all the books, comics, and manga I have read – and remembered.
+
+I read a variety of genres. Fiction is dominated by fantasy and sci-fi.
+The non-fiction section is dominated by tech and "self-help".
+In 2025, I started to read a larger variety of stories and genres.
+
 Some titles are in German, as I did read them in German.
 
 I have forgotten most of what I read here. Probably.
 
 Fun fact: Playing _The Witcher 2_ got me into reading. I didn't like it as a kid.
 
+- Changelog
+  - 2026-02-19: I've decided to split the _reading list_ into fiction and non-fiction sections.
+    Mostly to have an easier time choosing what to read next.
+  - 2025-12-20: I've decided to split the _finished books list_ into sections by year.
+
+
 ## Reading list
 See what I'm currently reading on my [/now page](/now)!
 
-2026-02-19: I've decided to split the list into fiction and non-fiction sections.
-Mostly to have an easier time choosing what to read next.
 
 ### Fiction
 | Title                          | Author                | Note                                  |
@@ -42,7 +50,6 @@ Mostly to have an easier time choosing what to read next.
 | Light Bringer                  | Pierce Brown          | Red Rising Saga, #6                   |
 | No, You’re Not                 | Fumiyo Kōno           |                                       |
 | Platform Decay                 | Martha Wells          | The Murderbot Diaries, #8, Unreleased |
-| Shimanami Tasogare             | Yuhki Kamatani        | Cautiously recommended                |
 | Snow Country                   | Yasunari Kawabata     |                                       |
 | System Collapse                | Martha Wells          | The Murderbot Diaries, #7             |
 | The Apothecary Diaries         | Hyuuga Natsu, Nanao Itsuki | Manga                            |
@@ -60,29 +67,18 @@ Mostly to have an easier time choosing what to read next.
 | Hacker's Delight                                  | Henry S. Warren       | Computer Science          |
 | The Bright Ages: A New History of Medieval Europe | Matthew Gabriele      | History                   |
 | The Cambridge Handbook of Personal Relationships  |  Anita L. Vangelisti  | Social Psychology         |
-| The Mom Test                                      | Rob Fitzpatrick       | UX                        |
 | The Psychology of Money                           | Morgan Housel         | Finance                   |
 | Understanding Exposure                            | Bryan Peterson        | Photography               |
 
 ## Finished books
-Don't judge me too harshly for the selection of books over the years.
-
-Most of this data is an export from a now deleted _Goodreads_ account (everything pre 2024). I tried to sort it by finished date.
-If I "read" many books on the first of a given month, I most likely added just the month on _Goodreads_.
-
-Some dates might be off, missing or just plain wrong.
 If I did read a book more than once, most likely the first date will be listed.
-
-I used _Blinkist_ a lot for from mid 2023 to late 2024. I tried to note all cases where I "read" a book through _Blinkist_.
-The _Blinkist_ services was enjoyable until the whole AI-craze began.
-I think they replaced most – or all – of their readers with AI voices and used AI for the summaries.
-I can't prove it, but the quality felt worse and so I stopped using it completely in late 2024.
-
-2025-12-20: I've decided to split the list into sections by year.
+Don't judge me too harshly for the selection of books over the years.
 
 ### 2026
 | Title                                | Author                | Finished on | Note                                                      |
 |--------------------------------------|-----------------------|-------------|-----------------------------------------------------------|
+| The Mom Test                         | Rob Fitzpatrick       | READING     | About UX                                                  |
+| Shimanami Tasogare                   | Yuhki Kamatani        | READING     |                                                           |
 | Jujutsu Kaisen                       | Akutami Gege          | 2026-04-09  | [Mini-Review](/posts/read-jujutsu-kaisen/)                |
 | Happiness                            | Shūzō Oshimi          | 2026-03-15  | Better than previous work of the author I couldn't finish |
 | On Writing Well                      | William Zinsser       | 2026-03-13  | "The Classic Guide to Writing Nonfiction"                 |
@@ -128,6 +124,11 @@ I can't prove it, but the quality felt worse and so I stopped using it completel
 | Delicious in Dungeon Volume 1–14                  | Ryoko Kui                                            | 2025-02     | I watched the first season of the anime first and got hooked         |
 
 ### 2024
+I used _Blinkist_ a lot for from mid 2023 to late 2024. I tried to note all cases where I "read" a book through _Blinkist_.
+The _Blinkist_ services was enjoyable until the whole AI-craze began.
+I think they replaced most – or all – of their readers with AI voices and used AI for the summaries.
+I can't prove it, but the quality felt worse and so I stopped using it completely in late 2024.
+
 | Title                                        | Author                                | Finished on | Note                        |
 |----------------------------------------------|---------------------------------------|-------------|-----------------------------|
 | The Great Mental Models, Volume 4            | Shane Parrish, Rhiannon Beaubien      | 2024-11     |                             |
@@ -174,6 +175,12 @@ I can't prove it, but the quality felt worse and so I stopped using it completel
 | Powered by Me                                | Neha Sangwan                          | 2024-01     |                             |
 
 ### 2023
+The data from 2023 and earlier is exported from a now deleted _Goodreads_ account.
+
+If I finished many books on the first of a given month, I most likely added just the month on _Goodreads_.
+
+Some dates might be off, missing or just plain wrong.
+
 | Title                                                      | Author                                            | Finished on | Note                                                                                 |
 |------------------------------------------------------------|---------------------------------------------------|-------------|--------------------------------------------------------------------------------------|
 | The 5 Resets                                               | Aditi Nerurkar                                    | 2023-12     |                                                                                      |

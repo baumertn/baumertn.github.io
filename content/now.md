@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-04-10
+date = 2026-04-15
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = false
@@ -18,7 +18,8 @@ draft = false
 <!-- ## Music -->
 
 ## Reading
-- Just finished: _Jujutsu Kaisen_ – Akutami Gege
+- _The Mom Test_ – Rob Fitzpatrick (non-fiction)
+- _Shimanami Tasogare_ – Yuhki Kamatani (fiction)
 
 For a complete list of what I've been reading check out the [library](/library).
 
@@ -27,16 +28,12 @@ For a complete list of what I've been reading check out the [library](/library).
 - _Scrubs (2026)_ – following the release of season 1
 
 ## Games
-- _Demonschool_ [Story game]
+- _Demonschool_ (Story game)
 - _SYNTHETIK_
-- _Diablo II: Resurrected_
 
 ## Software & Tech
-- Planning an upgrade to my home server. It currently runs Proxmox but needs an update.
+- Upgraded my Proxmox installation. Now I'm planning the restructuring of how my services are organized
 
 ## Writing
-- Released an article: [Thoughts on AI](/posts/thoughts-on-ai/)
-- Release a [mini-review for _Minds Beneath Us_](/posts/played-minds-beneath-us/)
-- Release a [mini-review for _Jujutsu Kaisen_](/posts/read-jujutsu-kaisen/)
 - Working on a small article about switching from _Pathfinder 2e_ to _Cortex Prime_ for my running TTRPG campaign
 
