@@ -12,8 +12,8 @@ description = "The personal website of Niklas Baumert. Containing posts about th
 
 # Appearance settings
 theme = 'auto'
-#colorPalette = 'default'
-colorPalette = 'catpuccin'
+colorPalette = 'bold'
+# colorPalette = 'catpuccin'
 hideHeader = false
 
 # Intro on main page, content is markdown
@@ -21,10 +21,10 @@ homeIntroTitle = 'Hey'
 homeIntroContent = """
 I am Niklas Baumert, a European software engineer, writer, and [photographer](https://photos.baumert.me).
 
-I'm currently employed with [SD Software-Design GmbH](https://software-design.de/) as the leading platform engineer.
-Building internal tools and keeping the servers running safely.
+On this website you can find things that interest me: Tech, software, stories, media, and more.
 
-I primarily work with Go. Previously, I focused more on Python (+Django) and JavaScript/Typescript.
+I'm currently employed with [SD Software-Design GmbH](https://software-design.de/) as the leading platform engineer.
+Building internal tools and keeping the servers running safely. I primarily work with Go. Previously, I focused more on Python (+Django) and JavaScript/Typescript.
 
 - [What I'm currently up to (/now)](/now)
 - [My Mini-Reviews](/tags/mini-review)
@@ -72,6 +72,10 @@ url = "/posts"
 # [[params.menu]]
 # name = "TIL"
 # url = "/tags/today-i-learned/"
+
+# [[params.menu]]
+# name = "CV"
+# url = "/cv"
 
 [[params.menu]]
 name = "Gallery"

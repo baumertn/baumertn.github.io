@@ -1,0 +1,36 @@
+:root {
+  --ivory: #ffffebff;
+  --yellow: #fffb00ff;
+  --pure-red: #f20505ff;
+  --inferno: #a60303ff;
+  --pitch-black: #141400ff;
+
+  --ivory: hsla(60, 100%, 96%, 1);
+  --yellow: hsla(59, 100%, 50%, 1);
+  --pure-red: hsla(0, 96%, 48%, 1);
+  --inferno: hsla(0, 96%, 33%, 1);
+  --pitch-black: hsla(60, 100%, 4%, 1);
+
+  --content-primary-light: rgb(0, 0, 0);
+  --content-secondary-light: rgb(0, 0, 0);
+  --background-light: rgb(255, 255, 255);
+  --code-background-light: rgb(255, 255, 255);
+  --code-border-light: rgb(0, 0, 0);
+
+  --content-primary-dark: rgb(255, 255, 255);
+  --content-secondary-dark: rgb(255, 255, 255);
+  --background-dark: rgb(0, 0, 0);
+  --code-background-dark: rgb(0, 0, 0);
+  --code-border-dark: rgb(255, 255, 255);
+}
+
+h1.header-title {
+  background-color: var(--yellow);
+  color: var(--background-dark);
+}
+
+summary {
+  cursor: pointer;
+}
+
+
