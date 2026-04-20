@@ -19,21 +19,20 @@ draft = false
 
 ## Reading
 - _The Mom Test_ – Rob Fitzpatrick (non-fiction)
-- _Shimanami Tasogare_ – Yuhki Kamatani (fiction)
 
 For a complete list of what I've been reading check out the [library](/library).
 
 ## Film & Television
-- _The Pitt_ – following the release of season 2
 - _Scrubs (2026)_ – following the release of season 1
 
 ## Games
-- _Demonschool_ (Story game)
-- _SYNTHETIK_
+- [_SYNTHETIK_](https://store.steampowered.com/app/528230/SYNTHETIK_Legion_Rising/)
 
 ## Software & Tech
-- Upgraded my Proxmox installation. Now I'm planning the restructuring of how my services are organized
+- Experimenting with NixOS as a base OS for my Proxmox VMs.
 
 ## Writing
-- Working on a small article about switching from _Pathfinder 2e_ to _Cortex Prime_ for my running TTRPG campaign
+- Just release my post about [switching my TTRPG campaign to _Cortex Prime_ from _Pathfinder 2e_](/posts/ttrpg_from_pathfinder_to_cortex)
+- Just release: [mini-review for _Demonschool_](/posts/played-demonschool/)
+- Writing a [mini-review](/tags/mini-review) for _Our Dreams at Dusk_
 

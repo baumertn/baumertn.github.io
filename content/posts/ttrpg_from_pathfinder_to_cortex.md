@@ -1,9 +1,9 @@
 +++
 title = 'Switching to Cortex Prime from Pathfinder 2e'
-date = 2026-04-02
-lastmod = 2026-04-02
+date = 2026-04-20
+lastmod = 2026-04-20
 summary = "Why I switched my group to Cortex Prime from Pathfinder 2e."
-description = ""
+description = "A short post about how and why I switched my TTRPG campaign to Cortex Prime from Pathfinder 2e."
 toc = true
 readTime = true
 autonumber = true
@@ -11,34 +11,33 @@ math = true
 tags = ["ttrpg", "pathfinder", "pathfinder-2e", "cortex", "cortex-prime"]
 showTags = true
 hideBackToTop = false
-draft = true
 +++
 I switched my group to _Cortex Prime_ after five sessions of _Pathfinder_. We kept the characters and adopted them to the new system.
 
 This is our first TTRPG campaign. We previously only played the _Pathfinder Beginner Box_. I'm running it as the game master and have three players.
 
 ## Why switch?
-The main reason for the switch is our irregular playing schedule.
-It isn't uncommon that we have weeks between sessions – though sometimes we play every other week.
+The main reason for the switch is our irregular schedule.
+Sometimes we play every other week, but other times we have weeks between sessions.
 
-This irregular schedule prevented us from actually learning the rules of _Pathfinder_.
+This schedule prevented us from actually learning the rules of _Pathfinder_.
 Which, in turn, slowed our sessions down as both the players and me, as the game master, had to check rules, skills, spells, etc. all the time.
 
 I like that _Pathfinder_ has rules for (nearly) everything. I bet this makes it a very fluent game once everyone has learned it.
 But for us that was not the right fit.
 
 Another problem with our schedule: it didn't allow for the epic adventure I envisioned.
-It is difficult to tell a complex narrative when sometimes weeks pass between sessions.
+It is difficult to tell a complex narrative when weeks can pass between sessions.
 My players forgot plot points or whole characters. A more experienced storyteller could have solved this, but I can't. Not yet.
 
 ## Why _Cortex Prime_?
-I looked at a few different systems. But I knew that my group needed something rules-light (at least compared to _Pathfinder_). The choice was between _FATE_ and _Cortex Prime_.
+I looked at a few different systems. But I knew that my group needed something rules-light (at least compared to _Pathfinder_). I narrowed down the choice to either  _FATE_ or _Cortex Prime_.
 
-I chose _Cortex Prime_ because it has a "build-your-own-RPG" approach where I select rule modules to build the game I want.
-This approach felt more flexible than _FATE_.
+I chose _Cortex Prime_ because it has a "build-your-own-RPG" approach where I select rule-modules to build the game I want.
+This approach feels more flexible than _FATE_.
 
 It allowed me to create a character sheet that translated well from the _Pathfinder_'s.
-Giving my players an easier time to get their beloved characters into the new system.
+This gives my players an easier time to get their beloved characters into the new system.
 
 The biggest benefit of a rules-light system is the drastically reduced preparation time.
 It took me a few hours to prepare for each session in _Pathfinder_. I'm sure that it gets easier with more experience,
@@ -60,7 +59,7 @@ Of course, this is just a blueprint. Not every session follows this pattern dire
 
 
 ## Struggles – Now and in the Future
-In the past sessions combat has been a bit on the easier side.
+In the past sessions combat has been too easy.
 Last session I realized that I need to exploit hitches more to add complications to my players.
 I need to find the right balance between enemy types and their strengths. Currently, I'm using mobs frequently, but I think I should add some stronger, individual enemies into the mix.
 

@@ -27,12 +27,6 @@ I have forgotten most of what I read here. Probably.
 
 Fun fact: Playing _The Witcher 2_ got me into reading. I didn't like it as a kid.
 
-- Changelog
-  - 2026-02-19: I've decided to split the _reading list_ into fiction and non-fiction sections.
-    Mostly to have an easier time choosing what to read next.
-  - 2025-12-20: I've decided to split the _finished books list_ into sections by year.
-
-
 ## Reading list
 See what I'm currently reading on my [/now page](/now)!
 
@@ -75,29 +69,29 @@ If I did read a book more than once, most likely the first date will be listed.
 Don't judge me too harshly for the selection of books over the years.
 
 ### 2026
-| Title                                | Author                | Finished on | Note                                                      |
-|--------------------------------------|-----------------------|-------------|-----------------------------------------------------------|
-| The Mom Test                         | Rob Fitzpatrick       | READING     | About UX                                                  |
-| Shimanami Tasogare                   | Yuhki Kamatani        | READING     |                                                           |
-| Jujutsu Kaisen                       | Akutami Gege          | 2026-04-09  | [Mini-Review](/posts/read-jujutsu-kaisen/)                |
-| Happiness                            | Shūzō Oshimi          | 2026-03-15  | Better than previous work of the author I couldn't finish |
-| On Writing Well                      | William Zinsser       | 2026-03-13  | "The Classic Guide to Writing Nonfiction"                 |
-| Emma                                 | Mori Kaoru            | 2026-03-05  |                                                           |
-| Gilead                               | Marilynne Robinson    | 2026-02-28  | DNF, style didn't engage me                               |
-| Our Happy Hours                      | Yumi Tamura           | 2026-02-23  |                                                           |
-| Foster                               | Claire Keegan         | 2026-02-17  | Interesting, subdue worldbuilding                         |
-| Never Let Me Go                      | Kazuo Ishiguro        | 2026-02-16  |                                                           |
-| Strange Weather in Tokyo             | Hiromi Kawakami       | 2026-02-10  | A bit weird                                               |
-| The Sense of an Ending               | Julian Barnes         | 2026-02-07  |                                                           |
-| Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin       | 2026-02-04  |                                                           |
-| I Hear the Sunspot                   | Yuki Fumino           | 2026-02-01  |                                                           |
-| Atonement                            | Ian McEwan            | 2026-01-29  |                                                           |
-| Plainsong                            | Kent Haruf            | 2026-01-22  |                                                           |
-| Sunny                                | Matsumoto Taiyou      | 2026-01-15  |                                                           |
-| My Girl                              | Mizu Sahara           | 2026-01-13  | Beautiful father-daughter story                           |
-| The Gods Lie                         | Ozaki Kaori           | 2026-01-11  |                                                           |
-| March Comes in Like a Lion           | Umino Chica           | 2026-01-04  | Read up to chapter 32 (latest as of 2026-01)              |
-| Historié                             | Hitoshi Iwaaki        | 2026-01-02  | On hiatus. Read up to chapter 65 (latest as of 2026-01)   |
+| Title                                | Author                | Finished on | Note                                                                               |
+|--------------------------------------|-----------------------|-------------|------------------------------------------------------------------------------------|
+| The Mom Test                         | Rob Fitzpatrick       | READING     |                                                                                    |
+| Our Dreams at Dusk                   | Yuhki Kamatani        | 2026-04-19  | A beautiful story of self discovery. | # [Mini-Review](/posts/read-our-dreams-at-dusk) |
+| Jujutsu Kaisen                       | Akutami Gege          | 2026-04-09  | [Mini-Review](/posts/read-jujutsu-kaisen/)                                         |
+| Happiness                            | Shūzō Oshimi          | 2026-03-15  | Better than previous work of the author I couldn't finish                          |
+| On Writing Well                      | William Zinsser       | 2026-03-13  | "The Classic Guide to Writing Nonfiction"                                          |
+| Emma                                 | Mori Kaoru            | 2026-03-05  |                                                                                    |
+| Gilead                               | Marilynne Robinson    | 2026-02-28  | DNF, style didn't engage me                                                        |
+| Our Happy Hours                      | Yumi Tamura           | 2026-02-23  |                                                                                    |
+| Foster                               | Claire Keegan         | 2026-02-17  | Interesting, subdue worldbuilding                                                  |
+| Never Let Me Go                      | Kazuo Ishiguro        | 2026-02-16  |                                                                                    |
+| Strange Weather in Tokyo             | Hiromi Kawakami       | 2026-02-10  | A bit weird                                                                        |
+| The Sense of an Ending               | Julian Barnes         | 2026-02-07  |                                                                                    |
+| Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin       | 2026-02-04  |                                                                                    |
+| I Hear the Sunspot                   | Yuki Fumino           | 2026-02-01  |                                                                                    |
+| Atonement                            | Ian McEwan            | 2026-01-29  |                                                                                    |
+| Plainsong                            | Kent Haruf            | 2026-01-22  |                                                                                    |
+| Sunny                                | Matsumoto Taiyou      | 2026-01-15  |                                                                                    |
+| My Girl                              | Mizu Sahara           | 2026-01-13  | Beautiful father-daughter story                                                    |
+| The Gods Lie                         | Ozaki Kaori           | 2026-01-11  |                                                                                    |
+| March Comes in Like a Lion           | Umino Chica           | 2026-01-04  | Read up to chapter 32 (latest as of 2026-01)                                       |
+| Historié                             | Hitoshi Iwaaki        | 2026-01-02  | On hiatus. Read up to chapter 65 (latest as of 2026-01)                            |
 
 ### 2025
 | Title                                             | Author                                               | Finished on | Note                                                                 |
@@ -632,3 +626,10 @@ Some might have been read in 2014 as well, but many earlier.
 | Das Erbe der Elfen                                                 | Andrzej Sapkowski     | Hexer, #3                              |
 | Der letzte Wunsch                                                  | Andrzej Sapkowski     | Hexer, #1                              |
 | Das Schwert der Vorsehung                                          | Andrzej Sapkowski     | Hexer, #0                              |
+
+## Changelog
+- 2026-02-19: I've decided to split the _reading list_ into fiction and non-fiction sections.
+Mostly to have an easier time choosing what to read next.
+- 2025-12-20: I've decided to split the _finished books list_ into sections by year.
+
+
