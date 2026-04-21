@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-04-15
+date = 2026-04-21
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -71,7 +71,7 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                | Finished on | Note                                                                               |
 |--------------------------------------|-----------------------|-------------|------------------------------------------------------------------------------------|
-| The Mom Test                         | Rob Fitzpatrick       | READING     |                                                                                    |
+| The Mom Test                         | Rob Fitzpatrick       | 2026-04-21  |                                                                                    |
 | Our Dreams at Dusk                   | Yuhki Kamatani        | 2026-04-19  | A beautiful story of self discovery. | # [Mini-Review](/posts/read-our-dreams-at-dusk) |
 | Jujutsu Kaisen                       | Akutami Gege          | 2026-04-09  | [Mini-Review](/posts/read-jujutsu-kaisen/)                                         |
 | Happiness                            | Shūzō Oshimi          | 2026-03-15  | Better than previous work of the author I couldn't finish                          |

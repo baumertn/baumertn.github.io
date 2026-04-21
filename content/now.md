@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-04-15
+date = 2026-04-21
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = false
@@ -18,8 +18,6 @@ draft = false
 <!-- ## Music -->
 
 ## Reading
-- _The Mom Test_ – Rob Fitzpatrick (non-fiction)
-
 For a complete list of what I've been reading check out the [library](/library).
 
 ## Film & Television
@@ -27,12 +25,11 @@ For a complete list of what I've been reading check out the [library](/library).
 
 ## Games
 - [_SYNTHETIK_](https://store.steampowered.com/app/528230/SYNTHETIK_Legion_Rising/)
+- [_Songs of Conquest_](https://store.steampowered.com/app/867210/Songs_of_Conquest/)
 
 ## Software & Tech
 - Experimenting with NixOS as a base OS for my Proxmox VMs.
 
 ## Writing
-- Just release my post about [switching my TTRPG campaign to _Cortex Prime_ from _Pathfinder 2e_](/posts/ttrpg_from_pathfinder_to_cortex)
-- Just release: [mini-review for _Demonschool_](/posts/played-demonschool/)
 - Writing a [mini-review](/tags/mini-review) for _Our Dreams at Dusk_
 
