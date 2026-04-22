@@ -1,4 +1,5 @@
 +++
+draft = true
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 summary = ""
@@ -11,5 +12,4 @@ tags = []
 showTags = true
 hideBackToTop = false
 hidePagination = false
-draft = true
 +++

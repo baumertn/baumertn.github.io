@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-04-21
+date = 2026-04-22
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = false
@@ -17,8 +17,8 @@ draft = false
 
 <!-- ## Music -->
 
-## Reading
-For a complete list of what I've been reading check out the [library](/library).
+<!-- ## Reading -->
+<!-- For a complete list of what I've been reading check out the [library](/library). -->
 
 ## Film & Television
 - _Scrubs (2026)_ – following the release of season 1
@@ -31,5 +31,5 @@ For a complete list of what I've been reading check out the [library](/library).
 - Experimenting with NixOS as a base OS for my Proxmox VMs.
 
 ## Writing
-- Writing a [mini-review](/tags/mini-review) for _Our Dreams at Dusk_
+- Released a [mini-review for _Our Dreams at Dusk_](/posts/read-our-dreams-at-dusk)
 

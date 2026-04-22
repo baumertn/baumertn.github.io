@@ -1,6 +1,7 @@
 +++
+draft = true
 title = "A bold colorscheme idea for my redesign"
-date = 2026-03-16
+#date = 2030-10-20
 summary = "An idea for a bold new colorscheme"
 toc = false
 readTime = true
@@ -9,7 +10,6 @@ math = true
 tags = []
 showTags = true
 hideBackToTop = false
-draft = true
 +++
 
 ```css
