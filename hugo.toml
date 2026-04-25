@@ -23,8 +23,7 @@ I am Niklas Baumert, a European software engineer, writer, and [photographer](ht
 
 On this website you can find things that interest me: Tech, software, stories, media, and more.
 
-I'm currently employed with [SD Software-Design GmbH](https://software-design.de/) as the leading platform engineer.
-Building internal tools and keeping the servers running safely. I primarily work with Go. Previously, I focused more on Python (+Django) and JavaScript/Typescript.
+I'm currently employed with [SD Software-Design GmbH](https://software-design.de/) as the senior platform & infrastructure engineer. Looking to hire me? [Check my CV](/cv)
 
 - [What I'm currently up to (/now)](/now)
 - [My Mini-Reviews](/tags/mini-review)
@@ -73,9 +72,9 @@ url = "/posts"
 # name = "TIL"
 # url = "/tags/today-i-learned/"
 
-# [[params.menu]]
-# name = "CV"
-# url = "/cv"
+[[params.menu]]
+name = "CV"
+url = "/cv"
 
 [[params.menu]]
 name = "Gallery"

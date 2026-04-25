@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-04-22
+date = 2026-04-25
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -42,7 +42,6 @@ See what I'm currently reading on my [/now page](/now)!
 | Gardens of the Moon            | Steven Erikson        | Malazan Book of the Fallen, #1        |
 | Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                             |
 | Light Bringer                  | Pierce Brown          | Red Rising Saga, #6                   |
-| No, You’re Not                 | Fumiyo Kōno           |                                       |
 | Platform Decay                 | Martha Wells          | The Murderbot Diaries, #8, Unreleased |
 | Snow Country                   | Yasunari Kawabata     |                                       |
 | System Collapse                | Martha Wells          | The Murderbot Diaries, #7             |
@@ -50,7 +49,6 @@ See what I'm currently reading on my [/now page](/now)!
 | The School of Essential Ingredients | Erica Bauermeister |                                     |
 | Twelve Months                  | Jim  Butcher          | The Dresden Files, #18, Unreleased    |
 | Victorious (Villains, #3)      | Victoria E. Schwab    | Unreleased                            |
-| Witch Hat Atelier              | Shirahama Kamome      | Manga                                 |
 
 ### Non-fiction
 | Title                                             | Author                | Note/Field                |
@@ -61,7 +59,6 @@ See what I'm currently reading on my [/now page](/now)!
 | Hacker's Delight                                  | Henry S. Warren       | Computer Science          |
 | The Bright Ages: A New History of Medieval Europe | Matthew Gabriele      | History                   |
 | The Cambridge Handbook of Personal Relationships  |  Anita L. Vangelisti  | Social Psychology         |
-| The Psychology of Money                           | Morgan Housel         | Finance                   |
 | Understanding Exposure                            | Bryan Peterson        | Photography               |
 
 ## Finished books
@@ -71,6 +68,8 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                | Finished on | Note                                                                               |
 |--------------------------------------|-----------------------|-------------|------------------------------------------------------------------------------------|
+| Witch Hat Atelier                    | Shirahama Kamome      | READING     | Manga                                                                              |
+| The Psychology of Money              | Morgan Housel         | READING     | Finance                                                                            |
 | The Mom Test                         | Rob Fitzpatrick       | 2026-04-21  |                                                                                    |
 | Our Dreams at Dusk                   | Yuhki Kamatani        | 2026-04-19  | A beautiful story of self discovery. [Mini-Review](/posts/read-our-dreams-at-dusk) |
 | Jujutsu Kaisen                       | Akutami Gege          | 2026-04-09  | [Mini-Review](/posts/read-jujutsu-kaisen/)                                         |
