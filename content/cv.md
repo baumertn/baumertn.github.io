@@ -12,7 +12,6 @@ tags = ["resume", "job", "hire", "hiring", "career", "cv", "recruit", "recruiter
 showTags = false
 hideBackToTop = false
 hidePagination = true
-draft = true
 +++
 
 <!-- {{< details summary="@Recruiters: Click here for special information" >}} -->
