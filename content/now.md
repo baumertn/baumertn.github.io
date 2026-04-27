@@ -1,9 +1,9 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-04-25
+date = 2026-04-27
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
-toc = false
+toc = true
 readTime = false
 autonumber = false
 math = true
@@ -13,9 +13,12 @@ hideBackToTop = false
 hidePagination = true
 draft = false
 +++
-<!-- ## Adventure -->
 
-<!-- ## Music -->
+## Software & Tech
+- Experimenting with NixOS as a base OS for my Proxmox VMs.
+
+<!-- ## Writing -->
+<!-- ## Adventure -->
 
 ## Reading
 - _The Psychology of Money_ – Morgan Housel (non-fiction)
@@ -23,14 +26,10 @@ draft = false
 
 For a complete list of what I've been reading check out the [library](/library).
 
-<!-- ## Film & Television -->
+<!-- ## Music -->
 
 ## Games
 - [_SYNTHETIK_](https://store.steampowered.com/app/528230/SYNTHETIK_Legion_Rising/)
 - [_Songs of Conquest_](https://store.steampowered.com/app/867210/Songs_of_Conquest/)
 
-## Software & Tech
-- Experimenting with NixOS as a base OS for my Proxmox VMs.
-
-<!-- ## Writing -->
-
+<!-- ## Film & Television -->
