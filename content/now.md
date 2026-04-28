@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-04-27
+date = 2026-04-28
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -29,7 +29,6 @@ For a complete list of what I've been reading check out the [library](/library).
 <!-- ## Music -->
 
 ## Games
-- [_SYNTHETIK_](https://store.steampowered.com/app/528230/SYNTHETIK_Legion_Rising/)
 - [_Songs of Conquest_](https://store.steampowered.com/app/867210/Songs_of_Conquest/)
 
 <!-- ## Film & Television -->
