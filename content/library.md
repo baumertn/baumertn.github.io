@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-04-25
+date = 2026-05-01
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -32,23 +32,22 @@ See what I'm currently reading on my [/now page](/now)!
 
 
 ### Fiction
-| Title                          | Author                | Note                                  |
-|--------------------------------|-----------------------|---------------------------------------|
-| A Canticle of Two Souls        | Steven Raaymakers     |                                       |
-| Asunder                        | David Gaider          | Dragon Age, #3                        |
-| Beneath the Trees Where Nobody Sees | Patrick Horvath  |                                       |
-| Book of Night                  | Holly Black           |                                       |
-| Crime and Punishment           | Fyodor Dostoevsky     |                                       |
-| Gardens of the Moon            | Steven Erikson        | Malazan Book of the Fallen, #1        |
-| Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                             |
-| Light Bringer                  | Pierce Brown          | Red Rising Saga, #6                   |
-| Platform Decay                 | Martha Wells          | The Murderbot Diaries, #8, Unreleased |
-| Snow Country                   | Yasunari Kawabata     |                                       |
-| System Collapse                | Martha Wells          | The Murderbot Diaries, #7             |
-| The Apothecary Diaries         | Hyuuga Natsu, Nanao Itsuki | Manga                            |
-| The School of Essential Ingredients | Erica Bauermeister |                                     |
-| Twelve Months                  | Jim  Butcher          | The Dresden Files, #18, Unreleased    |
-| Victorious (Villains, #3)      | Victoria E. Schwab    | Unreleased                            |
+| Title                          | Author                | Released | Note                                  |
+|--------------------------------|-----------------------|----------|---------------------------------------|
+| A Canticle of Two Souls        | Steven Raaymakers     | Yes      |                                       |
+| Asunder                        | David Gaider          | Yes      | Dragon Age, #3                        |
+| Beneath the Trees Where Nobody Sees | Patrick Horvath  | Yes      | Comic                                 |
+| Book of Night                  | Holly Black           | Yes      |                                       |
+| Crime and Punishment           | Fyodor Dostoevsky     | Yes      |                                       |
+| Gardens of the Moon            | Steven Erikson        | Yes      | Malazan Book of the Fallen, #1        |
+| Kreuzweg der Raben             | Andrzej Sapkowski     | Yes      | Hexer, #9                             |
+| Light Bringer                  | Pierce Brown          | Yes      | Red Rising Saga, #6                   |
+| Snow Country                   | Yasunari Kawabata     | Yes      | Probably not a great fit for me       |
+| System Collapse                | Martha Wells          | Yes      | The Murderbot Diaries, #7             |
+| The Apothecary Diaries         | Hyuuga Natsu, Nanao Itsuki | Yes      | Manga                            |
+| Platform Decay                 | Martha Wells          | No       | The Murderbot Diaries, #8             |
+| Twelve Months                  | Jim  Butcher          | No       | The Dresden Files, #18                |
+| Victorious (Villains, #3)      | Victoria E. Schwab    | No       |                                       |
 
 ### Non-fiction
 | Title                                             | Author                | Note/Field                |
@@ -68,8 +67,9 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                | Finished on | Note                                                                               |
 |--------------------------------------|-----------------------|-------------|------------------------------------------------------------------------------------|
-| Witch Hat Atelier                    | Shirahama Kamome      | READING     | Manga                                                                              |
+| The School of Essential Ingredients  | Erica Bauermeister    | READING     |                                                                                    |
 | The Psychology of Money              | Morgan Housel         | READING     | Finance                                                                            |
+| Witch Hat Atelier                    | Shirahama Kamome      | 2026-04-30  | Beautiful manga about witches [mini-review](/posts/read-witch-hat-atelier)         |
 | The Mom Test                         | Rob Fitzpatrick       | 2026-04-21  |                                                                                    |
 | Our Dreams at Dusk                   | Yuhki Kamatani        | 2026-04-19  | A beautiful story of self discovery. [Mini-Review](/posts/read-our-dreams-at-dusk) |
 | Jujutsu Kaisen                       | Akutami Gege          | 2026-04-09  | [Mini-Review](/posts/read-jujutsu-kaisen/)                                         |
