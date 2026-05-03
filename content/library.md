@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-05-01
+date = 2026-05-03
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -68,8 +68,8 @@ Don't judge me too harshly for the selection of books over the years.
 | Title                                | Author                | Finished on | Note                                                                               |
 |--------------------------------------|-----------------------|-------------|------------------------------------------------------------------------------------|
 | The School of Essential Ingredients  | Erica Bauermeister    | READING     |                                                                                    |
-| The Psychology of Money              | Morgan Housel         | READING     | Finance                                                                            |
-| Witch Hat Atelier                    | Shirahama Kamome      | 2026-04-30  | Beautiful manga about witches [mini-review](/posts/read-witch-hat-atelier)         |
+| The Psychology of Money              | Morgan Housel         | 2026-05-03  | Finance; Nothing I did not already know                                            |
+| Witch Hat Atelier (Vol. 1–15)        | Shirahama Kamome      | 2026-04-30  | Beautiful manga about witches [mini-review](/posts/read-witch-hat-atelier)         |
 | The Mom Test                         | Rob Fitzpatrick       | 2026-04-21  |                                                                                    |
 | Our Dreams at Dusk                   | Yuhki Kamatani        | 2026-04-19  | A beautiful story of self discovery. [Mini-Review](/posts/read-our-dreams-at-dusk) |
 | Jujutsu Kaisen                       | Akutami Gege          | 2026-04-09  | [Mini-Review](/posts/read-jujutsu-kaisen/)                                         |

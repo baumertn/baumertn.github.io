@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-05-01
+date = 2026-05-03
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -18,13 +18,11 @@ draft = false
 - Experimenting with NixOS as a base OS for my Proxmox VMs.
 - Designing a new look for my website and „brand“
 
-## Writing
-- Just released a [mini-review for _Witch Hat Atelier_](/posts/read-witch-hat-atelier).
+<!-- ## Writing -->
 
 <!-- ## Adventure -->
 
 ## Reading
-- _The Psychology of Money_ – Morgan Housel (non-fiction)
 - _The School of Essential Ingredients_ – Erica Bauermeister (fiction)
 
 For a complete list of what I've been reading check out the [library](/library).
