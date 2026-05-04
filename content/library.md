@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-05-03
+date = 2026-05-04
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -57,8 +57,9 @@ See what I'm currently reading on my [/now page](/now)!
 | Designing Data-Intensive Applications             | Martin Kleppmann      | Computer Science          |
 | Hacker's Delight                                  | Henry S. Warren       | Computer Science          |
 | The Bright Ages: A New History of Medieval Europe | Matthew Gabriele      | History                   |
-| The Cambridge Handbook of Personal Relationships  |  Anita L. Vangelisti  | Social Psychology         |
+| The Fabric of Civilization                        | Virginia Postrel      | History                   |
 | Understanding Exposure                            | Bryan Peterson        | Photography               |
+
 
 ## Finished books
 If I did read a book more than once, most likely the first date will be listed.
