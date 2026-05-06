@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-05-04
+date = 2026-05-06
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -68,7 +68,7 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                | Finished on | Note                                                                               |
 |--------------------------------------|-----------------------|-------------|------------------------------------------------------------------------------------|
-| The School of Essential Ingredients  | Erica Bauermeister    | READING     |                                                                                    |
+| The School of Essential Ingredients  | Erica Bauermeister    | 2026-05-06  |                                                                                    |
 | The Psychology of Money              | Morgan Housel         | 2026-05-03  | Finance; Nothing I did not already know                                            |
 | Witch Hat Atelier (Vol. 1–15)        | Shirahama Kamome      | 2026-04-30  | Beautiful manga about witches [mini-review](/posts/read-witch-hat-atelier)         |
 | The Mom Test                         | Rob Fitzpatrick       | 2026-04-21  |                                                                                    |
