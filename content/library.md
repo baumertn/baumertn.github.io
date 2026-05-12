@@ -67,7 +67,7 @@ Don't judge me too harshly for the selection of books over the years.
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
 | The Fabric of Civilization           | Virginia Postrel           | READING     | History                                                                            |
 | System Collapse                      | Martha Wells               | READING     | The Murderbot Diaries, #7                                                          |
-| The Apothecary Diaries               | Hyuuga Natsu, Nanao Itsuki | 2026-05-11  | Beautiful manga                                                                    |
+| The Apothecary Diaries (Vol. 1–15)   | Hyuuga Natsu, Nanao Itsuki | 2026-05-11  | Beautiful manga                                                                    |
 | The School of Essential Ingredients  | Erica Bauermeister         | 2026-05-06  |                                                                                    |
 | The Psychology of Money              | Morgan Housel              | 2026-05-03  | Finance; Nothing I did not already know                                            |
 | Witch Hat Atelier (Vol. 1–15)        | Shirahama Kamome           | 2026-04-30  | Beautiful manga about witches [mini-review](/posts/read-witch-hat-atelier)         |
