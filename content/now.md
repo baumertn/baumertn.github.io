@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-05-09
+date = 2026-05-12
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -18,13 +18,14 @@ draft = false
 - Experimenting with NixOS as a base OS for my Proxmox VMs.
 - Designing a new look for my website and „brand“
 
-<!-- ## Writing -->
+## Writing
+- Writing a [mini-review](/tags/mini-review/) for _The Apothecary Diaries_
 
 <!-- ## Adventure -->
 
 ## Reading
 - _The Fabric of Civilization_ – Virginia Postrel (non-fiction)
-- _The Apothecary Diaries_ – Hyuuga Natsu, Nanao Itsuki (fiction)
+- _System Collapse_ – Martha Wells (fiction)
 
 For a complete list of what I've been reading check out the [library](/library).
 

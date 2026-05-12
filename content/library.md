@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-05-09
+date = 2026-05-12
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -43,7 +43,6 @@ See what I'm currently reading on my [/now page](/now)!
 | Kreuzweg der Raben             | Andrzej Sapkowski     | Yes      | Hexer, #9                             |
 | Light Bringer                  | Pierce Brown          | Yes      | Red Rising Saga, #6                   |
 | Snow Country                   | Yasunari Kawabata     | Yes      | Probably not a great fit for me       |
-| System Collapse                | Martha Wells          | Yes      | The Murderbot Diaries, #7             |
 | Platform Decay                 | Martha Wells          | No       | The Murderbot Diaries, #8             |
 | Twelve Months                  | Jim  Butcher          | No       | The Dresden Files, #18                |
 | Victorious (Villains, #3)      | Victoria E. Schwab    | No       |                                       |
@@ -67,7 +66,8 @@ Don't judge me too harshly for the selection of books over the years.
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
 | The Fabric of Civilization           | Virginia Postrel           | READING     | History                                                                            |
-| The Apothecary Diaries               | Hyuuga Natsu, Nanao Itsuki | READING     | Manga                                                                              |
+| System Collapse                      | Martha Wells               | READING     | The Murderbot Diaries, #7                                                          |
+| The Apothecary Diaries               | Hyuuga Natsu, Nanao Itsuki | 2026-05-11  | Beautiful manga                                                                    |
 | The School of Essential Ingredients  | Erica Bauermeister         | 2026-05-06  |                                                                                    |
 | The Psychology of Money              | Morgan Housel              | 2026-05-03  | Finance; Nothing I did not already know                                            |
 | Witch Hat Atelier (Vol. 1–15)        | Shirahama Kamome           | 2026-04-30  | Beautiful manga about witches [mini-review](/posts/read-witch-hat-atelier)         |
