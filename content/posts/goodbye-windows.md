@@ -23,7 +23,7 @@ But then you became 11. What happened to the "last version"? What happened to yo
 
 I'm not blaming you. I'm blaming myself.
 
-Wait, no! It was totally your fault! My laptop became sluggish. You became invasive! And sure, I changed too, because I started to care more about these things (you now, privacy, security, the "small" things).
+Wait, no! It was totally your fault! My laptop became sluggish. You became invasive! And sure, I changed too, because I started to care more about these things (you know, privacy, security, the "small" things).
 
 We started seeing other people. In 2023 installed openSUSE Tumbleweed on my laptop. But I couldn't let you go. Not fully. Not yet. You were still there, as Windows 10, on my gaming PC.
 
