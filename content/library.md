@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-05-12
+date = 2026-05-17
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -36,7 +36,6 @@ See what I'm currently reading on my [/now page](/now)!
 |--------------------------------|-----------------------|----------|---------------------------------------|
 | A Canticle of Two Souls        | Steven Raaymakers     | Yes      |                                       |
 | Asunder                        | David Gaider          | Yes      | Dragon Age, #3                        |
-| Beneath the Trees Where Nobody Sees | Patrick Horvath  | Yes      | Comic                                 |
 | Book of Night                  | Holly Black           | Yes      |                                       |
 | Crime and Punishment           | Fyodor Dostoevsky     | Yes      |                                       |
 | Gardens of the Moon            | Steven Erikson        | Yes      | Malazan Book of the Fallen, #1        |
@@ -67,6 +66,7 @@ Don't judge me too harshly for the selection of books over the years.
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
 | The Fabric of Civilization           | Virginia Postrel           | READING     | History                                                                            |
 | System Collapse                      | Martha Wells               | READING     | The Murderbot Diaries, #7                                                          |
+| Beneath the Trees Where Nobody Sees  | Patrick Horvath            | 2026-05-17  | Comic. Cute Artstyle vs gruesome subject matter. Nice, short read.                 |
 | The Apothecary Diaries (Vol. 1–15)   | Hyuuga Natsu, Nanao Itsuki | 2026-05-11  | Beautiful manga                                                                    |
 | The School of Essential Ingredients  | Erica Bauermeister         | 2026-05-06  |                                                                                    |
 | The Psychology of Money              | Morgan Housel              | 2026-05-03  | Finance; Nothing I did not already know                                            |
