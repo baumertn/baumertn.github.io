@@ -41,7 +41,6 @@ See what I'm currently reading on my [/now page](/now)!
 | Gardens of the Moon            | Steven Erikson        | Yes      | Malazan Book of the Fallen, #1        |
 | Kreuzweg der Raben             | Andrzej Sapkowski     | Yes      | Hexer, #9                             |
 | Light Bringer                  | Pierce Brown          | Yes      | Red Rising Saga, #6                   |
-| Snow Country                   | Yasunari Kawabata     | Yes      | Probably not a great fit for me       |
 | Platform Decay                 | Martha Wells          | No       | The Murderbot Diaries, #8             |
 | Twelve Months                  | Jim  Butcher          | No       | The Dresden Files, #18                |
 | Victorious (Villains, #3)      | Victoria E. Schwab    | No       |                                       |
