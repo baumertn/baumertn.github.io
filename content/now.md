@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-05-25
+date = 2026-06-14
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -15,7 +15,6 @@ draft = false
 +++
 
 ## Software & Tech
-- Experimenting with NixOS as a base OS for my Proxmox VMs.
 - Designing a new look for my website and „brand“
 
 <!-- ## Writing -->
@@ -23,7 +22,6 @@ draft = false
 <!-- ## Adventure -->
 
 ## Reading
-- _Verbrechen und Strafe_ – Fyodor Dostoevsky (fiction)
 
 For a complete list of what I've been reading check out the [library](/library).
 

@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-05-25
+date = 2026-06-14
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -62,7 +62,7 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
-| Verbrechen und Strafe                | Fyodor Dostoevsky          | READING | Crime and Punishment; German translation by Swetlana Geier                             |
+| Verbrechen und Strafe                | Fyodor Dostoevsky          | 2026-06-12  | Crime and Punishment; German translation by Swetlana Geier                             |
 | System Collapse                      | Martha Wells               | 2026-05-19  | The Murderbot Diaries, #7                                                          |
 | The Fabric of Civilization           | Virginia Postrel           | 2026-05-18  | History of textiles & fabrics and all the innovations they triggerd.               |
 | Beneath the Trees Where Nobody Sees  | Patrick Horvath            | 2026-05-17  | Comic. Cute Artstyle vs gruesome subject matter. Nice, short read.                 |
