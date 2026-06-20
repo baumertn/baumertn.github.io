@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-06-14
+date = 2026-06-20
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -47,7 +47,6 @@ See what I'm currently reading on my [/now page](/now)!
 ### Non-fiction
 | Title                                             | Author                | Note/Field                |
 |---------------------------------------------------|-----------------------|---------------------------|
-| A Philosophy of Software Design                   | John Ousterhout       | Computer Science          |
 | Babbling Corpse                                   | Grafton Tanner        | History, Psychology, Tech |
 | Designing Data-Intensive Applications             | Martin Kleppmann      | Computer Science          |
 | Hacker's Delight                                  | Henry S. Warren       | Computer Science          |
@@ -62,7 +61,9 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
-| Verbrechen und Strafe                | Fyodor Dostoevsky          | 2026-06-12  | Crime and Punishment; German translation by Swetlana Geier                             |
+| A Philosophy of Software Design      | John Ousterhout            | READING     |                                                                                    |
+| A Bride's Story (Vol. 15)            | Kaoru Mori                 | READING     |                                                                                    |
+| Verbrechen und Strafe                | Fyodor Dostoevsky          | 2026-06-12  | Crime and Punishment; German translation by Swetlana Geier                         |
 | System Collapse                      | Martha Wells               | 2026-05-19  | The Murderbot Diaries, #7                                                          |
 | The Fabric of Civilization           | Virginia Postrel           | 2026-05-18  | History of textiles & fabrics and all the innovations they triggerd.               |
 | Beneath the Trees Where Nobody Sees  | Patrick Horvath            | 2026-05-17  | Comic. Cute Artstyle vs gruesome subject matter. Nice, short read.                 |
