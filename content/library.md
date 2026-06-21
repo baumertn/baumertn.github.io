@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-06-20
+date = 2026-06-21
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -62,7 +62,7 @@ Don't judge me too harshly for the selection of books over the years.
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
 | A Philosophy of Software Design      | John Ousterhout            | READING     |                                                                                    |
-| A Bride's Story (Vol. 15)            | Kaoru Mori                 | READING     |                                                                                    |
+| A Bride's Story (Vol. 15)            | Kaoru Mori                 | 2026-06-21  |                                                                                    |
 | Verbrechen und Strafe                | Fyodor Dostoevsky          | 2026-06-12  | Crime and Punishment; German translation by Swetlana Geier                         |
 | System Collapse                      | Martha Wells               | 2026-05-19  | The Murderbot Diaries, #7                                                          |
 | The Fabric of Civilization           | Virginia Postrel           | 2026-05-18  | History of textiles & fabrics and all the innovations they triggerd.               |
