@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-06-21
+date = 2026-06-25
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -51,7 +51,6 @@ See what I'm currently reading on my [/now page](/now)!
 | Designing Data-Intensive Applications             | Martin Kleppmann      | Computer Science          |
 | Hacker's Delight                                  | Henry S. Warren       | Computer Science          |
 | The Bright Ages: A New History of Medieval Europe | Matthew Gabriele      | History                   |
-| Understanding Exposure                            | Bryan Peterson        | Photography               |
 
 
 ## Finished books
@@ -61,7 +60,9 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
-| A Philosophy of Software Design      | John Ousterhout            | READING     |                                                                                    |
+| Understanding Exposure               | Bryan Peterson             | READING     | Photography                                                                        |
+| Iron Gold                            | Pierce Brown               | READING     | Re-reading                                                                         |
+| A Philosophy of Software Design      | John Ousterhout            | 2026-06-25  |                                                                                    |
 | A Bride's Story (Vol. 15)            | Kaoru Mori                 | 2026-06-21  |                                                                                    |
 | Verbrechen und Strafe                | Fyodor Dostoevsky          | 2026-06-12  | Crime and Punishment; German translation by Swetlana Geier                         |
 | System Collapse                      | Martha Wells               | 2026-05-19  | The Murderbot Diaries, #7                                                          |

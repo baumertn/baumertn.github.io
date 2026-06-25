@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-06-21
+date = 2026-06-25
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -23,8 +23,8 @@ draft = false
 <!-- ## Adventure -->
 
 ## Reading
-- _A Philosophy of Software Design_ – John Ousterhout (non-fiction)
 - Re-reading _Iron Gold_ and _Dark Age_ by Pierce Brown to get ready for _Light Bringer_
+- _Understanding Exposure_ – Bryan Peterson (no-fiction)
 
 For a complete list of what I've been reading check out the [library](/library).
 
