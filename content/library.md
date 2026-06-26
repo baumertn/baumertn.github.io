@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-06-25
+date = 2026-06-26
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -47,7 +47,6 @@ See what I'm currently reading on my [/now page](/now)!
 ### Non-fiction
 | Title                                             | Author                | Note/Field                |
 |---------------------------------------------------|-----------------------|---------------------------|
-| Babbling Corpse                                   | Grafton Tanner        | History, Psychology, Tech |
 | Designing Data-Intensive Applications             | Martin Kleppmann      | Computer Science          |
 | Hacker's Delight                                  | Henry S. Warren       | Computer Science          |
 | The Bright Ages: A New History of Medieval Europe | Matthew Gabriele      | History                   |
@@ -60,7 +59,8 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
-| Understanding Exposure               | Bryan Peterson             | READING     | Photography                                                                        |
+| Babbling Corpse                      | Grafton Tanner             | READING     |                                                                                    |
+| Understanding Exposure               | Bryan Peterson             | READING     |                                                                                    |
 | Iron Gold                            | Pierce Brown               | READING     | Re-reading                                                                         |
 | A Philosophy of Software Design      | John Ousterhout            | 2026-06-25  |                                                                                    |
 | A Bride's Story (Vol. 15)            | Kaoru Mori                 | 2026-06-21  |                                                                                    |
