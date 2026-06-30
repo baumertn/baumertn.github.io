@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-06-28
+date = 2026-06-30
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -59,8 +59,8 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
-| Understanding Exposure               | Bryan Peterson             | READING     |                                                                                    |
 | Iron Gold                            | Pierce Brown               | READING     | Re-reading                                                                         |
+| Understanding Exposure               | Bryan Peterson             | 2026-06-30  |                                                                                    |
 | Babbling Corpse                      | Grafton Tanner             | 2026-06-28  |                                                                                    |
 | A Philosophy of Software Design      | John Ousterhout            | 2026-06-25  |                                                                                    |
 | A Bride's Story (Vol. 15)            | Kaoru Mori                 | 2026-06-21  |                                                                                    |
