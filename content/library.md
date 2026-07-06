@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-07-01
+date = 2026-07-06
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -48,7 +48,6 @@ See what I'm currently reading on my [/now page](/now)!
 | Title                                             | Author                | Note/Field                |
 |---------------------------------------------------|-----------------------|---------------------------|
 | Designing Data-Intensive Applications             | Martin Kleppmann      | Computer Science          |
-| Hacker's Delight                                  | Henry S. Warren       | Computer Science          |
 
 
 ## Finished books
