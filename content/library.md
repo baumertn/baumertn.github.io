@@ -58,7 +58,7 @@ Don't judge me too harshly for the selection of books over the years.
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
 | The Bright Ages                      | Matthew Gabriele           | READING     | „A New History of Medieval Europe“                                               |
-| Iron Gold                            | Pierce Brown               | 2026-06-10   | Re-reading                                                                         |
+| Iron Gold                            | Pierce Brown               | 2026-07-10   | Re-reading                                                                         |
 | Understanding Exposure               | Bryan Peterson             | 2026-06-30  |                                                                                    |
 | Babbling Corpse                      | Grafton Tanner             | 2026-06-28  |                                                                                    |
 | A Philosophy of Software Design      | John Ousterhout            | 2026-06-25  |                                                                                    |
