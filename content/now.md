@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-07-10
+date = 2026-07-11
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -23,7 +23,6 @@ draft = false
 
 ## Reading
 - Re-reading  _Dark Age_ by Pierce Brown to get ready for _Light Bringer_ (fiction)
-- _The Bright Ages_ – Matthew Gabriele (non-fiction)
 
 For a complete list of what I've been reading check out the [library](/library).
 
