@@ -57,7 +57,7 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
-| The Bright Ages                      | Matthew Gabriele           | 2026-07011  | „A New History of Medieval Europe“                                               |
+| The Bright Ages                      | Matthew Gabriele           | 2026-07-11  | „A New History of Medieval Europe“                                               |
 | Iron Gold                            | Pierce Brown               | 2026-07-10  | Re-reading                                                                         |
 | Understanding Exposure               | Bryan Peterson             | 2026-06-30  |                                                                                    |
 | Babbling Corpse                      | Grafton Tanner             | 2026-06-28  |                                                                                    |
