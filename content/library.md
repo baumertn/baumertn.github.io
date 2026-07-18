@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-07-11
+date = 2026-07-18
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -34,7 +34,6 @@ See what I'm currently reading on my [/now page](/now)!
 ### Fiction
 | Title                          | Author                | Released | Note                                  |
 |--------------------------------|-----------------------|----------|---------------------------------------|
-| A Canticle of Two Souls        | Steven Raaymakers     | Yes      |                                       |
 | Asunder                        | David Gaider          | Yes      | Dragon Age, #3                        |
 | Book of Night                  | Holly Black           | Yes      |                                       |
 | Gardens of the Moon            | Steven Erikson        | Yes      | Malazan Book of the Fallen, #1        |
@@ -57,7 +56,8 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
-| The Bright Ages                      | Matthew Gabriele           | 2026-07-11  | „A New History of Medieval Europe“                                               |
+| A Canticle of Two Souls              | Steven Raaymakers          | READING     |                                                                                    |
+| The Bright Ages                      | Matthew Gabriele           | 2026-07-11  | „A New History of Medieval Europe“                                                 |
 | Iron Gold                            | Pierce Brown               | 2026-07-10  | Re-reading                                                                         |
 | Understanding Exposure               | Bryan Peterson             | 2026-06-30  |                                                                                    |
 | Babbling Corpse                      | Grafton Tanner             | 2026-06-28  |                                                                                    |

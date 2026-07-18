@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-07-11
+date = 2026-07-18
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -23,11 +23,15 @@ draft = false
 
 ## Reading
 - Re-reading  _Dark Age_ by Pierce Brown to get ready for _Light Bringer_ (fiction)
+- _A Canticle of Two Souls_ – Steven Raaymakers (fiction)
 
 For a complete list of what I've been reading check out the [library](/library).
 
 <!-- ## Music -->
 
-<!-- ## Games -->
+## Games
+- _OPUS: Prism Peak_
+- _Crime Boss: Rockay City_ (mostly with friends)
+- _Z.A.T.O. // I Love the World and Everything In It_ (just finished, still on my mind)
 
 <!-- ## Film & Television -->
