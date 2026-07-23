@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-07-18
+date = 2026-07-23
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -56,7 +56,8 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
-| A Canticle of Two Souls              | Steven Raaymakers          | READING     |                                                                                    |
+| Dark Age                             | Pierce Brown               | READING     | Re-reading                                                                         |
+| A Canticle of Two Souls              | Steven Raaymakers          | 2026-07-23  | DNF                                                                                |
 | The Bright Ages                      | Matthew Gabriele           | 2026-07-11  | „A New History of Medieval Europe“                                                 |
 | Iron Gold                            | Pierce Brown               | 2026-07-10  | Re-reading                                                                         |
 | Understanding Exposure               | Bryan Peterson             | 2026-06-30  |                                                                                    |
