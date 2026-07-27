@@ -43,9 +43,11 @@ See what I'm currently reading on my [/now page](/now)!
 | Twelve Months                  | Jim  Butcher          | No       | The Dresden Files, #18                |
 | Victorious (Villains, #3)      | Victoria E. Schwab    | No       |                                       |
 
+<!--
 ### Non-fiction
 | Title                                             | Author                | Note/Field                |
 |---------------------------------------------------|-----------------------|---------------------------|
+-->
 
 
 ## Finished books
