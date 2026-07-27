@@ -46,7 +46,6 @@ See what I'm currently reading on my [/now page](/now)!
 ### Non-fiction
 | Title                                             | Author                | Note/Field                |
 |---------------------------------------------------|-----------------------|---------------------------|
-| Designing Data-Intensive Applications             | Martin Kleppmann      | Computer Science          |
 
 
 ## Finished books
@@ -56,6 +55,7 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
+| Designing Data-Intensive Applications| Martin Kleppmann           | READING     |                                                                                    |
 | Dark Age                             | Pierce Brown               | READING     | Re-reading                                                                         |
 | A Canticle of Two Souls              | Steven Raaymakers          | 2026-07-23  | DNF                                                                                |
 | The Bright Ages                      | Matthew Gabriele           | 2026-07-11  | „A New History of Medieval Europe“                                                 |

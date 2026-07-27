@@ -1,13 +1,13 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-07-26
+date = 2026-07-27
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
 readTime = false
 autonumber = false
 math = true
-tags = ["adventure", "music", "software", "tech", "writing", "now", "reading", "books", "tv", "film", "shows", "movies","games"]
+tags = ["adventure", "music", "software", "tech", "writing", "now", "reading", "books", "tv", "film", "shows", "movies", "games", "diy"]
 showTags = false
 hideBackToTop = false
 hidePagination = true
@@ -23,6 +23,7 @@ draft = false
 
 ## Reading
 - Re-reading  _Dark Age_ by Pierce Brown to get ready for _Light Bringer_ (fiction)
+- _Designing Data-Intensive Applications_ – Martin Kleppmann (non-fiction)
 
 For a complete list of what I've been reading check out the [library](/library).
 
@@ -30,6 +31,10 @@ For a complete list of what I've been reading check out the [library](/library).
 
 ## Games
 - _Crime Boss: Rockay City_ (mostly with friends)
-- _Order of the Sinking Star_ Demo
+- _Schrödinger's Call_
 
-<!-- ## Film & Television -->
+## Film & Television
+- Planning to see the new Avatar movie: _Avatar: Aang, The Last Airbender_
+
+## DIY
+- Kitchen renovation
