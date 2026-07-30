@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-07-27
+date = 2026-07-30
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -31,7 +31,7 @@ For a complete list of what I've been reading check out the [library](/library).
 
 ## Games
 - _Crime Boss: Rockay City_ (mostly with friends)
-- _Schrödinger's Call_
+- _D1AL-ogue_
 
 ## Film & Television
 - Planning to see the new Avatar movie: _Avatar: Aang, The Last Airbender_
