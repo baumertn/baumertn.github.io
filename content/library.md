@@ -59,6 +59,7 @@ Don't judge me too harshly for the selection of books over the years.
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
 | Designing Data-Intensive Applications| Martin Kleppmann           | READING     |                                                                                    |
 | Dark Age                             | Pierce Brown               | READING     | Re-reading                                                                         |
+| The Apothecary Diaries (Vol. 16)     | Hyuuga Natsu, Nanao Itsuki | 2026-08-07  |                                                                                    |
 | A Canticle of Two Souls              | Steven Raaymakers          | 2026-07-23  | DNF                                                                                |
 | The Bright Ages                      | Matthew Gabriele           | 2026-07-11  | „A New History of Medieval Europe“                                                 |
 | Iron Gold                            | Pierce Brown               | 2026-07-10  | Re-reading                                                                         |
