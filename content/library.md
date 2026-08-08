@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-07-23
+date = 2026-08-08
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
