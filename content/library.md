@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-08-08
+date = 2026-08-13
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -58,7 +58,7 @@ Don't judge me too harshly for the selection of books over the years.
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
 | Designing Data-Intensive Applications| Martin Kleppmann           | READING     |                                                                                    |
-| Dark Age                             | Pierce Brown               | READING     | Re-reading                                                                         |
+| Dark Age                             | Pierce Brown               | 2026-08-13  | Re-reading                                                                         |
 | The Apothecary Diaries (Vol. 16)     | Hyuuga Natsu, Nanao Itsuki | 2026-08-07  |                                                                                    |
 | A Canticle of Two Souls              | Steven Raaymakers          | 2026-07-23  | DNF                                                                                |
 | The Bright Ages                      | Matthew Gabriele           | 2026-07-11  | „A New History of Medieval Europe“                                                 |
