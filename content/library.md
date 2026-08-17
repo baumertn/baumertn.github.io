@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-08-13
+date = 2026-08-17
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -38,7 +38,6 @@ See what I'm currently reading on my [/now page](/now)!
 | Book of Night                  | Holly Black           | Yes      |                                       |
 | Gardens of the Moon            | Steven Erikson        | Yes      | Malazan Book of the Fallen, #1        |
 | Kreuzweg der Raben             | Andrzej Sapkowski     | Yes      | Hexer, #9                             |
-| Light Bringer                  | Pierce Brown          | Yes      | Red Rising Saga, #6                   |
 | Platform Decay                 | Martha Wells          | No       | The Murderbot Diaries, #8             |
 | Twelve Months                  | Jim  Butcher          | No       | The Dresden Files, #18                |
 | Victorious (Villains, #3)      | Victoria E. Schwab    | No       |                                       |
@@ -57,7 +56,8 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
-| Designing Data-Intensive Applications| Martin Kleppmann           | READING     |                                                                                    |
+| Light Bringer                        | Pierce Brown               | READING     | Red Rising Saga, #6                                                                |
+| Designing Data-Intensive Applications| Martin Kleppmann           | 2026-08-17  |                                                                                    |
 | Dark Age                             | Pierce Brown               | 2026-08-13  | Re-reading                                                                         |
 | The Apothecary Diaries (Vol. 16)     | Hyuuga Natsu, Nanao Itsuki | 2026-08-07  |                                                                                    |
 | A Canticle of Two Souls              | Steven Raaymakers          | 2026-07-23  | DNF                                                                                |

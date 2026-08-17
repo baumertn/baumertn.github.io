@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-08-13
+date = 2026-08-17
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -23,7 +23,6 @@ draft = false
 
 ## Reading
 - _Light Bringer_ – Pierce Brown (fiction)
-- _Designing Data-Intensive Applications_ – Martin Kleppmann (non-fiction)
 
 For a complete list of what I've been reading check out the [library](/library).
 
@@ -31,7 +30,7 @@ For a complete list of what I've been reading check out the [library](/library).
 
 ## Games
 - _Crime Boss: Rockay City_ (mostly with friends)
-- _Stray Gods: Orpheus_
+- _Persona 3 Reload: Episode Aigis_
 
 <!-- ## Film & Television -->
 
