@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-08-17
+date = 2026-08-19
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -56,6 +56,7 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
+| Made in Abyss                        | Akihito Tsukushi           | READING     |                                                                                    |
 | Light Bringer                        | Pierce Brown               | READING     | Red Rising Saga, #6                                                                |
 | Designing Data-Intensive Applications| Martin Kleppmann           | 2026-08-17  |                                                                                    |
 | Dark Age                             | Pierce Brown               | 2026-08-13  | Re-reading                                                                         |
