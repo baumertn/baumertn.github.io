@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-08-19
+date = 2026-08-21
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -32,7 +32,7 @@ For a complete list of what I've been reading check out the [library](/library).
 
 ## Games
 - _Crime Boss: Rockay City_ (mostly with friends)
-- _Persona 3 Reload: Episode Aigis_
+- _Growing Up_
 
 <!-- ## Film & Television -->
 
