@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-08-29
+date = 2026-08-31
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -32,22 +32,17 @@ See what I'm currently reading on my [/now page](/now)!
 
 
 ### Fiction
-| Title                          | Author                | Released | Note                                  |
-|--------------------------------|-----------------------|----------|---------------------------------------|
-| Asunder                        | David Gaider          | Yes      | Dragon Age, #3                        |
-| Book of Night                  | Holly Black           | Yes      |                                       |
-| Gardens of the Moon            | Steven Erikson        | Yes      | Malazan Book of the Fallen, #1        |
-| Kreuzweg der Raben             | Andrzej Sapkowski     | Yes      | Hexer, #9                             |
-| Platform Decay                 | Martha Wells          | No       | The Murderbot Diaries, #8             |
-| Twelve Months                  | Jim  Butcher          | No       | The Dresden Files, #18                |
-| Victorious (Villains, #3)      | Victoria E. Schwab    | No       |                                       |
+| Title                          | Author                | Note                                  |
+|--------------------------------|-----------------------|---------------------------------------|
+| Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                             |
+| Platform Decay                 | Martha Wells          | The Murderbot Diaries, #8             |
+| Victorious                     | Victoria E. Schwab    | Villains, #3                          |
 
-<!--
 ### Non-fiction
-| Title                                             | Author                | Note/Field                |
-|---------------------------------------------------|-----------------------|---------------------------|
--->
-
+| Title                                             | Author                 | Note/Field                |
+|---------------------------------------------------|------------------------|---------------------------|
+| Implementing Service Level Objectives             | Alex Hidalgo           | SRE                       |
+| Seeking SRE                                       | David N. Blank-Edelman | SRE                       |
 
 ## Finished books
 If I did read a book more than once, most likely the first date will be listed.
@@ -56,6 +51,7 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
+| Asunder                              | David Gaider               | READING     | Dragon Age, #3                                                                     |
 | Light Bringer                        | Pierce Brown               | 2026-08-29  | Red Rising Saga, #6                                                                |
 | Made in Abyss (Vol. 1–14)            | Akihito Tsukushi           | 2026-08-22  |                                                                                    |
 | Designing Data-Intensive Applications| Martin Kleppmann           | 2026-08-17  |                                                                                    |
