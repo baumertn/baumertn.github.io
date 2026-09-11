@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-09-06
+date = 2026-09-11
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -23,7 +23,6 @@ draft = false
 <!-- ## Adventure -->
 
 ## Reading
-- _Asunder_ – David Gaider
 
 For a complete list of what I've been reading check out the [library](/library).
 
@@ -31,7 +30,6 @@ For a complete list of what I've been reading check out the [library](/library).
 
 ## Games
 - _High Times_
-- Just finished: _Stellar Blade_
 
 <!-- ## Film & Television -->
 
