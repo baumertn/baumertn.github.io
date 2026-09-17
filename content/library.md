@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-09-11
+date = 2026-09-17
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -34,7 +34,6 @@ See what I'm currently reading on my [/now page](/now)!
 ### Fiction
 | Title                          | Author                | Note                                  |
 |--------------------------------|-----------------------|---------------------------------------|
-| Kreuzweg der Raben             | Andrzej Sapkowski     | Hexer, #9                             |
 | Platform Decay                 | Martha Wells          | The Murderbot Diaries, #8             |
 | Victorious                     | Victoria E. Schwab    | Villains, #3                          |
 
@@ -51,6 +50,7 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
+| Kreuzweg der Raben                   | Andrzej Sapkowski          | READING     | Hexer/Witcher, #9                                                                  |
 | Asunder                              | David Gaider               | 2026-09-08  | Dragon Age, #3                                                                     |
 | Light Bringer                        | Pierce Brown               | 2026-08-29  | Red Rising Saga, #6                                                                |
 | Made in Abyss (Vol. 1–14)            | Akihito Tsukushi           | 2026-08-22  |                                                                                    |
