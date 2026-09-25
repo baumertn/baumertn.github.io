@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-09-20
+date = 2026-09-25
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -15,7 +15,7 @@ draft = false
 +++
 
 ## Software & Tech
-- Implementing my new website in Go. I like the new look.
+- Implementing my new website in Go. I like the new look. Can't wait to show it off.
 - In the process of rebuilding the services on my homeserver with Ansible and Podman + Quadlets.
 
 ## Writing
@@ -24,14 +24,13 @@ draft = false
 <!-- ## Adventure -->
 
 ## Reading
-- _Kreuzweg der Raben_ – Andrzej Sapkowski (The Witcher #9)
 
 For a complete list of what I've been reading check out the [library](/library).
 
 <!-- ## Music -->
 
 ## Games
-- _Diablo IV_ – Let's see how it is. I played the open playtest and grabbed it for ~12€.
+- _Diablo IV_
 
 <!-- ## Film & Television -->
 

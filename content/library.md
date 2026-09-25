@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-09-17
+date = 2026-09-25
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -50,7 +50,7 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                | Author                     | Finished on | Note                                                                               |
 |--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
-| Kreuzweg der Raben                   | Andrzej Sapkowski          | READING     | Hexer/Witcher, #9                                                                  |
+| Kreuzweg der Raben                   | Andrzej Sapkowski          | 2026-09-24  | Hexer/Witcher, #9; Comfy read                                                      |
 | Asunder                              | David Gaider               | 2026-09-08  | Dragon Age, #3                                                                     |
 | Light Bringer                        | Pierce Brown               | 2026-08-29  | Red Rising Saga, #6                                                                |
 | Made in Abyss (Vol. 1–14)            | Akihito Tsukushi           | 2026-08-22  |                                                                                    |
