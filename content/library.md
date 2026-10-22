@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-09-25
+date = 2026-10-22
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -40,7 +40,6 @@ See what I'm currently reading on my [/now page](/now)!
 ### Non-fiction
 | Title                                             | Author                 | Note/Field                |
 |---------------------------------------------------|------------------------|---------------------------|
-| Implementing Service Level Objectives             | Alex Hidalgo           | SRE                       |
 | Seeking SRE                                       | David N. Blank-Edelman | SRE                       |
 
 ## Finished books
@@ -48,51 +47,52 @@ If I did read a book more than once, most likely the first date will be listed.
 Don't judge me too harshly for the selection of books over the years.
 
 ### 2026
-| Title                                | Author                     | Finished on | Note                                                                               |
-|--------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
-| Kreuzweg der Raben                   | Andrzej Sapkowski          | 2026-09-24  | Hexer/Witcher, #9; Comfy read                                                      |
-| Asunder                              | David Gaider               | 2026-09-08  | Dragon Age, #3                                                                     |
-| Light Bringer                        | Pierce Brown               | 2026-08-29  | Red Rising Saga, #6                                                                |
-| Made in Abyss (Vol. 1–14)            | Akihito Tsukushi           | 2026-08-22  |                                                                                    |
-| Designing Data-Intensive Applications| Martin Kleppmann           | 2026-08-17  |                                                                                    |
-| Dark Age                             | Pierce Brown               | 2026-08-13  | Re-reading                                                                         |
-| The Apothecary Diaries (Vol. 16)     | Hyuuga Natsu, Nanao Itsuki | 2026-08-07  |                                                                                    |
-| A Canticle of Two Souls              | Steven Raaymakers          | 2026-07-23  | DNF                                                                                |
-| The Bright Ages                      | Matthew Gabriele           | 2026-07-11  | „A New History of Medieval Europe“                                                 |
-| Iron Gold                            | Pierce Brown               | 2026-07-10  | Re-reading                                                                         |
-| Understanding Exposure               | Bryan Peterson             | 2026-06-30  |                                                                                    |
-| Babbling Corpse                      | Grafton Tanner             | 2026-06-28  |                                                                                    |
-| A Philosophy of Software Design      | John Ousterhout            | 2026-06-25  |                                                                                    |
-| A Bride's Story (Vol. 15)            | Kaoru Mori                 | 2026-06-21  |                                                                                    |
-| Verbrechen und Strafe                | Fyodor Dostoevsky          | 2026-06-12  | Crime and Punishment; German translation by Swetlana Geier                         |
-| System Collapse                      | Martha Wells               | 2026-05-19  | The Murderbot Diaries, #7                                                          |
-| The Fabric of Civilization           | Virginia Postrel           | 2026-05-18  | History of textiles & fabrics and all the innovations they triggerd.               |
-| Beneath the Trees Where Nobody Sees  | Patrick Horvath            | 2026-05-17  | Comic. Cute Artstyle vs gruesome subject matter. Nice, short read.                 |
-| The Apothecary Diaries (Vol. 1–15)   | Hyuuga Natsu, Nanao Itsuki | 2026-05-11  | Beautiful manga                                                                    |
-| The School of Essential Ingredients  | Erica Bauermeister         | 2026-05-06  |                                                                                    |
-| The Psychology of Money              | Morgan Housel              | 2026-05-03  | Finance; Nothing I did not already know                                            |
-| Witch Hat Atelier (Vol. 1–15)        | Shirahama Kamome           | 2026-04-30  | Beautiful manga about witches [mini-review](/posts/read-witch-hat-atelier)         |
-| The Mom Test                         | Rob Fitzpatrick            | 2026-04-21  |                                                                                    |
-| Our Dreams at Dusk                   | Yuhki Kamatani             | 2026-04-19  | A beautiful story of self discovery. [Mini-Review](/posts/read-our-dreams-at-dusk) |
-| Jujutsu Kaisen                       | Akutami Gege               | 2026-04-09  | [Mini-Review](/posts/read-jujutsu-kaisen/)                                         |
-| Happiness                            | Shūzō Oshimi               | 2026-03-15  | Better than previous work of the author I couldn't finish                          |
-| On Writing Well                      | William Zinsser            | 2026-03-13  | "The Classic Guide to Writing Nonfiction"                                          |
-| Emma                                 | Mori Kaoru                 | 2026-03-05  |                                                                                    |
-| Gilead                               | Marilynne Robinson         | 2026-02-28  | DNF, style didn't engage me                                                        |
-| Our Happy Hours                      | Yumi Tamura                | 2026-02-23  |                                                                                    |
-| Foster                               | Claire Keegan              | 2026-02-17  | Interesting, subdue worldbuilding                                                  |
-| Never Let Me Go                      | Kazuo Ishiguro             | 2026-02-16  |                                                                                    |
-| Strange Weather in Tokyo             | Hiromi Kawakami            | 2026-02-10  | A bit weird                                                                        |
-| The Sense of an Ending               | Julian Barnes              | 2026-02-07  |                                                                                    |
-| Tomorrow, and Tomorrow, and Tomorrow | Gabrielle Zevin            | 2026-02-04  |                                                                                    |
-| I Hear the Sunspot                   | Yuki Fumino                | 2026-02-01  |                                                                                    |
-| Atonement                            | Ian McEwan                 | 2026-01-29  |                                                                                    |
-| Plainsong                            | Kent Haruf                 | 2026-01-22  |                                                                                    |
-| Sunny                                | Matsumoto Taiyou           | 2026-01-15  |                                                                                    |
-| My Girl                              | Mizu Sahara                | 2026-01-13  | Beautiful father-daughter story                                                    |
-| The Gods Lie                         | Ozaki Kaori                | 2026-01-11  |                                                                                    |
-| March Comes in Like a Lion           | Umino Chica                | 2026-01-04  | Read up to chapter 32 (latest as of 2026-01)                                       |
-| Historié                             | Hitoshi Iwaaki             | 2026-01-02  | On hiatus. Read up to chapter 65 (latest as of 2026-01)                            |
+| Title                                 | Author                     | Finished on | Note                                                                               |
+|---------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
+| Implementing Service Level Objectives | Alex Hidalgo               | READING     | SRE                                                                                |
+| Kreuzweg der Raben                    | Andrzej Sapkowski          | 2026-09-24  | Hexer/Witcher, #9; Comfy read                                                      |
+| Asunder                               | David Gaider               | 2026-09-08  | Dragon Age, #3                                                                     |
+| Light Bringer                         | Pierce Brown               | 2026-08-29  | Red Rising Saga, #6                                                                |
+| Made in Abyss (Vol. 1–14)             | Akihito Tsukushi           | 2026-08-22  |                                                                                    |
+| Designing Data-Intensive Applications | Martin Kleppmann           | 2026-08-17  |                                                                                    |
+| Dark Age                              | Pierce Brown               | 2026-08-13  | Re-reading                                                                         |
+| The Apothecary Diaries (Vol. 16)      | Hyuuga Natsu, Nanao Itsuki | 2026-08-07  |                                                                                    |
+| A Canticle of Two Souls               | Steven Raaymakers          | 2026-07-23  | DNF                                                                                |
+| The Bright Ages                       | Matthew Gabriele           | 2026-07-11  | „A New History of Medieval Europe“                                                 |
+| Iron Gold                             | Pierce Brown               | 2026-07-10  | Re-reading                                                                         |
+| Understanding Exposure                | Bryan Peterson             | 2026-06-30  |                                                                                    |
+| Babbling Corpse                       | Grafton Tanner             | 2026-06-28  |                                                                                    |
+| A Philosophy of Software Design       | John Ousterhout            | 2026-06-25  |                                                                                    |
+| A Bride's Story (Vol. 15)             | Kaoru Mori                 | 2026-06-21  |                                                                                    |
+| Verbrechen und Strafe                 | Fyodor Dostoevsky          | 2026-06-12  | Crime and Punishment; German translation by Swetlana Geier                         |
+| System Collapse                       | Martha Wells               | 2026-05-19  | The Murderbot Diaries, #7                                                          |
+| The Fabric of Civilization            | Virginia Postrel           | 2026-05-18  | History of textiles & fabrics and all the innovations they triggerd.               |
+| Beneath the Trees Where Nobody Sees   | Patrick Horvath            | 2026-05-17  | Comic. Cute Artstyle vs gruesome subject matter. Nice, short read.                 |
+| The Apothecary Diaries (Vol. 1–15)    | Hyuuga Natsu, Nanao Itsuki | 2026-05-11  | Beautiful manga                                                                    |
+| The School of Essential Ingredients   | Erica Bauermeister         | 2026-05-06  |                                                                                    |
+| The Psychology of Money               | Morgan Housel              | 2026-05-03  | Finance; Nothing I did not already know                                            |
+| Witch Hat Atelier (Vol. 1–15)         | Shirahama Kamome           | 2026-04-30  | Beautiful manga about witches [mini-review](/posts/read-witch-hat-atelier)         |
+| The Mom Test                          | Rob Fitzpatrick            | 2026-04-21  |                                                                                    |
+| Our Dreams at Dusk                    | Yuhki Kamatani             | 2026-04-19  | A beautiful story of self discovery. [Mini-Review](/posts/read-our-dreams-at-dusk) |
+| Jujutsu Kaisen                        | Akutami Gege               | 2026-04-09  | [Mini-Review](/posts/read-jujutsu-kaisen/)                                         |
+| Happiness                             | Shūzō Oshimi               | 2026-03-15  | Better than previous work of the author I couldn't finish                          |
+| On Writing Well                       | William Zinsser            | 2026-03-13  | "The Classic Guide to Writing Nonfiction"                                          |
+| Emma                                  | Mori Kaoru                 | 2026-03-05  |                                                                                    |
+| Gilead                                | Marilynne Robinson         | 2026-02-28  | DNF, style didn't engage me                                                        |
+| Our Happy Hours                       | Yumi Tamura                | 2026-02-23  |                                                                                    |
+| Foster                                | Claire Keegan              | 2026-02-17  | Interesting, subdue worldbuilding                                                  |
+| Never Let Me Go                       | Kazuo Ishiguro             | 2026-02-16  |                                                                                    |
+| Strange Weather in Tokyo              | Hiromi Kawakami            | 2026-02-10  | A bit weird                                                                        |
+| The Sense of an Ending                | Julian Barnes              | 2026-02-07  |                                                                                    |
+| Tomorrow, and Tomorrow, and Tomorrow  | Gabrielle Zevin            | 2026-02-04  |                                                                                    |
+| I Hear the Sunspot                    | Yuki Fumino                | 2026-02-01  |                                                                                    |
+| Atonement                             | Ian McEwan                 | 2026-01-29  |                                                                                    |
+| Plainsong                             | Kent Haruf                 | 2026-01-22  |                                                                                    |
+| Sunny                                 | Matsumoto Taiyou           | 2026-01-15  |                                                                                    |
+| My Girl                               | Mizu Sahara                | 2026-01-13  | Beautiful father-daughter story                                                    |
+| The Gods Lie                          | Ozaki Kaori                | 2026-01-11  |                                                                                    |
+| March Comes in Like a Lion            | Umino Chica                | 2026-01-04  | Read up to chapter 32 (latest as of 2026-01)                                       |
+| Historié                              | Hitoshi Iwaaki             | 2026-01-02  | On hiatus. Read up to chapter 65 (latest as of 2026-01)                            |
 
 ### 2025
 | Title                                             | Author                                               | Finished on | Note                                                                 |
