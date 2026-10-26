@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-10-22
+date = 2026-10-26
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -34,13 +34,11 @@ See what I'm currently reading on my [/now page](/now)!
 ### Fiction
 | Title                          | Author                | Note                                  |
 |--------------------------------|-----------------------|---------------------------------------|
-| Platform Decay                 | Martha Wells          | The Murderbot Diaries, #8             |
-| Victorious                     | Victoria E. Schwab    | Villains, #3                          |
+| Hyperion                       | Dan Simmons           |                                       |
 
-### Non-fiction
-| Title                                             | Author                 | Note/Field                |
-|---------------------------------------------------|------------------------|---------------------------|
-| Seeking SRE                                       | David N. Blank-Edelman | SRE                       |
+<!-- ### Non-fiction -->
+<!-- | Title                                             | Author                 | Note/Field                | -->
+<!-- |---------------------------------------------------|------------------------|---------------------------| -->
 
 ## Finished books
 If I did read a book more than once, most likely the first date will be listed.
@@ -49,7 +47,8 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                 | Author                     | Finished on | Note                                                                               |
 |---------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
-| Implementing Service Level Objectives | Alex Hidalgo               | READING     | SRE                                                                                |
+| Platform Decay                        | Martha Wells               | READING     | The Murderbot Diaries, #8                                                          |
+| Implementing Service Level Objectives | Alex Hidalgo               | 2026-10-23  |                                                                                    |
 | Kreuzweg der Raben                    | Andrzej Sapkowski          | 2026-09-24  | Hexer/Witcher, #9; Comfy read                                                      |
 | Asunder                               | David Gaider               | 2026-09-08  | Dragon Age, #3                                                                     |
 | Light Bringer                         | Pierce Brown               | 2026-08-29  | Red Rising Saga, #6                                                                |

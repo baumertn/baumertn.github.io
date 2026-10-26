@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-10-22
+date = 2026-10-26
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -24,7 +24,7 @@ draft = false
 <!-- ## Adventure -->
 
 ## Reading
-- _Implementing Service Level Objectives_ – Alex Hidalgo
+- _Platform Decay_ – Martha Wells
 
 For a complete list of what I've been reading check out the [library](/library).
 
@@ -33,11 +33,12 @@ For a complete list of what I've been reading check out the [library](/library).
 ## Games
 - _Half Life 2_ (Replaying first time in years)
 - _Last Epoch_ (Second playthrough)
+- _Crusader Kings 3_
 
 ## Film & Television
-- _Cyberpunk: Edgerunners_ Season 2
-- _Avatar: Seven Havens_ Season 1
-- _Ranma 1/2_ Season 3
+- _Cyberpunk: Edgerunners_ (Season 2)
+- _Avatar: Seven Havens_ (Season 1)
+- _Ranma 1/2_ (Season 3)
 
 <!-- ## DIY -->
 
