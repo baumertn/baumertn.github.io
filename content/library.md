@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-10-26
+date = 2026-11-09
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -47,7 +47,7 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                 | Author                     | Finished on | Note                                                                               |
 |---------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
-| Platform Decay                        | Martha Wells               | READING     | The Murderbot Diaries, #8                                                          |
+| Platform Decay                        | Martha Wells               | 2026-11-05  | The Murderbot Diaries, #8                                                          |
 | Implementing Service Level Objectives | Alex Hidalgo               | 2026-10-23  |                                                                                    |
 | Kreuzweg der Raben                    | Andrzej Sapkowski          | 2026-09-24  | Hexer/Witcher, #9; Comfy read                                                      |
 | Asunder                               | David Gaider               | 2026-09-08  | Dragon Age, #3                                                                     |
