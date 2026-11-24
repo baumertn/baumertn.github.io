@@ -1,6 +1,6 @@
 +++
 title = 'What Niklas is doing now'
-date = 2026-11-16
+date = 2026-11-24
 summary = "All the things Niklas Baumert is currently up to."
 description = "A /now page containing what Niklas Baumert is currently up to."
 toc = true
@@ -26,6 +26,7 @@ draft = false
 <!-- ## Adventure -->
 
 ## Reading
+- _Berserk_ – Kentaro Miura (re-reading)
 
 For a complete list of what I've been reading check out the [library](/library).
 

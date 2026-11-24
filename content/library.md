@@ -1,6 +1,6 @@
 +++
 title = 'Library'
-date = 2026-11-23
+date = 2026-11-24
 summary = "A probably incomplete list of all the books I have read."
 description = "A probably incomplete list of all the books I have read."
 toc = true
@@ -47,6 +47,7 @@ Don't judge me too harshly for the selection of books over the years.
 ### 2026
 | Title                                   | Author                     | Finished on | Note                                                                               |
 |-----------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------|
+| Berserk, Deluxe Vol. 1                  | Kentaro Miura              | READING     | Re-reading                                                                         |
 | The Apothecary Diaries: Xiaolan's Story | Hyuuga Natsu, Nanao Itsuki | 2026-11-22  | Dropped after volume 1. It's okay. Did not engage me as much as the main story.    |
 | Platform Decay                          | Martha Wells               | 2026-11-05  | The Murderbot Diaries, #8                                                          |
 | Implementing Service Level Objectives   | Alex Hidalgo               | 2026-10-23  |                                                                                    |
